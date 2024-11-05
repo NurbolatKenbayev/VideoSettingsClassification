@@ -1,0 +1,22 @@
+2024-11-05 06:53:14,827 - process_2192913 - INFO - 
+Classifying settings for Scene 3 with 1 frames. 
+
+2024-11-05 06:53:15,657 - process_2192913 - INFO - 
+Predicted setting 'game menu: pause menu' for frame 'frames/scene_3_frame_200.jpg' with caption: 
+'The image shows a screenshot from a video game, likely Minecraft. In the foreground is the game menu with options such as “Back to Game,” “Advancements,” “Statistics,” and others. The menu is overlaid on a game scene, which includes grassy terrain and what appears to be a small structure or part of a village on the left side. The background shows a flat landscape with a few bushes or small trees. At the top, there is text indicating a "World record" time of 1:56. The hearts at the bottom suggest the player's health status in the game.' 
+
+2024-11-05 06:53:15,657 - process_2192913 - INFO - 
+Completed setting classification for Scene 3. 
+
+2024-11-05 06:53:15,657 - process_2192913 - INFO - 
+Classifying settings for Scene 33 with 1 frames. 
+
+2024-11-05 06:53:16,231 - process_2192913 - INFO - 
+Predicted setting 'end: the end' for frame 'frames/scene_33_frame_3009.jpg' with caption: 
+'This image appears to be a screenshot from the game Minecraft, specifically in the End dimension. The environment is dark and features black stone blocks typical of the End. The player seems to be engaged in a battle with the Ender Dragon, as indicated by the dragon's health bar at the top of the screen. There are green wireframe graphics visible, which are likely hitboxes or a debug overlay.
+
+The area is surrounded by flames, possibly from the dragon's attacks. The player’s inventory is visible at the bottom and shows minimal health and hunger bars, suggesting a critical situation. The text at the top mentions a "World record" with a time of 1:56, indicating a speedrunning attempt.' 
+
+2024-11-05 06:53:16,231 - process_2192913 - INFO - 
+Completed setting classification for Scene 33. 
+

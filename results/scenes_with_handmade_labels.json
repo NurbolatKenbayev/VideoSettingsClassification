@@ -1,0 +1,648 @@
+[
+    {
+        "start_timecode": "00:00:00.000",
+        "end_timecode": "00:00:01.458",
+        "start_seconds": 0.0,
+        "end_seconds": 1.458333325777202,
+        "start_frame": 0,
+        "end_frame": 35,
+        "cut_scene_number": 1,
+        "frame_paths": [
+            "frames/scene_1_frame_0.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_1_frame_0.jpg",
+                "caption": "The image shows a digital interface featuring a block with a rotation option highlighted. Above the block, text reads \"World record 1:56,\" suggesting a recorded time achievement.",
+                "setting": "game menu: loading screen"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:01.458",
+        "end_timecode": "00:00:08.333",
+        "start_seconds": 1.458333325777202,
+        "end_seconds": 8.33333329015544,
+        "start_frame": 35,
+        "end_frame": 200,
+        "cut_scene_number": 2,
+        "frame_paths": [
+            "frames/scene_2_frame_35.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_2_frame_35.jpg",
+                "caption": "The image shows a digital interface with a label that reads \"World record 1:56\" at the top. Below, there is a square area labeled \"100%\" with a cursor pointing to it. There is an option marked \"Rotation\" visible as well.",
+                "setting": "game menu: loading screen"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:08.333",
+        "end_timecode": "00:00:10.250",
+        "start_seconds": 8.33333329015544,
+        "end_seconds": 10.249999946891192,
+        "start_frame": 200,
+        "end_frame": 246,
+        "cut_scene_number": 3,
+        "frame_paths": [
+            "frames/scene_3_frame_200.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_3_frame_200.jpg",
+                "caption": "The image shows a screenshot from the game Minecraft. The game menu is open, displaying options such as \"Back to Game,\" \"Advancements,\" \"Statistics,\" \"Give Feedback,\" \"Report Bugs,\" \"Options,\" \"Open to LAN,\" and \"Save and Quit to Title.\" Text at the top reads \"World record 1:56.\"",
+                "setting": "game menu: pause menu"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:10.250",
+        "end_timecode": "00:00:11.708",
+        "start_seconds": 10.249999946891192,
+        "end_seconds": 11.708333272668394,
+        "start_frame": 246,
+        "end_frame": 281,
+        "cut_scene_number": 4,
+        "frame_paths": [
+            "frames/scene_4_frame_246.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_4_frame_246.jpg",
+                "caption": "The image shows a paused screen from the game Minecraft. The game's menu options are displayed, including \"Back to Game,\" \"Advancements,\" \"Statistics,\" \"Give Feedback,\" \"Report Bugs,\" \"Options,\" \"Open to LAN,\" and \"Save and Quit to Title.\" The screen also reads \"World record 1:56\" at the top.",
+                "setting": "game menu: pause menu"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:11.708",
+        "end_timecode": "00:00:12.958",
+        "start_seconds": 11.708333272668394,
+        "end_seconds": 12.95833326619171,
+        "start_frame": 281,
+        "end_frame": 311,
+        "cut_scene_number": 5,
+        "frame_paths": [
+            "frames/scene_5_frame_281.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_5_frame_281.jpg",
+                "caption": "This image shows a screenshot from the game Minecraft. It includes a view of grass, a building, and a player's HUD with health and hunger bars. The text at the top reads \"World record 1:56.\"",
+                "setting": "overworld: plains"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:12.958",
+        "end_timecode": "00:00:14.000",
+        "start_seconds": 12.95833326619171,
+        "end_seconds": 13.99999992746114,
+        "start_frame": 311,
+        "end_frame": 336,
+        "cut_scene_number": 6,
+        "frame_paths": [
+            "frames/scene_6_frame_311.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_6_frame_311.jpg",
+                "caption": "This image is from the game Minecraft. It shows a first-person perspective of a player character in a cobblestone or stone hallway with wooden doors. The interface at the bottom indicates health and inventory. The text \"World record 1:56\" suggests a speedrun attempt or achievement.",
+                "setting": "overworld: village"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:14.000",
+        "end_timecode": "00:00:18.500",
+        "start_seconds": 13.99999992746114,
+        "end_seconds": 18.499999904145078,
+        "start_frame": 336,
+        "end_frame": 444,
+        "cut_scene_number": 7,
+        "frame_paths": [
+            "frames/scene_7_frame_336.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_7_frame_336.jpg",
+                "caption": "This is a screenshot from the game Minecraft, showing a player’s perspective in a grassy area near a house. The on-screen text indicates a \"World record 1:56,\" suggesting a speedrun attempt. The inventory bar shows a pickaxe, and there are in-game messages about advancements.",
+                "setting": "overworld: village"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:18.500",
+        "end_timecode": "00:00:20.750",
+        "start_seconds": 18.499999904145078,
+        "end_seconds": 20.749999892487047,
+        "start_frame": 444,
+        "end_frame": 498,
+        "cut_scene_number": 8,
+        "frame_paths": [
+            "frames/scene_8_frame_444.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_8_frame_444.jpg",
+                "caption": "This image is a screenshot from the game Minecraft. It displays the player's interface showing hearts, hunger, and inventory, including an iron pickaxe. The screen also shows gameplay advancements like \"Ice Bucket Challenge\" and \"Isn't It Iron Pick.\" The text \"World record 1:56\" is overlaid at the top, suggesting a speedrun or accomplishment in the game. In the background, there is a small structure, possibly a village building.",
+                "setting": "overworld: village"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:20.750",
+        "end_timecode": "00:00:22.167",
+        "start_seconds": 20.749999892487047,
+        "end_seconds": 22.16666655181347,
+        "start_frame": 498,
+        "end_frame": 532,
+        "cut_scene_number": 9,
+        "frame_paths": [
+            "frames/scene_9_frame_498.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_9_frame_498.jpg",
+                "caption": "This image is a screenshot of a Minecraft game. It shows a player holding a pickaxe, interacting with a villager near a door. The game interface displays health, inventory, and achievements. The text \"World record 1:56\" is at the top.",
+                "setting": "overworld: village"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:22.167",
+        "end_timecode": "00:00:24.792",
+        "start_seconds": 22.16666655181347,
+        "end_seconds": 24.791666538212436,
+        "start_frame": 532,
+        "end_frame": 595,
+        "cut_scene_number": 10,
+        "frame_paths": [
+            "frames/scene_10_frame_532.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_10_frame_532.jpg",
+                "caption": "This is a screenshot from the game Minecraft. It shows the player's HUD, including health and hunger bars, inventory, and a notification about recipe advancements. It seems to highlight a speedrun achievement with the text \"World record 1:56\" overlaid on the image. The scene appears to be in a village area within the game.",
+                "setting": "overworld: village"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:24.792",
+        "end_timecode": "00:00:25.708",
+        "start_seconds": 24.791666538212436,
+        "end_seconds": 25.708333200129534,
+        "start_frame": 595,
+        "end_frame": 617,
+        "cut_scene_number": 11,
+        "frame_paths": [
+            "frames/scene_11_frame_595.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_11_frame_595.jpg",
+                "caption": "This image is a screenshot from the game Minecraft. It shows a player's first-person view inside a building with stone and wood elements. The player's inventory shows a bed and a pickaxe. The health bar is visible at the bottom. There is a text overlay at the top that reads \"World record 1:56,\" indicating a gaming achievement. A notification in the game mentions \"New Recipes Unlocked.\"",
+                "setting": "overworld: village"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:25.708",
+        "end_timecode": "00:00:33.583",
+        "start_seconds": 25.708333200129534,
+        "end_seconds": 33.58333315932642,
+        "start_frame": 617,
+        "end_frame": 806,
+        "cut_scene_number": 12,
+        "frame_paths": [
+            "frames/scene_12_frame_617.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_12_frame_617.jpg",
+                "caption": "This image is a screenshot from the game Minecraft. It shows a first-person view of the player standing inside a stone building with an open wooden door. There is a Minecraft village visible outside. The HUD displays health and hunger bars and items in the inventory including a pickaxe, a bed, and other blocks. The text \"World record 1:56\" is at the top, and there's a notification about new recipes being unlocked.",
+                "setting": "overworld: village"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:33.583",
+        "end_timecode": "00:00:34.375",
+        "start_seconds": 33.58333315932642,
+        "end_seconds": 34.374999821891194,
+        "start_frame": 806,
+        "end_frame": 825,
+        "cut_scene_number": 13,
+        "frame_paths": [
+            "frames/scene_13_frame_806.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_13_frame_806.jpg",
+                "caption": "This image shows a screenshot from the game Minecraft. The player is looking at a wooden structure with obsidian blocks, and there are game notifications on the right side about unlocking new recipes and making an advancement (\"Acquire Hardware\"). At the top of the image, the text reads \"World record 1:56,\" indicating a fast completion time. The player's inventory is visible at the bottom, displaying items like iron ingots and gold bars.",
+                "setting": "overworld: village"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:34.375",
+        "end_timecode": "00:00:39.625",
+        "start_seconds": 34.374999821891194,
+        "end_seconds": 39.62499979468912,
+        "start_frame": 825,
+        "end_frame": 951,
+        "cut_scene_number": 14,
+        "frame_paths": [
+            "frames/scene_14_frame_825.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_14_frame_825.jpg",
+                "caption": "This image is a screenshot from the video game Minecraft. It shows the game's user interface, including the player's inventory bar with items like iron ingots, a pickaxe, and obsidian. The screen displays messages indicating an advancement made (\"Acquire Hardware\"), and text at the top reads \"World record 1:56,\" suggesting a speedrun or timed achievement context.",
+                "setting": "overworld: forest"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:39.625",
+        "end_timecode": "00:00:40.333",
+        "start_seconds": 39.62499979468912,
+        "end_seconds": 40.33333312435233,
+        "start_frame": 951,
+        "end_frame": 968,
+        "cut_scene_number": 15,
+        "frame_paths": [
+            "frames/scene_15_frame_951.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_15_frame_951.jpg",
+                "caption": "The image shows a screenshot from the game Minecraft. It displays the player's inventory and crafting interface. In the game, the player has recently unlocked the \"Stone Age\" achievement. The caption at the top reads \"World record 1:56\", indicating a speedrun time.",
+                "setting": "game menu: inventory screen"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:40.333",
+        "end_timecode": "00:00:45.292",
+        "start_seconds": 40.33333312435233,
+        "end_seconds": 45.29166643199482,
+        "start_frame": 968,
+        "end_frame": 1087,
+        "cut_scene_number": 16,
+        "frame_paths": [
+            "frames/scene_16_frame_968.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_16_frame_968.jpg",
+                "caption": "The image is a screenshot from the game Minecraft. It shows the game interface with a player building or interacting with a portal made of obsidian blocks. Various game notifications are visible, such as \"New Recipes Unlocked\" and \"Advancement Made! Stone Age.\" The words \"World record 1:56\" are displayed at the top, suggesting a focus on speedrunning.",
+                "setting": "other: nether portal"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:45.292",
+        "end_timecode": "00:00:48.500",
+        "start_seconds": 45.29166643199482,
+        "end_seconds": 48.49999974870466,
+        "start_frame": 1087,
+        "end_frame": 1164,
+        "cut_scene_number": 17,
+        "frame_paths": [
+            "frames/scene_17_frame_1087.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_17_frame_1087.jpg",
+                "caption": "This image is a screenshot from a game of Minecraft. It displays a player in the Nether dimension, with a hotbar showing various items like cobblestone and tools. The text \"World record 1:56\" is at the top, indicating a speedrun attempt. The chat message mentions an advancement: \"We Need to Go Deeper.\"",
+                "setting": "nether: nether wastes"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:48.500",
+        "end_timecode": "00:00:54.458",
+        "start_seconds": 48.49999974870466,
+        "end_seconds": 54.4583330511658,
+        "start_frame": 1164,
+        "end_frame": 1307,
+        "cut_scene_number": 18,
+        "frame_paths": [
+            "frames/scene_18_frame_1164.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_18_frame_1164.jpg",
+                "caption": "This image shows a screenshot from the game Minecraft. The player appears to be in the Nether dimension, as indicated by the reddish blocks typical of that area. The text shows an \"advancement made\" called \"We Need to Go Deeper,\" which is achieved by entering the Nether. Above, it's labeled \"World record 1:56,\" suggesting a timed challenge or speedrun. The player's inventory contains items like a gold bar, bed, iron ingot, cobblestone, and tools.",
+                "setting": "nether: nether wastes"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:54.458",
+        "end_timecode": "00:01:09.375",
+        "start_seconds": 54.4583330511658,
+        "end_seconds": 69.37499964054403,
+        "start_frame": 1307,
+        "end_frame": 1665,
+        "cut_scene_number": 19,
+        "frame_paths": [
+            "frames/scene_19_frame_1307.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_19_frame_1307.jpg",
+                "caption": "The image shows a screenshot from the video game Minecraft. The player is in an underground or cave-like environment with a red and gray color scheme. A bar at the top of the image reads \"World record 1:56,\" suggesting it might pertain to a speedrunning challenge. At the bottom, the player's inventory is visible, showing items like a pickaxe, beds, and a flint and steel. Hearts and hunger bars indicate the player's health and hunger levels.",
+                "setting": "nether: nether wastes"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:09.375",
+        "end_timecode": "00:01:10.500",
+        "start_seconds": 69.37499964054403,
+        "end_seconds": 70.49999963471502,
+        "start_frame": 1665,
+        "end_frame": 1692,
+        "cut_scene_number": 20,
+        "frame_paths": [
+            "frames/scene_20_frame_1665.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_20_frame_1665.jpg",
+                "caption": "This image shows a screenshot from the game Minecraft. It appears to be a moment in a speedrun attempt, with the player's inventory visible at the bottom of the screen. The text at the top reads \"World record 1:56,\" likely indicating a record time for a specific challenge or objective in the game. The in-game scene includes obsidian blocks and a Nether environment.",
+                "setting": "nether: nether wastes"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:10.500",
+        "end_timecode": "00:01:11.292",
+        "start_seconds": 70.49999963471502,
+        "end_seconds": 71.29166629727979,
+        "start_frame": 1692,
+        "end_frame": 1711,
+        "cut_scene_number": 21,
+        "frame_paths": [
+            "frames/scene_21_frame_1692.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_21_frame_1692.jpg",
+                "caption": "The image shows a screenshot from the video game Minecraft. The player's interface is visible with tools and items in the hotbar, including a pickaxe and beds. The scene appears to be set in the Nether, a dimension in Minecraft. Text at the top reads \"World record 1:56,\" suggesting a speedrunning achievement or attempt.",
+                "setting": "nether: nether wastes"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:11.292",
+        "end_timecode": "00:01:15.167",
+        "start_seconds": 71.29166629727979,
+        "end_seconds": 75.16666627720207,
+        "start_frame": 1711,
+        "end_frame": 1804,
+        "cut_scene_number": 22,
+        "frame_paths": [
+            "frames/scene_22_frame_1711.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_22_frame_1711.jpg",
+                "caption": "This image is a screenshot from the video game Minecraft. It shows the player inside a Nether portal. The in-game character's health and inventory are visible, displaying some items like a pickaxe, gold, and iron. The text \"World record 1:56\" is at the top, suggesting a speedrunning achievement.",
+                "setting": "other: nether portal"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:15.167",
+        "end_timecode": "00:01:16.958",
+        "start_seconds": 75.16666627720207,
+        "end_seconds": 76.95833293458548,
+        "start_frame": 1804,
+        "end_frame": 1847,
+        "cut_scene_number": 23,
+        "frame_paths": [
+            "frames/scene_23_frame_1804.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_23_frame_1804.jpg",
+                "caption": "The image shows a screen from Minecraft with the text \"Loading terrain...\" on it. At the top, it says \"World record 1:56.\"",
+                "setting": "game menu: loading screen"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:16.958",
+        "end_timecode": "00:01:20.417",
+        "start_seconds": 76.95833293458548,
+        "end_seconds": 80.41666624999999,
+        "start_frame": 1847,
+        "end_frame": 1930,
+        "cut_scene_number": 24,
+        "frame_paths": [
+            "frames/scene_24_frame_1847.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_24_frame_1847.jpg",
+                "caption": "This is a screenshot from the game \"Minecraft.\" It shows a player with the username \"josh\" who has achieved the \"Eye Spy\" advancement. The inventory bar and health/food status are visible. The text \"World record 1:56\" is at the top, indicating a speedrun achievement.",
+                "setting": "end: the end"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:20.417",
+        "end_timecode": "00:01:39.250",
+        "start_seconds": 80.41666624999999,
+        "end_seconds": 99.24999948575129,
+        "start_frame": 1930,
+        "end_frame": 2382,
+        "cut_scene_number": 25,
+        "frame_paths": [
+            "frames/scene_25_frame_1930.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_25_frame_1930.jpg",
+                "caption": "This image appears to be a screenshot from the game Minecraft. It shows a player's first-person view inside a room made of End Stone with an obsidian floor. There's a game interface displaying the health, inventory, and an achievement titled \"Eye Spy,\" indicating an action taken in the game. The text \"World record 1:56\" suggests this is a speedrun attempt.",
+                "setting": "end: the end"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:39.250",
+        "end_timecode": "00:01:44.292",
+        "start_seconds": 99.24999948575129,
+        "end_seconds": 104.29166612629534,
+        "start_frame": 2382,
+        "end_frame": 2503,
+        "cut_scene_number": 26,
+        "frame_paths": [
+            "frames/scene_26_frame_2382.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_26_frame_2382.jpg",
+                "caption": "This image appears to be a screenshot from the game Minecraft. It shows a player’s perspective holding a pickaxe, with the health and hunger bars visible. There is a hotbar at the bottom with items like beds and a pickaxe. The text \"World record 1:56\" is at the top, possibly indicating a speedrun time. The Ender Dragon's health bar is visible at the top, suggesting this is from the final fight in the game.",
+                "setting": "end: the end"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:44.292",
+        "end_timecode": "00:01:50.833",
+        "start_seconds": 104.29166612629534,
+        "end_seconds": 110.83333275906736,
+        "start_frame": 2503,
+        "end_frame": 2660,
+        "cut_scene_number": 27,
+        "frame_paths": [
+            "frames/scene_27_frame_2503.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_27_frame_2503.jpg",
+                "caption": "The image shows a screenshot from a Minecraft game. It appears to be in the End dimension, with the player facing the Ender Dragon, indicated by the health bar at the top. The player's inventory is visible, showing items like beds and a pickaxe. The top text suggests a speedrunning context with the words \"World record 1:56.\"",
+                "setting": "end: the end"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:50.833",
+        "end_timecode": "00:01:54.458",
+        "start_seconds": 110.83333275906736,
+        "end_seconds": 114.45833274028497,
+        "start_frame": 2660,
+        "end_frame": 2747,
+        "cut_scene_number": 28,
+        "frame_paths": [
+            "frames/scene_28_frame_2660.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_28_frame_2660.jpg",
+                "caption": "This image is a screenshot from the game Minecraft. It shows a player using a yellow bed, likely in an attempt to defeat the Ender Dragon, which is indicated by the health bar labeled \"Ender Dragon\" at the top. The text \"World record 1:56\" suggests a speedrunning attempt to defeat the Ender Dragon quickly. The player's health and inventory are visible at the bottom of the screen.",
+                "setting": "end: the end"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:54.458",
+        "end_timecode": "00:02:01.167",
+        "start_seconds": 114.45833274028497,
+        "end_seconds": 121.1666660388601,
+        "start_frame": 2747,
+        "end_frame": 2908,
+        "cut_scene_number": 29,
+        "frame_paths": [
+            "frames/scene_29_frame_2747.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_29_frame_2747.jpg",
+                "caption": "This image shows a screenshot from the game Minecraft. It displays a player's viewpoint in the End dimension, where they're fighting the Ender Dragon. The inventory bar shows various items, and the overlay text indicates a \"World record\" time of 1:56.",
+                "setting": "end: the end"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:01.167",
+        "end_timecode": "00:02:03.375",
+        "start_seconds": 121.1666660388601,
+        "end_seconds": 123.37499936075129,
+        "start_frame": 2908,
+        "end_frame": 2961,
+        "cut_scene_number": 30,
+        "frame_paths": [
+            "frames/scene_30_frame_2908.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_30_frame_2908.jpg",
+                "caption": "This image is a screenshot from a video game, likely Minecraft. The player is in a dark environment, facing an Ender Dragon. The HUD (heads-up display) shows the player with minimal health and holding a yellow bed. Various lines and grids are overlaid on the screen for navigation or debugging purposes. Text at the top indicates this was part of a speedrun attempt, with a time of 1:56 labeled as a \"World record.\"",
+                "setting": "end: the end"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:03.375",
+        "end_timecode": "00:02:04.167",
+        "start_seconds": 123.37499936075129,
+        "end_seconds": 124.16666602331605,
+        "start_frame": 2961,
+        "end_frame": 2980,
+        "cut_scene_number": 31,
+        "frame_paths": [
+            "frames/scene_31_frame_2961.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_31_frame_2961.jpg",
+                "caption": "The image shows a screenshot from the video game Minecraft, where a player is battling the Ender Dragon. The screen includes a user interface with health indicators and inventory items. The text at the top reads \"World record 1:56,\" suggesting a speedrun or achievement context.",
+                "setting": "end: the end"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:04.167",
+        "end_timecode": "00:02:05.375",
+        "start_seconds": 124.16666602331605,
+        "end_seconds": 125.37499935038859,
+        "start_frame": 2980,
+        "end_frame": 3009,
+        "cut_scene_number": 32,
+        "frame_paths": [
+            "frames/scene_32_frame_2980.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_32_frame_2980.jpg",
+                "caption": "The image shows a screenshot from the game Minecraft, depicting a player's interface during combat with the Ender Dragon in the End dimension. The health bar of the Ender Dragon is visible, and the player's health is low. There's fire on the screen, suggesting action or damage. The text \"World record\" and \"1:56\" indicates a speedrun attempt or achievement.",
+                "setting": "end: the end"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:05.375",
+        "end_timecode": "00:02:07.083",
+        "start_seconds": 125.37499935038859,
+        "end_seconds": 127.08333267487046,
+        "start_frame": 3009,
+        "end_frame": 3050,
+        "cut_scene_number": 33,
+        "frame_paths": [
+            "frames/scene_33_frame_3009.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_33_frame_3009.jpg",
+                "caption": "This is a screenshot from the game Minecraft. It shows a player confronting the Ender Dragon, indicated by the dragon's name and health bar at the top. The scene includes fire and a player's health and inventory at the bottom. The text \"World record 1:56\" suggests it might be part of a speedrunning attempt.",
+                "setting": "end: the end"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:07.083",
+        "end_timecode": "00:02:08.667",
+        "start_seconds": 127.08333267487046,
+        "end_seconds": 128.666666,
+        "start_frame": 3050,
+        "end_frame": 3088,
+        "cut_scene_number": 34,
+        "frame_paths": [
+            "frames/scene_34_frame_3050.jpg"
+        ],
+        "captions": [
+            {
+                "frame_path": "frames/scene_34_frame_3050.jpg",
+                "caption": "This image shows a screenshot from the game \"Minecraft,\" displaying the in-game menu with options like \"Back to Game,\" \"Advancements,\" \"Statistics,\" and others. The background appears to show gameplay involving the Ender Dragon. At the top, it says \"World record\" with a time of \"1:56.\"",
+                "setting": "game menu: pause menu"
+            }
+        ]
+    }
+]

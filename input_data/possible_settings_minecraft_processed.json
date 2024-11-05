@@ -1,0 +1,13 @@
+{
+    "Game Menu: Loading Screen": "The screen where players can select, create, or delete worlds.",
+    "Game Menu: Pause Menu": "The in-game menu where players can access options like “Resume,” “Settings,” and “Quit to Title.”.",
+    "Game Menu: Inventory Screen": "The player’s main interface for managing items, crafting, and equipping gear.",
+    "Overworld: Plains": "Flat, grassy areas, often where villages spawn.",
+    "Overworld: Forest": "A forest.",
+    "Overworld: Village": "Settlements with various buildings and villagers.",
+    "Nether: Nether Wastes": "Classic Nether terrain with Netherrack and lava.",
+    "End: The End": "Main End biome with End Stone and the Ender Dragon.",
+    "Other: Nether Portal": "Portal to the Nether either in Overworld or in Nether."
+}
+
+

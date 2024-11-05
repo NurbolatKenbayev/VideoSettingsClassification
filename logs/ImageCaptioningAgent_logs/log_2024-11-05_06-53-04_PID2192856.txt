@@ -1,0 +1,18 @@
+2024-11-05 06:53:04,789 - process_2192856 - INFO - 
+Generating captions for Scene 24 with 1 frames. 
+
+2024-11-05 06:53:08,635 - process_2192856 - INFO - 
+Generated caption for frame frames/scene_24_frame_1847.jpg 
+
+2024-11-05 06:53:08,635 - process_2192856 - INFO - 
+Completed caption generation for Scene 24. 
+
+2024-11-05 06:53:08,636 - process_2192856 - INFO - 
+Generating captions for Scene 29 with 1 frames. 
+
+2024-11-05 06:53:11,828 - process_2192856 - INFO - 
+Generated caption for frame frames/scene_29_frame_2747.jpg 
+
+2024-11-05 06:53:11,828 - process_2192856 - INFO - 
+Completed caption generation for Scene 29. 
+

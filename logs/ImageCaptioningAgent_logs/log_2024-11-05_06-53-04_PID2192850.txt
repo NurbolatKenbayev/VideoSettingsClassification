@@ -1,0 +1,9 @@
+2024-11-05 06:53:04,789 - process_2192850 - INFO - 
+Generating captions for Scene 18 with 1 frames. 
+
+2024-11-05 06:53:10,251 - process_2192850 - INFO - 
+Generated caption for frame frames/scene_18_frame_1164.jpg 
+
+2024-11-05 06:53:10,252 - process_2192850 - INFO - 
+Completed caption generation for Scene 18. 
+

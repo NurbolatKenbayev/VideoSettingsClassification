@@ -1,0 +1,9 @@
+2024-11-05 06:53:04,789 - process_2192855 - INFO - 
+Generating captions for Scene 23 with 1 frames. 
+
+2024-11-05 06:53:09,675 - process_2192855 - INFO - 
+Generated caption for frame frames/scene_23_frame_1804.jpg 
+
+2024-11-05 06:53:09,675 - process_2192855 - INFO - 
+Completed caption generation for Scene 23. 
+

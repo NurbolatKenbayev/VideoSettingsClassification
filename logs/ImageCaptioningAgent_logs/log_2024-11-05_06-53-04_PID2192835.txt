@@ -1,0 +1,9 @@
+2024-11-05 06:53:04,783 - process_2192835 - INFO - 
+Generating captions for Scene 3 with 1 frames. 
+
+2024-11-05 06:53:11,808 - process_2192835 - INFO - 
+Generated caption for frame frames/scene_3_frame_200.jpg 
+
+2024-11-05 06:53:11,808 - process_2192835 - INFO - 
+Completed caption generation for Scene 3. 
+

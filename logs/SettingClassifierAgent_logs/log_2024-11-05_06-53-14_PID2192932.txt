@@ -1,0 +1,20 @@
+2024-11-05 06:53:14,836 - process_2192932 - INFO - 
+Classifying settings for Scene 22 with 1 frames. 
+
+2024-11-05 06:53:15,612 - process_2192932 - INFO - 
+Predicted setting 'other: nether portal' for frame 'frames/scene_22_frame_1711.jpg' with caption: 
+'The image shows a screenshot from the video game Minecraft. The player is in a purple portal, likely entering or exiting the Nether, which is a dimension in the game. At the top, there is text labeled "World record 1:56," indicating a speedrun or timed achievement. The player's inventory bar at the bottom includes several items: a pickaxe, beds, and one or two other unidentified items. The health status shows two and a half hearts, and the hunger bar is almost full. The name "josh" appears above the hotbar. The environment features blurry, pixelated textures typical of the game.' 
+
+2024-11-05 06:53:15,613 - process_2192932 - INFO - 
+Completed setting classification for Scene 22. 
+
+2024-11-05 06:53:15,613 - process_2192932 - INFO - 
+Classifying settings for Scene 29 with 1 frames. 
+
+2024-11-05 06:53:16,124 - process_2192932 - INFO - 
+Predicted setting 'end: the end' for frame 'frames/scene_29_frame_2747.jpg' with caption: 
+'This image is a screenshot from a Minecraft game. The scene depicts what's likely the End dimension. The player is engaged in battle with the Ender Dragon, as indicated by the health bar labeled "Ender Dragon" at the top. The environment is dark, characteristic of the End, with obsidian pillars. The player stands on a stone platform with a torch, looking towards a wireframe structure around the dragon. The inventory bar at the bottom shows various items including a pickaxe and beds. The top text claims a world record time of 1:56.' 
+
+2024-11-05 06:53:16,124 - process_2192932 - INFO - 
+Completed setting classification for Scene 29. 
+
