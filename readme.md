@@ -5,7 +5,18 @@
 
 `pip install python-dotenv`
 
-Don't forget to add `.env` file with the `OPENAI_API_KEY`.
+`pip install face_recognition` (requires `dlib`, which in turn requires C++ build tools. You will need to have `cmake`, `gcc` and `g++` on your system. Install `dlib` before installing `face_recognition`.)
+or if it doesn't work install manually (**preferred**):
+(You will need to have `cmake` on your system: `sudo apt update` + `sudo apt install cmake`)
+Go to https://pypi.org/project/face-recognition/#files and download `face_recognition-1.3.0.tar.gz`
+Extract the downloaded package `tar -xvzf face_recognition-1.3.0.tar.gz`
+Install the package:
+`cd face_recognition-1.3.0`
+`python3 setup.py install`
+Verify installation in python: `import face_recognition`
+(`pip show face_recognition` to find the location of the installed package)
+
+Don't forget to add `.env` file with the `OPENAI_API_KEY` and **put it in the `.gitignore`**.
 
 
 **Pipeline.**
