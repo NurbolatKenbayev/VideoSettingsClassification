@@ -1,4 +1,4 @@
-import base64
+import copy
 import logging
 import multiprocessing
 import os
@@ -6,12 +6,7 @@ from typing import Dict, List
 
 import openai
 
-from agents.utils import setup_logger
-
-
-def encode_image(image_path: str) -> str:
-    with open(image_path, "rb") as image_file:
-        return base64.b64encode(image_file.read()).decode("utf-8")
+from agents.utils import encode_image, setup_logger
 
 
 def generate_caption_one_image(
@@ -83,7 +78,7 @@ def generate_caption_one_cut_scene(scene: dict, openai_api_key: str) -> dict:
         logger.warning(
             f"No frames found for Scene {scene_number}. Skipping captioning."
         )
-        scene["captions"] = []
+        scene["frames_metadata"] = []
         return scene
 
     logger.info(
@@ -96,7 +91,7 @@ def generate_caption_one_cut_scene(scene: dict, openai_api_key: str) -> dict:
         caption_list.append(frame_caption)
 
     # Update scene metadata with captions
-    scene["captions"] = caption_list
+    scene["frames_metadata"] = caption_list
 
     logger.info(f"Completed caption generation for Scene {scene_number}.")
 
@@ -111,7 +106,7 @@ class ImageCaptioningAgent:
     def __init__(self, num_processes: int, scenes: List[Dict], openai_api_key: str):
         self.logger = logging.getLogger("ImageCaptioningAgent")
         self.num_processes = num_processes
-        self.scenes = scenes
+        self.scenes = copy.deepcopy(scenes)
         self.openai_api_key = openai_api_key
 
     def generate_captions(self) -> List[Dict]:

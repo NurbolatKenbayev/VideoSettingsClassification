@@ -1,9 +1,0 @@
-2024-11-05 06:53:04,789 - process_2192852 - INFO - 
-Generating captions for Scene 20 with 1 frames. 
-
-2024-11-05 06:53:10,388 - process_2192852 - INFO - 
-Generated caption for frame frames/scene_20_frame_1665.jpg 
-
-2024-11-05 06:53:10,388 - process_2192852 - INFO - 
-Completed caption generation for Scene 20. 
-

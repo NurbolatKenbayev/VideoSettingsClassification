@@ -1,7 +1,13 @@
+import base64
 import logging
 import multiprocessing
 import os
 from datetime import datetime
+
+
+def encode_image(image_path: str) -> str:
+    with open(image_path, "rb") as image_file:
+        return base64.b64encode(image_file.read()).decode("utf-8")
 
 
 def setup_logger(log_folder):

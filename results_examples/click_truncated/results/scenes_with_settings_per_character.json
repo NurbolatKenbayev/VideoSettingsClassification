@@ -1,0 +1,3050 @@
+[
+    {
+        "start_timecode": "00:00:00.000",
+        "end_timecode": "00:00:02.500",
+        "start_seconds": 0.0,
+        "end_seconds": 2.5,
+        "start_frame": 0,
+        "end_frame": 75,
+        "cut_scene_number": 1,
+        "frame_paths": [
+            "frames/scene_1_frame_0.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_1_frame_0.jpg",
+                "caption": "The image shows a woman standing indoors, possibly in a warmly decorated room. She is wearing a light blouse with a bow at the collar and a light-colored skirt with buttons. The room has a cozy atmosphere with framed pictures on the wall and soft lighting. There's a glimpse of a wooden surface, possibly a desk or table, in the foreground. The text on the image reads, \"It's nice to see you, Mr. Price,\" and a title at the top says, \"Chasing My Rejected Wife.\"",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 80,
+                            "right": 294,
+                            "bottom": 187,
+                            "left": 187
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:02.500",
+        "end_timecode": "00:00:05.900",
+        "start_seconds": 2.5,
+        "end_seconds": 5.9,
+        "start_frame": 75,
+        "end_frame": 177,
+        "cut_scene_number": 2,
+        "frame_paths": [
+            "frames/scene_2_frame_75.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_2_frame_75.jpg",
+                "caption": "The image shows a man sitting at a desk, which is located in a room with warm lighting and brown walls. Behind him, there are bookshelves filled with books, giving the space a library or study-like atmosphere. The man is dressed in a suit and tie, suggesting a professional setting. Papers and books are on the desk in front of him. The text \"Chasing My Rejected Wife\" appears at the top, with the caption \"My name is Aileen Smith\" at the bottom.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 206,
+                            "right": 225,
+                            "bottom": 295,
+                            "left": 135
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:05.900",
+        "end_timecode": "00:00:08.500",
+        "start_seconds": 5.9,
+        "end_seconds": 8.5,
+        "start_frame": 177,
+        "end_frame": 255,
+        "cut_scene_number": 3,
+        "frame_paths": [
+            "frames/scene_3_frame_177.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_3_frame_177.jpg",
+                "caption": "The image features a person with dark hair wearing a light-colored blouse with a bow at the collar, standing indoors. The room has a warm, possibly vintage atmosphere, with brown wallpaper and a framed picture on the wall in the background. The environment suggests a cozy, possibly historical setting. Text is visible both at the top and bottom of the image.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 104,
+                            "right": 270,
+                            "bottom": 211,
+                            "left": 163
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:08.500",
+        "end_timecode": "00:00:10.500",
+        "start_seconds": 8.5,
+        "end_seconds": 10.5,
+        "start_frame": 255,
+        "end_frame": 315,
+        "cut_scene_number": 4,
+        "frame_paths": [
+            "frames/scene_4_frame_255.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_4_frame_255.jpg",
+                "caption": "The image depicts a man in a formal setting, likely an office or study. He is wearing a suit and tie, and appears to be engaged in a conversation or deep in thought. The background is softly blurred but suggests a warm-toned interior, possibly with wooden paneling or wallpaper. There is a text overlay saying \"Chasing My Rejected Wife\" at the top and \"Aileen Smith\" at the bottom, which could indicate the image is from a promotional material, possibly a book or series.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 116,
+                            "right": 253,
+                            "bottom": 270,
+                            "left": 98
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:10.500",
+        "end_timecode": "00:00:12.433",
+        "start_seconds": 10.5,
+        "end_seconds": 12.433333333333334,
+        "start_frame": 315,
+        "end_frame": 373,
+        "cut_scene_number": 5,
+        "frame_paths": [
+            "frames/scene_5_frame_315.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_5_frame_315.jpg",
+                "caption": "The image shows a woman standing indoors. She is wearing a light-colored blouse with a large bow at the collar and a skirt with buttons. The background is warm-toned and features patterned wallpaper and framed artwork on the walls, suggesting a classic or vintage interior design style. The text \"Chasing My Rejected Wife\" and a subtitle with the words, \"Although I've only been here a year,\" are visible on the image.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 92,
+                            "right": 294,
+                            "bottom": 199,
+                            "left": 187
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:12.433",
+        "end_timecode": "00:00:17.300",
+        "start_seconds": 12.433333333333334,
+        "end_seconds": 17.3,
+        "start_frame": 373,
+        "end_frame": 519,
+        "cut_scene_number": 6,
+        "frame_paths": [
+            "frames/scene_6_frame_373.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_6_frame_373.jpg",
+                "caption": "The image shows a man in a suit sitting at a table or desk, appearing to focus on work or a task. He has dark, wavy hair and is wearing a white dress shirt with a tie. The background is softly blurred with warm tones, possibly indicating an interior space with earth-toned walls. There are no specific details visible about the location, but it suggests an office or formal setting. Text overlays the image, reading, \"I have extensive experience,\" hinting at a professional context.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 116,
+                            "right": 339,
+                            "bottom": 270,
+                            "left": 184
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:17.300",
+        "end_timecode": "00:00:21.267",
+        "start_seconds": 17.3,
+        "end_seconds": 21.266666666666666,
+        "start_frame": 519,
+        "end_frame": 638,
+        "cut_scene_number": 7,
+        "frame_paths": [
+            "frames/scene_7_frame_519.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_7_frame_519.jpg",
+                "caption": "The image shows a woman standing indoors. She is wearing a light-colored blouse with a bow tied at the neck. The background consists of a room with warm, earth-toned wallpaper. There is a framed picture on the wall behind her and a hint of furniture, suggesting an interior setting like a sitting room or office. The caption at the top reads \"Chasing My Rejected Wife,\" and there's also text on the image that says \"personal assistant.\"",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 146,
+                            "right": 265,
+                            "bottom": 236,
+                            "left": 175
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:21.267",
+        "end_timecode": "00:00:22.433",
+        "start_seconds": 21.266666666666666,
+        "end_seconds": 22.433333333333334,
+        "start_frame": 638,
+        "end_frame": 673,
+        "cut_scene_number": 8,
+        "frame_paths": [
+            "frames/scene_8_frame_638.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_8_frame_638.jpg",
+                "caption": "The image shows a room with a warm, classic ambiance. In the foreground, there is a wooden desk with a vintage-style table lamp that has a reddish-brown lampshade. On the desk are several stacked books and a cup of coffee on a saucer. The surface has a textured, dark finish.\n\nThe background features wallpaper with an intricate design, giving the room an old-fashioned, elegant feel. There are framed pictures on the walls. Two people are present: a woman in a light-colored blouse and skirt stands near the desk, and a man in a dark suit stands further back. The overall setting suggests a formal or professional environment, possibly an office or study.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 113,
+                            "right": 233,
+                            "bottom": 164,
+                            "left": 181
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    },
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 146,
+                            "right": 281,
+                            "bottom": 182,
+                            "left": 245
+                        },
+                        "setting_ID": "person_2_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:22.433",
+        "end_timecode": "00:00:24.067",
+        "start_seconds": 22.433333333333334,
+        "end_seconds": 24.066666666666666,
+        "start_frame": 673,
+        "end_frame": 722,
+        "cut_scene_number": 9,
+        "frame_paths": [
+            "frames/scene_9_frame_673.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_9_frame_673.jpg",
+                "caption": "The image shows a man sitting indoors, wearing a dark suit, white shirt, and striped tie. He is holding a pen and appears to be in a focused or contemplative state. The background features a warm, brownish tone, suggesting an interior setting, possibly an office or formal room. There is a faint logo or text at the top of the image that reads, \"Chasing My Rejected Wife.\"",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 98,
+                            "right": 287,
+                            "bottom": 253,
+                            "left": 132
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:24.067",
+        "end_timecode": "00:00:24.633",
+        "start_seconds": 24.066666666666666,
+        "end_seconds": 24.633333333333333,
+        "start_frame": 722,
+        "end_frame": 739,
+        "cut_scene_number": 10,
+        "frame_paths": [
+            "frames/scene_10_frame_722.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_10_frame_722.jpg",
+                "caption": "The image depicts an office setting with vintage decor. A woman is in the foreground, wearing a blouse with a bow at the neck and a white skirt. A man stands in the background, wearing a dark blazer and light pants. The office has a wooden desk with stacks of books, papers, and a cup of coffee. A traditional desk lamp with a red lampshade is visible. The walls are adorned with a patterned wallpaper featuring framed pictures, contributing to the antique ambiance. Additionally, there's a bookcase visible against the wall.",
+                "faces": [
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 146,
+                            "right": 281,
+                            "bottom": 182,
+                            "left": 245
+                        },
+                        "setting_ID": "person_2_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:24.633",
+        "end_timecode": "00:00:27.100",
+        "start_seconds": 24.633333333333333,
+        "end_seconds": 27.1,
+        "start_frame": 739,
+        "end_frame": 813,
+        "cut_scene_number": 11,
+        "frame_paths": [
+            "frames/scene_11_frame_739.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_11_frame_739.jpg",
+                "caption": "The image shows a person standing in an indoor setting. The individual is wearing a light-colored blouse with a bow at the collar and a cream-colored skirt with buttons. The background reveals a room with patterned wallpaper and a framed picture on the wall. The overall setting appears to be warm and possibly vintage or classic in style.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:27.100",
+        "end_timecode": "00:00:30.133",
+        "start_seconds": 27.1,
+        "end_seconds": 30.133333333333333,
+        "start_frame": 813,
+        "end_frame": 904,
+        "cut_scene_number": 12,
+        "frame_paths": [
+            "frames/scene_12_frame_813.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_12_frame_813.jpg",
+                "caption": "The image shows a woman sitting on a dark leather sofa. She appears to be in a living room setting, speaking on the phone. The room has wooden walls, creating a warm ambiance. There is a decorative panel on the wall behind her. The lighting is soft, casting gentle shadows. She is wearing a dark sweater and a purple blouse. A light-colored pillow is partially visible next to her on the sofa.",
+                "faces": [
+                    {
+                        "person_id": 3,
+                        "face_location": {
+                            "top": 218,
+                            "right": 163,
+                            "bottom": 281,
+                            "left": 100
+                        },
+                        "setting_ID": "person_3_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:30.133",
+        "end_timecode": "00:00:31.333",
+        "start_seconds": 30.133333333333333,
+        "end_seconds": 31.333333333333332,
+        "start_frame": 904,
+        "end_frame": 940,
+        "cut_scene_number": 13,
+        "frame_paths": [
+            "frames/scene_13_frame_904.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_13_frame_904.jpg",
+                "caption": "The image depicts a man sitting in an office environment. He is wearing a dark suit, a white shirt, and a striped tie. He has dark hair and is talking on the phone with a serious expression. The background includes wooden bookshelves with various files and documents. There is a soft-focus object, possibly papers or a book, in the foreground on a desk. The scene has a professional and formal atmosphere. There is text on the image that reads, \"Chasing My Rejected Wife\" and \"You left her behind for a whole year.\"",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 139,
+                            "right": 253,
+                            "bottom": 268,
+                            "left": 124
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:31.333",
+        "end_timecode": "00:00:32.700",
+        "start_seconds": 31.333333333333332,
+        "end_seconds": 32.7,
+        "start_frame": 940,
+        "end_frame": 981,
+        "cut_scene_number": 14,
+        "frame_paths": [
+            "frames/scene_14_frame_940.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_14_frame_940.jpg",
+                "caption": "The image shows a person standing indoors. The setting appears to be a room with warm, reddish-brown walls and traditional decor. There is a framed piece of art in the background. The individual is wearing a light-colored blouse with a bow at the collar and a cream skirt with buttons on the side. The text overlaid on the image reads, \"Chasing My Rejected Wife\" at the top and \"You left her behind for a whole year\" at the bottom.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 116,
+                            "right": 245,
+                            "bottom": 206,
+                            "left": 155
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:32.700",
+        "end_timecode": "00:00:36.033",
+        "start_seconds": 32.7,
+        "end_seconds": 36.03333333333333,
+        "start_frame": 981,
+        "end_frame": 1081,
+        "cut_scene_number": 15,
+        "frame_paths": [
+            "frames/scene_15_frame_981.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_15_frame_981.jpg",
+                "caption": "The image depicts a man sitting at a desk in what appears to be an office setting. He is wearing a formal suit and tie, and is holding a phone to his ear with a thoughtful expression. The desk in front of him is polished wood, with a stack of papers or a notebook visible. Off to the side, there is a cup, likely for coffee or tea. The background reveals shelves filled with neatly arranged books or binders, suggesting a professional environment. The text overlay and image composition suggest this is related to a media piece, possibly a show or a scene from a production.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 146,
+                            "right": 235,
+                            "bottom": 236,
+                            "left": 145
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:36.033",
+        "end_timecode": "00:00:38.967",
+        "start_seconds": 36.03333333333333,
+        "end_seconds": 38.96666666666667,
+        "start_frame": 1081,
+        "end_frame": 1169,
+        "cut_scene_number": 16,
+        "frame_paths": [
+            "frames/scene_16_frame_1081.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_16_frame_1081.jpg",
+                "caption": "The image shows an elderly woman sitting indoors, talking on a phone. She is wearing a dark, textured sweater over a maroon top, and her expression is animated, possibly indicating that she is engaged in a lively conversation. The lighting is warm, highlighting her face and hair. In the background, there is soft, fluffy material, suggesting she might be sitting on a couch or chair with a cushion or throw. The walls appear to be a warm color, adding to the cozy atmosphere. The text overlay reads, \"You know, her grandma is my best friend,\" giving context to the conversation she's having.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:38.967",
+        "end_timecode": "00:00:40.867",
+        "start_seconds": 38.96666666666667,
+        "end_seconds": 40.86666666666667,
+        "start_frame": 1169,
+        "end_frame": 1226,
+        "cut_scene_number": 17,
+        "frame_paths": [
+            "frames/scene_17_frame_1169.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_17_frame_1169.jpg",
+                "caption": "The image shows a woman sitting on a dark leather couch in a dimly lit room. She has short, dark hair and is speaking on the phone. She is dressed in a dark outfit, and the light source appears to be natural, coming from the left side, illuminating her face and part of the couch. The walls are wooden panels, giving a cozy, rustic feel to the environment. There's a framed picture or artwork in the background, partially visible. A small text overlay at the bottom reads, \"and you make her sad, but you make me mad.\"",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:40.867",
+        "end_timecode": "00:00:42.133",
+        "start_seconds": 40.86666666666667,
+        "end_seconds": 42.13333333333333,
+        "start_frame": 1226,
+        "end_frame": 1264,
+        "cut_scene_number": 18,
+        "frame_paths": [
+            "frames/scene_18_frame_1226.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_18_frame_1226.jpg",
+                "caption": "The image shows a woman indoors, speaking on a phone. She's wearing a dark sweater and has shoulder-length hair. The lighting is warm, and there's a fuzzy blanket or cushion behind her, adding a cozy atmosphere. The background is blurred, but it appears to be a home setting. Text on the image reads, \"You go see her right away.\" The upper part of the image also has the title \"Chasing My Rejected Wife.\"",
+                "faces": [
+                    {
+                        "person_id": 3,
+                        "face_location": {
+                            "top": 128,
+                            "right": 259,
+                            "bottom": 235,
+                            "left": 151
+                        },
+                        "setting_ID": "person_3_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:42.133",
+        "end_timecode": "00:00:43.367",
+        "start_seconds": 42.13333333333333,
+        "end_seconds": 43.36666666666667,
+        "start_frame": 1264,
+        "end_frame": 1301,
+        "cut_scene_number": 19,
+        "frame_paths": [
+            "frames/scene_19_frame_1264.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_19_frame_1264.jpg",
+                "caption": "The image shows a woman indoors, seemingly in a living room setting. She has long brown hair and is holding a phone to her ear, with an expression of surprise or intensity. She is wearing a dark sweater and a red blouse underneath. The background appears to be a warm-toned space, possibly with wooden elements. The text overlay reads \"You go see her right away.\" and \"Chasing My Rejected Wife\" is visible at the top of the image, suggesting it is likely from a film or series.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:43.367",
+        "end_timecode": "00:00:45.800",
+        "start_seconds": 43.36666666666667,
+        "end_seconds": 45.8,
+        "start_frame": 1301,
+        "end_frame": 1374,
+        "cut_scene_number": 20,
+        "frame_paths": [
+            "frames/scene_20_frame_1301.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_20_frame_1301.jpg",
+                "caption": "The image shows a man sitting in an office environment. He appears to be wearing a dark suit with a white shirt and tie, and he is holding a phone to his ear, as if in a conversation. The background features a wooden cabinet with several labeled drawers, possibly for filing documents. The desk in front of him has a reflective surface and contains a couple of stacked notebooks or papers and a coffee cup. The setting suggests a professional workspace, possibly in an office or study.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 128,
+                            "right": 235,
+                            "bottom": 235,
+                            "left": 127
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:45.800",
+        "end_timecode": "00:00:48.100",
+        "start_seconds": 45.8,
+        "end_seconds": 48.1,
+        "start_frame": 1374,
+        "end_frame": 1443,
+        "cut_scene_number": 21,
+        "frame_paths": [
+            "frames/scene_21_frame_1374.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_21_frame_1374.jpg",
+                "caption": "The image shows a woman standing indoors. She is wearing a light-colored blouse with a bow at the collar and a matching high-waisted skirt. Her hair is styled neatly. The background features a warm-toned wall with framed artwork and appears to be part of an interior space, possibly a living room or study, given the domestic and elegant setting. The text overlay at the top reads \"Chasing My Rejected Wife\" and at the bottom it says, \"You make sure that you do.\"",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 116,
+                            "right": 259,
+                            "bottom": 223,
+                            "left": 151
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:48.100",
+        "end_timecode": "00:00:52.567",
+        "start_seconds": 48.1,
+        "end_seconds": 52.56666666666667,
+        "start_frame": 1443,
+        "end_frame": 1577,
+        "cut_scene_number": 22,
+        "frame_paths": [
+            "frames/scene_22_frame_1443.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_22_frame_1443.jpg",
+                "caption": "The image shows a man in a formal setting, likely an office or study. He is seated at a desk with a leather chair, dressed in a navy blue suit with a white shirt and a patterned tie. In his hand, he holds a smartphone, appearing focused or deep in thought. The background includes wooden shelves with books and decorative items, as well as a lamp providing ambient lighting. The top of the image has text: \"Chasing My Rejected Wife,\" and at the bottom, it reads, \"You make sure that you do.\"",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 196,
+                            "right": 182,
+                            "bottom": 325,
+                            "left": 53
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:52.567",
+        "end_timecode": "00:00:54.067",
+        "start_seconds": 52.56666666666667,
+        "end_seconds": 54.06666666666667,
+        "start_frame": 1577,
+        "end_frame": 1622,
+        "cut_scene_number": 23,
+        "frame_paths": [
+            "frames/scene_23_frame_1577.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_23_frame_1577.jpg",
+                "caption": "The image shows a man seated indoors, wearing a suit and tie. He appears to be in an office or study environment, as there is a wooden bookshelf or cabinet with stacks of books and files visible behind him. The lighting is warm, enhancing the wood tones of the furniture. At the top, there is a phrase \"Chasing My Rejected Wife,\" and at the bottom, text reads, \"can you help me find the necklace we auctioned in Paris.\"",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 168,
+                            "right": 282,
+                            "bottom": 297,
+                            "left": 153
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:54.067",
+        "end_timecode": "00:00:55.200",
+        "start_seconds": 54.06666666666667,
+        "end_seconds": 55.2,
+        "start_frame": 1622,
+        "end_frame": 1656,
+        "cut_scene_number": 24,
+        "frame_paths": [
+            "frames/scene_24_frame_1622.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_24_frame_1622.jpg",
+                "caption": "The image shows a person sitting in an office environment. The individual is wearing a dark suit and tie, seated in a leather chair behind a wooden desk. The background features wooden shelves with a few books and papers visible. There is a sign on the top of the image that reads \"Chasing My Rejected Wife,\" and there is a subtitle at the bottom that says, \"I'm going to use it tonight.\" The setting appears to be formal and neatly organized, suggesting a professional atmosphere.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 223,
+                            "right": 235,
+                            "bottom": 331,
+                            "left": 127
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:55.200",
+        "end_timecode": "00:00:58.033",
+        "start_seconds": 55.2,
+        "end_seconds": 58.03333333333333,
+        "start_frame": 1656,
+        "end_frame": 1741,
+        "cut_scene_number": 25,
+        "frame_paths": [
+            "frames/scene_25_frame_1656.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_25_frame_1656.jpg",
+                "caption": "The image features two people in a formal setting, possibly an office or study. The environment is warmly lit, with wood-paneled walls adorned with patterned wallpaper and framed pictures. A desk lamp with a fabric shade casts a soft glow over the area. Papers and documents are scattered on the wooden desk. The man is dressed in a suit and tie, while the woman wears a blouse with a bow and a white skirt. The overall atmosphere is classic and professional. There is text overlayed saying \"Chasing My Rejected Wife\" and a subtitle at the bottom reads, \"I'm going to use it tonight.\"",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 94,
+                            "right": 156,
+                            "bottom": 156,
+                            "left": 93
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    },
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 146,
+                            "right": 280,
+                            "bottom": 190,
+                            "left": 237
+                        },
+                        "setting_ID": "person_2_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:58.033",
+        "end_timecode": "00:00:59.967",
+        "start_seconds": 58.03333333333333,
+        "end_seconds": 59.96666666666667,
+        "start_frame": 1741,
+        "end_frame": 1799,
+        "cut_scene_number": 26,
+        "frame_paths": [
+            "frames/scene_26_frame_1741.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_26_frame_1741.jpg",
+                "caption": "The image shows a woman standing indoors. She is wearing a light-colored blouse with a bow at the neck and a high-waisted skirt. The interior appears to be warmly decorated, with wood-paneled walls or wallpaper that has a classic or traditional pattern. There is a framed painting or picture on the wall behind her, adding to the sophisticated ambiance. Text on the image reads \"Chasing My Rejected Wife\" and \"The one you bought for $2 million?\" which suggests a theme or narrative. The overall setting resembles a living room or office with an elegant and refined style.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 116,
+                            "right": 247,
+                            "bottom": 223,
+                            "left": 139
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:59.967",
+        "end_timecode": "00:01:02.000",
+        "start_seconds": 59.96666666666667,
+        "end_seconds": 62.0,
+        "start_frame": 1799,
+        "end_frame": 1860,
+        "cut_scene_number": 27,
+        "frame_paths": [
+            "frames/scene_27_frame_1799.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_27_frame_1799.jpg",
+                "caption": "The image shows a man dressed in a formal suit, seated indoors against a warmly lit background. He has a contemplative expression and is holding a pen or similar object in his hands. There's a wooden paneled wall or bookcase behind him, suggesting a setting that could be an office or study. The atmosphere appears professional and upscale. On the top left, there's text that reads \"Chasing My Rejected Wife,\" and at the bottom, dialogue reads, \"It's ready, sir.\"",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 153,
+                            "right": 311,
+                            "bottom": 282,
+                            "left": 182
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:02.000",
+        "end_timecode": "00:01:03.233",
+        "start_seconds": 62.0,
+        "end_seconds": 63.233333333333334,
+        "start_frame": 1860,
+        "end_frame": 1897,
+        "cut_scene_number": 28,
+        "frame_paths": [
+            "frames/scene_28_frame_1860.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_28_frame_1860.jpg",
+                "caption": "The image depicts a woman standing indoors. She is wearing a light-colored long-sleeve blouse with a bow at the neck and a light skirt or pants. The background features a warm-toned room with an ornate wall pattern. There is framed artwork on the wall. The overall setting suggests a sophisticated and classic interior design.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 104,
+                            "right": 259,
+                            "bottom": 211,
+                            "left": 151
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:03.233",
+        "end_timecode": "00:01:04.833",
+        "start_seconds": 63.233333333333334,
+        "end_seconds": 64.83333333333333,
+        "start_frame": 1897,
+        "end_frame": 1945,
+        "cut_scene_number": 29,
+        "frame_paths": [
+            "frames/scene_29_frame_1897.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_29_frame_1897.jpg",
+                "caption": "The image appears to be a scene from a film or series titled \"Chasing My Rejected Wife.\" It features a man in a formal setting, likely an office or a study, due to the presence of bookshelves and a wooden interior. He is dressed in a suit and tie, suggesting a professional or serious context. The lighting seems warm, contributing to an intimate or contemplative atmosphere. The text on the image includes a dialogue: \"It sounds like a good gift for my wife?\" indicating a conversation or narrative related to gifting.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 133,
+                            "right": 322,
+                            "bottom": 288,
+                            "left": 167
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:04.833",
+        "end_timecode": "00:01:07.433",
+        "start_seconds": 64.83333333333333,
+        "end_seconds": 67.43333333333334,
+        "start_frame": 1945,
+        "end_frame": 2023,
+        "cut_scene_number": 30,
+        "frame_paths": [
+            "frames/scene_30_frame_1945.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_30_frame_1945.jpg",
+                "caption": "The image shows a woman in a softly lit, indoor environment. She is wearing a light-colored blouse with a prominent bow at the collar and a skirt with large buttons. The background includes warm-toned walls with framed artwork, suggesting a cozy or home-like setting. There is also a small portion of a white-framed picture or artwork on the left side of the image, enhancing the room's homely and decorated appearance. The text overlay reads, \"It sounds like a good gift for my wife?\" indicating a narrative or dialogue context.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 128,
+                            "right": 294,
+                            "bottom": 235,
+                            "left": 187
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:07.433",
+        "end_timecode": "00:01:08.500",
+        "start_seconds": 67.43333333333334,
+        "end_seconds": 68.5,
+        "start_frame": 2023,
+        "end_frame": 2055,
+        "cut_scene_number": 31,
+        "frame_paths": [
+            "frames/scene_31_frame_2023.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_31_frame_2023.jpg",
+                "caption": "The image depicts a man sitting at a desk in an office environment. He is wearing a dark suit with a white shirt and a striped tie. The man is holding a pen with both hands, appearing thoughtful or contemplative. The background includes bookshelves with books and files, and there's a blurred item, possibly a desk accessory, in the foreground. Text on the image reads, \"You're asking me?\" at the bottom and \"Chasing My Rejected Wife\" at the top.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 133,
+                            "right": 253,
+                            "bottom": 288,
+                            "left": 98
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:08.500",
+        "end_timecode": "00:01:11.300",
+        "start_seconds": 68.5,
+        "end_seconds": 71.3,
+        "start_frame": 2055,
+        "end_frame": 2139,
+        "cut_scene_number": 32,
+        "frame_paths": [
+            "frames/scene_32_frame_2055.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_32_frame_2055.jpg",
+                "caption": "The image shows a woman standing indoors. She is dressed in a light blouse with a bow at the neck and a high-waisted cream skirt. Her hair is pulled back, and she's wearing earrings. The background suggests an elaborately decorated room with warm-toned walls and framed pictures, indicating a cozy, traditional interior. The text \"Chasing My Rejected Wife\" is overlaid on the image.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 104,
+                            "right": 270,
+                            "bottom": 211,
+                            "left": 163
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:11.300",
+        "end_timecode": "00:01:13.000",
+        "start_seconds": 71.3,
+        "end_seconds": 73.0,
+        "start_frame": 2139,
+        "end_frame": 2190,
+        "cut_scene_number": 33,
+        "frame_paths": [
+            "frames/scene_33_frame_2139.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_33_frame_2139.jpg",
+                "caption": "The image shows a person sitting at a desk in an office-like environment. They are wearing a dark suit and a white shirt, along with a tie, and appear to be deep in thought with a pensive expression, holding a pen. The background features wooden furniture and shelves, suggesting a professional or study setting. The lighting is warm, creating a cozy atmosphere. The upper part of the image has text that reads \"Chasing My Rejected Wife.\"",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 133,
+                            "right": 287,
+                            "bottom": 288,
+                            "left": 132
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:13.000",
+        "end_timecode": "00:01:14.633",
+        "start_seconds": 73.0,
+        "end_seconds": 74.63333333333334,
+        "start_frame": 2190,
+        "end_frame": 2239,
+        "cut_scene_number": 34,
+        "frame_paths": [
+            "frames/scene_34_frame_2190.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_34_frame_2190.jpg",
+                "caption": "The image depicts an office-like setting. There are two people; one is a woman wearing a light blouse and skirt, standing beside an older-style desk lamp, and the other is a man in a suit, standing with arms crossed. The environment has a classic, perhaps slightly vintage decor, with patterned wallpaper, framed pictures on the wall, and papers scattered on the desk in the foreground. The overall atmosphere suggests a formal or professional environment.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 94,
+                            "right": 163,
+                            "bottom": 156,
+                            "left": 100
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    },
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 141,
+                            "right": 285,
+                            "bottom": 193,
+                            "left": 233
+                        },
+                        "setting_ID": "person_2_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:14.633",
+        "end_timecode": "00:01:16.500",
+        "start_seconds": 74.63333333333334,
+        "end_seconds": 76.5,
+        "start_frame": 2239,
+        "end_frame": 2295,
+        "cut_scene_number": 35,
+        "frame_paths": [
+            "frames/scene_35_frame_2239.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_35_frame_2239.jpg",
+                "caption": "The image depicts a man seated in what appears to be an office or study. He is wearing a formal suit and tie. The setting has a warm, wooden interior with a bookshelf in the background, suggesting a professional or sophisticated environment. The man is holding a pen and has a contemplative expression. The text overlay \"Chasing My Rejected Wife\" is visible at the top of the image.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 133,
+                            "right": 287,
+                            "bottom": 288,
+                            "left": 132
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:16.500",
+        "end_timecode": "00:01:21.000",
+        "start_seconds": 76.5,
+        "end_seconds": 81.0,
+        "start_frame": 2295,
+        "end_frame": 2430,
+        "cut_scene_number": 36,
+        "frame_paths": [
+            "frames/scene_36_frame_2295.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_36_frame_2295.jpg",
+                "caption": "The image shows a woman in a room with a warm and classic interior design. She has her hair tied back and is wearing a light-colored blouse with a bow at the collar and a light-colored skirt with buttons. The background features framed artwork on the walls, with a mix of paintings and prints. The overall color scheme includes earthy tones, contributing to a cozy, elegant atmosphere. The setting appears to be indoors, possibly a living room or a study.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:21.000",
+        "end_timecode": "00:01:23.633",
+        "start_seconds": 81.0,
+        "end_seconds": 83.63333333333334,
+        "start_frame": 2430,
+        "end_frame": 2509,
+        "cut_scene_number": 37,
+        "frame_paths": [
+            "frames/scene_37_frame_2430.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_37_frame_2430.jpg",
+                "caption": "The image shows a man sitting indoors in a formal setting. He is wearing a suit and tie, and appears to be deep in thought, with his hands together. The background features wooden paneling, adding a warm, sophisticated tone to the environment. There are no visible windows or specific decor items, focusing attention on the man's contemplative expression. The text \"Chasing My Rejected Wife\" is displayed at the top of the image.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 139,
+                            "right": 311,
+                            "bottom": 268,
+                            "left": 182
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:23.633",
+        "end_timecode": "00:01:26.267",
+        "start_seconds": 83.63333333333334,
+        "end_seconds": 86.26666666666667,
+        "start_frame": 2509,
+        "end_frame": 2588,
+        "cut_scene_number": 38,
+        "frame_paths": [
+            "frames/scene_38_frame_2509.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_38_frame_2509.jpg",
+                "caption": "The image depicts a well-decorated office setting. In the foreground, there's a wooden desk with a table lamp featuring a red shade. Several papers are stacked on the desk. Behind the desk, a woman in a white blouse and light-colored skirt stands beside a man in a navy blue suit with a patterned tie. The walls are adorned with framed artwork and have a richly patterned, warm-colored wallpaper. The atmosphere suggests a formal or business environment.",
+                "faces": [
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 142,
+                            "right": 275,
+                            "bottom": 185,
+                            "left": 232
+                        },
+                        "setting_ID": "person_2_setting_0"
+                    },
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 87,
+                            "right": 156,
+                            "bottom": 149,
+                            "left": 93
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:26.267",
+        "end_timecode": "00:01:30.400",
+        "start_seconds": 86.26666666666667,
+        "end_seconds": 90.4,
+        "start_frame": 2588,
+        "end_frame": 2712,
+        "cut_scene_number": 39,
+        "frame_paths": [
+            "frames/scene_39_frame_2588.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_39_frame_2588.jpg",
+                "caption": "The image shows a woman standing indoors in a warmly lit room. She is wearing a light-colored blouse with a bow at the collar and a high-waisted skirt with button details. The background features a framed picture on a beige wall and a wooden element, possibly part of a fireplace or wall paneling. The text on the image reads “Chasing My Rejected Wife” at the top and includes additional text at the bottom. The overall setting appears to be a cozy, possibly residential, environment.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 116,
+                            "right": 294,
+                            "bottom": 223,
+                            "left": 187
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:30.400",
+        "end_timecode": "00:01:32.233",
+        "start_seconds": 90.4,
+        "end_seconds": 92.23333333333333,
+        "start_frame": 2712,
+        "end_frame": 2767,
+        "cut_scene_number": 40,
+        "frame_paths": [
+            "frames/scene_40_frame_2712.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_40_frame_2712.jpg",
+                "caption": "The image shows a man sitting at a desk in an office environment. He is wearing a dark suit with a white shirt and tie. His hands are clasped together, and he appears to be listening intently. On the desk, there is a cup and some paperwork or files. The background features wooden shelves with books and a cabinet, indicating a professional setting. The text on the image reads, \"Chasing My Rejected Wife - Maybe buy her some flowers and.\"",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 140,
+                            "right": 270,
+                            "bottom": 247,
+                            "left": 163
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:32.233",
+        "end_timecode": "00:01:34.300",
+        "start_seconds": 92.23333333333333,
+        "end_seconds": 94.3,
+        "start_frame": 2767,
+        "end_frame": 2829,
+        "cut_scene_number": 41,
+        "frame_paths": [
+            "frames/scene_41_frame_2767.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_41_frame_2767.jpg",
+                "caption": "The image features a woman standing indoors in a setting that appears formal or elegant. She is wearing a light-colored blouse with a bow at the neckline and a matching light-colored skirt with buttons. The background shows a warm-toned wall with framed artwork, and there are hints of ornate decor, suggesting a refined environment. To her left, part of a doorway or a window is visible, adding to the impression of an indoor, possibly residential or office setting.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 104,
+                            "right": 282,
+                            "bottom": 211,
+                            "left": 175
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:34.300",
+        "end_timecode": "00:01:37.367",
+        "start_seconds": 94.3,
+        "end_seconds": 97.36666666666666,
+        "start_frame": 2829,
+        "end_frame": 2921,
+        "cut_scene_number": 42,
+        "frame_paths": [
+            "frames/scene_42_frame_2829.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_42_frame_2829.jpg",
+                "caption": "The image features a man sitting in an indoor setting, possibly an office or study. He's dressed in a suit and tie, suggesting a formal or professional environment. His hands are clasped together, and he is looking to the left with a slight smile or contemplative expression. The background includes wooden elements, like bookshelves or paneling, contributing to a sophisticated or classic ambiance. The top of the image includes text saying \"Chasing My Rejected Wife.\"",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 153,
+                            "right": 268,
+                            "bottom": 282,
+                            "left": 139
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:37.367",
+        "end_timecode": "00:01:38.733",
+        "start_seconds": 97.36666666666666,
+        "end_seconds": 98.73333333333333,
+        "start_frame": 2921,
+        "end_frame": 2962,
+        "cut_scene_number": 43,
+        "frame_paths": [
+            "frames/scene_43_frame_2921.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_43_frame_2921.jpg",
+                "caption": "The image shows an office environment with two people standing behind a large wooden desk. The desk has a classic style lamp with a warm, glowing light casting on it. On the desk are some papers, a folder, and a small cup on a saucer. The room features warm-colored wallpaper with a vintage pattern. There are framed pictures or artwork on the walls, adding to the traditional ambiance. The setting conveys a formal or professional atmosphere.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 87,
+                            "right": 163,
+                            "bottom": 149,
+                            "left": 100
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    },
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 141,
+                            "right": 279,
+                            "bottom": 193,
+                            "left": 227
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:38.733",
+        "end_timecode": "00:01:40.467",
+        "start_seconds": 98.73333333333333,
+        "end_seconds": 100.46666666666667,
+        "start_frame": 2962,
+        "end_frame": 3014,
+        "cut_scene_number": 44,
+        "frame_paths": [
+            "frames/scene_44_frame_2962.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_44_frame_2962.jpg",
+                "caption": "The picture shows a man in a suit sitting in a room with wooden elements. The man has dark hair and is wearing a white shirt with a dark tie. His hands are clasped together, and he appears thoughtful or attentive. In the background, there is an area with wooden paneling or bookshelves, giving the setting a formal or professional atmosphere. Text on the image says, \"Chasing My Rejected Wife\" and \"Would you be willing to make us some reservations?\"",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 133,
+                            "right": 270,
+                            "bottom": 288,
+                            "left": 115
+                        },
+                        "setting_ID": "person_1_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:40.467",
+        "end_timecode": "00:01:43.200",
+        "start_seconds": 100.46666666666667,
+        "end_seconds": 103.2,
+        "start_frame": 3014,
+        "end_frame": 3096,
+        "cut_scene_number": 45,
+        "frame_paths": [
+            "frames/scene_45_frame_3014.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_45_frame_3014.jpg",
+                "caption": "The image depicts a well-dressed woman standing indoors. She is wearing a light-colored blouse with a bow at the collar and a high-waisted skirt with buttons. The background suggests an indoor setting with warm, wooden tones. On the wall behind her, there are framed pictures. The lighting is soft and warm, contributing to a cozy atmosphere. There's text overlay with the title \"Chasing My Rejected Wife\" at the top and a subtitle reading \"Yeah. Of course, sir.\" at the bottom.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 104,
+                            "right": 259,
+                            "bottom": 211,
+                            "left": 151
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:43.200",
+        "end_timecode": "00:01:44.267",
+        "start_seconds": 103.2,
+        "end_seconds": 104.26666666666667,
+        "start_frame": 3096,
+        "end_frame": 3128,
+        "cut_scene_number": 46,
+        "frame_paths": [
+            "frames/scene_46_frame_3096.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_46_frame_3096.jpg",
+                "caption": "The image depicts an indoor space that resembles a formal office or study. A man and a woman are present; the woman is turned slightly away while the man stands with his arms crossed. The room features wooden furniture, including a desk, with a small lamp on it providing warm lighting. Papers and a cup are on the desk. The walls are decorated with framed pictures and wallpaper with a classical pattern, contributing to an elegant and professional atmosphere.",
+                "faces": [
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 142,
+                            "right": 275,
+                            "bottom": 185,
+                            "left": 232
+                        },
+                        "setting_ID": "person_2_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:44.267",
+        "end_timecode": "00:01:46.500",
+        "start_seconds": 104.26666666666667,
+        "end_seconds": 106.5,
+        "start_frame": 3128,
+        "end_frame": 3195,
+        "cut_scene_number": 47,
+        "frame_paths": [
+            "frames/scene_47_frame_3128.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_47_frame_3128.jpg",
+                "caption": "The picture shows a man in a formal setting, wearing a dark suit with a white shirt and a striped tie. He is seated, with a slight profile view. The background features warm-toned walls and what appears to be wooden bookshelves, suggesting a library or office environment. The words “Chasing My Rejected Wife” appear in the upper left corner, indicating it could be related to a media production or a promotional image.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:46.500",
+        "end_timecode": "00:01:49.700",
+        "start_seconds": 106.5,
+        "end_seconds": 109.7,
+        "start_frame": 3195,
+        "end_frame": 3291,
+        "cut_scene_number": 48,
+        "frame_paths": [
+            "frames/scene_48_frame_3195.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_48_frame_3195.jpg",
+                "caption": "The image depicts a man wearing a suit and tie. The background shows a bright, well-lit indoor environment, suggesting large windows or glass panels letting in natural light. The setting appears to be an office or professional space, with light-colored walls. The text \"Chasing My Rejected Wife\" is visible at the top of the image. The overall atmosphere seems formal and business-like.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:49.700",
+        "end_timecode": "00:01:51.733",
+        "start_seconds": 109.7,
+        "end_seconds": 111.73333333333333,
+        "start_frame": 3291,
+        "end_frame": 3352,
+        "cut_scene_number": 49,
+        "frame_paths": [
+            "frames/scene_49_frame_3291.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_49_frame_3291.jpg",
+                "caption": "The image shows two people indoors. One is facing away from the camera, while the other is facing toward it. The individual facing the camera is wearing a light-colored blouse with a tied bow at the neck. Behind them is a blurred background, featuring a partially visible poster or picture on the wall. The scene seems to be well-lit, possibly with natural light coming from an unseen window or light source. There is text on the image, both a title at the top that reads \"Chasing My Rejected Wife\" and subtitles at the bottom that say, \"Just don't be too close to him.\"",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 196,
+                            "right": 225,
+                            "bottom": 285,
+                            "left": 135
+                        },
+                        "setting_ID": "person_0_setting_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:51.733",
+        "end_timecode": "00:01:53.267",
+        "start_seconds": 111.73333333333333,
+        "end_seconds": 113.26666666666667,
+        "start_frame": 3352,
+        "end_frame": 3398,
+        "cut_scene_number": 50,
+        "frame_paths": [
+            "frames/scene_50_frame_3352.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_50_frame_3352.jpg",
+                "caption": "The image shows a man indoors, dressed in formal attire with a dark suit, a light blue shirt, and a striped tie. The background appears to be softly blurred, likely indicating an indoor setting with natural light coming through a window. The lighting is soft and neutral, creating a calm atmosphere. Text overlaid on the image reads: \"Okay? People here are nosy.\" and \"Chasing My Rejected Wife\" at the top.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:53.267",
+        "end_timecode": "00:01:56.367",
+        "start_seconds": 113.26666666666667,
+        "end_seconds": 116.36666666666666,
+        "start_frame": 3398,
+        "end_frame": 3491,
+        "cut_scene_number": 51,
+        "frame_paths": [
+            "frames/scene_51_frame_3398.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_51_frame_3398.jpg",
+                "caption": "The image shows a woman standing indoors. She is wearing a light-colored blouse with a bow at the neck and a cream-colored skirt with buttons. The environment appears to be well-lit, suggesting it might be daytime. There is a framed picture or poster on the wall behind her, partially visible. The overall setting looks like it could be an office or a formal interior.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 152,
+                            "right": 247,
+                            "bottom": 259,
+                            "left": 139
+                        },
+                        "setting_ID": "person_0_setting_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:56.367",
+        "end_timecode": "00:01:58.267",
+        "start_seconds": 116.36666666666666,
+        "end_seconds": 118.26666666666667,
+        "start_frame": 3491,
+        "end_frame": 3548,
+        "cut_scene_number": 52,
+        "frame_paths": [
+            "frames/scene_52_frame_3491.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_52_frame_3491.jpg",
+                "caption": "The image shows a man in a formal setting. He is wearing a dark business suit with a white shirt and a striped tie. The background suggests an indoor environment, possibly an office or a professional setting, due to the presence of large windows or glass panels. The lighting is soft and indirect, creating a professional and composed atmosphere. There is text at the top and bottom of the image.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:58.267",
+        "end_timecode": "00:02:01.667",
+        "start_seconds": 118.26666666666667,
+        "end_seconds": 121.66666666666667,
+        "start_frame": 3548,
+        "end_frame": 3650,
+        "cut_scene_number": 53,
+        "frame_paths": [
+            "frames/scene_53_frame_3548.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_53_frame_3548.jpg",
+                "caption": "The image depicts an indoor setting with two people present. A woman is in the foreground, wearing a light blouse with a bow at the neck and a high-waisted skirt. The blouse has a soft, elegant appearance. She appears to be engaged in conversation with someone partially visible on the left. The background is blurred, but there seems to be a window or a light source illuminating the scene. There's also text overlaid on the image that reads, \"I swear, I don't have any.\" The environment suggests a formal or professional context.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 146,
+                            "right": 245,
+                            "bottom": 236,
+                            "left": 155
+                        },
+                        "setting_ID": "person_0_setting_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:01.667",
+        "end_timecode": "00:02:04.633",
+        "start_seconds": 121.66666666666667,
+        "end_seconds": 124.63333333333334,
+        "start_frame": 3650,
+        "end_frame": 3739,
+        "cut_scene_number": 54,
+        "frame_paths": [
+            "frames/scene_54_frame_3650.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_54_frame_3650.jpg",
+                "caption": "The image shows a person wearing a formal suit with a tie, standing indoors. The background is softly lit, suggesting a window or a light source behind the person, creating a bright, neutral ambiance. The text on the image reads, \"feelings for Mr. Price. Okay?\" indicating a possible conversation or dialogue from a scene. Additionally, there's a title at the top: \"Chasing My Rejected Wife.\"",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:04.633",
+        "end_timecode": "00:02:07.733",
+        "start_seconds": 124.63333333333334,
+        "end_seconds": 127.73333333333333,
+        "start_frame": 3739,
+        "end_frame": 3832,
+        "cut_scene_number": 55,
+        "frame_paths": [
+            "frames/scene_55_frame_3739.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_55_frame_3739.jpg",
+                "caption": "The image shows a young woman standing indoors, smiling. She is wearing a light-colored blouse with a bow at the neckline and a light-colored skirt with buttons. The background includes a poster with text and an image, although the details are not fully visible. The lighting is soft and the environment appears to be a well-lit room, possibly an office or a reception area. The focus is primarily on the woman in the center.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 186,
+                            "right": 235,
+                            "bottom": 275,
+                            "left": 145
+                        },
+                        "setting_ID": "person_0_setting_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:07.733",
+        "end_timecode": "00:02:10.300",
+        "start_seconds": 127.73333333333333,
+        "end_seconds": 130.3,
+        "start_frame": 3832,
+        "end_frame": 3909,
+        "cut_scene_number": 56,
+        "frame_paths": [
+            "frames/scene_56_frame_3832.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_56_frame_3832.jpg",
+                "caption": "The image depicts a vibrant cityscape at night. A busy street with multiple lanes of traffic is prominent, with cars traveling in both directions. The road is lined with streetlights and surrounded by various high-rise buildings, showcasing a mix of architectural styles, from modern glass structures to more classical buildings with columns and ornamentation. \n\nThe city is well-lit, highlighting the diverse and bustling environment. In the background, more skyscrapers with illuminated windows can be seen, emphasizing the city’s lively atmosphere. The sky is dark, suggesting nighttime, and the overall scene conveys the energetic vibe of a metropolitan area.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:10.300",
+        "end_timecode": "00:02:14.600",
+        "start_seconds": 130.3,
+        "end_seconds": 134.6,
+        "start_frame": 3909,
+        "end_frame": 4038,
+        "cut_scene_number": 57,
+        "frame_paths": [
+            "frames/scene_57_frame_3909.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_57_frame_3909.jpg",
+                "caption": "The image shows a person standing in what appears to be a kitchen. They are wearing a dark brown, oversized sweater. In the background, there is a refrigerator with several papers or notes attached to it. The room has light-colored walls, and part of a doorway or cabinet is visible. A table with a lace tablecloth is in the foreground. The lighting is warm and gives a cozy atmosphere.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:14.600",
+        "end_timecode": "00:02:17.200",
+        "start_seconds": 134.6,
+        "end_seconds": 137.2,
+        "start_frame": 4038,
+        "end_frame": 4116,
+        "cut_scene_number": 58,
+        "frame_paths": [
+            "frames/scene_58_frame_4038.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_58_frame_4038.jpg",
+                "caption": "The image shows a person sitting at a table in a kitchen. The kitchen has white cabinets and a countertop with a microwave and a coffee maker. The person is wearing a dark brown sweater and has long dark hair. They are seated in a chair next to a round table covered with a white lace tablecloth. Their expression appears relaxed, and text on the image says, \"What a day.\" The environment suggests a cozy home setting.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:17.200",
+        "end_timecode": "00:02:19.867",
+        "start_seconds": 137.2,
+        "end_seconds": 139.86666666666667,
+        "start_frame": 4116,
+        "end_frame": 4196,
+        "cut_scene_number": 59,
+        "frame_paths": [
+            "frames/scene_59_frame_4116.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_59_frame_4116.jpg",
+                "caption": "The image shows a woman with dark hair, seated, wearing a brown knitted cardigan. Her expression appears thoughtful. The background is neutral and somewhat blurred, suggesting an indoor setting. Text on the image reads \"Chasing My Rejected Wife\" at the top and \"stands their incredibly talented\" at the bottom. The overall lighting is warm, enhancing the cozy atmosphere.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 133,
+                            "right": 270,
+                            "bottom": 288,
+                            "left": 115
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:19.867",
+        "end_timecode": "00:02:24.967",
+        "start_seconds": 139.86666666666667,
+        "end_seconds": 144.96666666666667,
+        "start_frame": 4196,
+        "end_frame": 4349,
+        "cut_scene_number": 60,
+        "frame_paths": [
+            "frames/scene_60_frame_4196.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_60_frame_4196.jpg",
+                "caption": "The image shows a person sitting in what seems to be a living or dining area. The person is wearing a brown knitted cardigan and has dark hair. They are seated in a wooden chair and facing a table covered with a white or light-colored tablecloth. In the background, there is a refrigerator, and the walls appear to be a neutral tone. The space looks warm and inviting, suggesting a cozy indoor setting. There is text at the top of the image, likely the title of a book or series, reading \"Chasing My Rejected Wife\".",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:24.967",
+        "end_timecode": "00:02:28.567",
+        "start_seconds": 144.96666666666667,
+        "end_seconds": 148.56666666666666,
+        "start_frame": 4349,
+        "end_frame": 4457,
+        "cut_scene_number": 61,
+        "frame_paths": [
+            "frames/scene_61_frame_4349.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_61_frame_4349.jpg",
+                "caption": "The image shows a close-up view of a man's reflection in what appears to be a car's side mirror. He is seen wearing a suit and tie, looking contemplative. His expression suggests he might be engaged in a thought or conversation. The background is blurred, with hints of green and white, possibly indicating foliage or a bright outdoor environment. The words \"Chasing My Rejected Wife\" are overlaid at the top of the image.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 168,
+                            "right": 253,
+                            "bottom": 297,
+                            "left": 124
+                        },
+                        "setting_ID": "person_1_setting_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:28.567",
+        "end_timecode": "00:02:31.400",
+        "start_seconds": 148.56666666666666,
+        "end_seconds": 151.4,
+        "start_frame": 4457,
+        "end_frame": 4542,
+        "cut_scene_number": 62,
+        "frame_paths": [
+            "frames/scene_62_frame_4457.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_62_frame_4457.jpg",
+                "caption": "The image shows a person sitting indoors, speaking on a phone. They are wearing a large, dark, knitted sweater. The environment looks residential, with neutral-colored walls and some furniture visible, including a table partially in the frame. There are papers hanging above, suggesting a home office or kitchen space. The text at the bottom of the image reads, \"Hey, it’s Tony,\" indicating a conversation taking place. The setting seems casual and domestic.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 229,
+                            "right": 171,
+                            "bottom": 304,
+                            "left": 96
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:31.400",
+        "end_timecode": "00:02:31.900",
+        "start_seconds": 151.4,
+        "end_seconds": 151.9,
+        "start_frame": 4542,
+        "end_frame": 4557,
+        "cut_scene_number": 63,
+        "frame_paths": [
+            "frames/scene_63_frame_4542.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_63_frame_4542.jpg",
+                "caption": "The image shows a man sitting inside a car. He is dressed in a blue suit with a white shirt and tie. He is holding a phone to his ear and appears to be engaged in a conversation. The interior of the car is dimly lit, and the focus is primarily on the man. There is a faint reflection visible in the car window behind him. The phrase \"Chasing My Rejected Wife\" is overlaid at the top of the image.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 175,
+                            "right": 270,
+                            "bottom": 283,
+                            "left": 163
+                        },
+                        "setting_ID": "person_1_setting_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:31.900",
+        "end_timecode": "00:02:33.933",
+        "start_seconds": 151.9,
+        "end_seconds": 153.93333333333334,
+        "start_frame": 4557,
+        "end_frame": 4618,
+        "cut_scene_number": 64,
+        "frame_paths": [
+            "frames/scene_64_frame_4557.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_64_frame_4557.jpg",
+                "caption": "The image shows a man sitting inside a car, speaking on a phone. He is wearing a suit and appears to be in a focused conversation. The environment is dimly lit, suggesting it might be nighttime. The car's interior is visible, but there are no clear details about the location outside the vehicle. The words \"Chasing My Rejected Wife\" are displayed at the top of the image. The atmosphere gives a sense of a dramatic or intense situation.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 175,
+                            "right": 247,
+                            "bottom": 283,
+                            "left": 139
+                        },
+                        "setting_ID": "person_1_setting_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:33.933",
+        "end_timecode": "00:02:36.367",
+        "start_seconds": 153.93333333333334,
+        "end_seconds": 156.36666666666667,
+        "start_frame": 4618,
+        "end_frame": 4691,
+        "cut_scene_number": 65,
+        "frame_paths": [
+            "frames/scene_65_frame_4618.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_65_frame_4618.jpg",
+                "caption": "The image depicts a person sitting inside a car, possibly in the driver’s seat as suggested by the steering wheel nearby. He is holding a phone to his ear, suggesting he is engaged in a conversation. The man has short hair and is wearing a suit with a white shirt and a tie. The background inside the car is dark, indicating that it might be nighttime or the interior light is dim. At the top of the image, there is text that says “Chasing My Rejected Wife,” and at the bottom, there is text saying, “You don’t know me?” The overall lighting casts shadows, creating a dramatic or focused atmosphere.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 175,
+                            "right": 235,
+                            "bottom": 283,
+                            "left": 127
+                        },
+                        "setting_ID": "person_1_setting_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:36.367",
+        "end_timecode": "00:02:39.867",
+        "start_seconds": 156.36666666666667,
+        "end_seconds": 159.86666666666667,
+        "start_frame": 4691,
+        "end_frame": 4796,
+        "cut_scene_number": 66,
+        "frame_paths": [
+            "frames/scene_66_frame_4691.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_66_frame_4691.jpg",
+                "caption": "In this image, a woman is sitting at a table, talking on a cell phone. She is wearing a thick, brown cardigan with large buttons, suggesting a cozy, indoor setting. Behind her, there are some papers and items attached to a bulletin board, indicating an informal or domestic environment. The lighting appears to be warm, adding to the comfortable feel of the surroundings. The table has a white lace tablecloth, enhancing the homely atmosphere. The text \"Chasing My Rejected Wife\" is overlaid at the top of the image.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 206,
+                            "right": 185,
+                            "bottom": 295,
+                            "left": 96
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:39.867",
+        "end_timecode": "00:02:42.767",
+        "start_seconds": 159.86666666666667,
+        "end_seconds": 162.76666666666668,
+        "start_frame": 4796,
+        "end_frame": 4883,
+        "cut_scene_number": 67,
+        "frame_paths": [
+            "frames/scene_67_frame_4796.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_67_frame_4796.jpg",
+                "caption": "The image appears to be a promotional still from a show or movie titled \"Chasing My Rejected Wife.\" It features a man in a suit and tie sitting inside a vehicle, possibly a car. He is engaged in a phone conversation, holding the phone to his ear. The expression on his face suggests he is speaking or listening intently. The interior of the car is dimly lit, and the question \"who is this?\" is captioned, indicating dialogue from the scene. The surroundings outside the car are not visible, focusing solely on the interaction taking place inside.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 211,
+                            "right": 282,
+                            "bottom": 340,
+                            "left": 153
+                        },
+                        "setting_ID": "person_1_setting_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:42.767",
+        "end_timecode": "00:02:46.067",
+        "start_seconds": 162.76666666666668,
+        "end_seconds": 166.06666666666666,
+        "start_frame": 4883,
+        "end_frame": 4982,
+        "cut_scene_number": 68,
+        "frame_paths": [
+            "frames/scene_68_frame_4883.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_68_frame_4883.jpg",
+                "caption": "The image depicts a man sitting inside a car, viewed from the side. He appears to be talking on a phone, with a thoughtful expression. The interior of the car is dimly lit, and the man is wearing a dark suit with a white shirt and tie. The background is blurred but indicates the setting is the interior of a vehicle. A title is overlaid in the upper left corner, reading \"Chasing My Rejected Wife.\"",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:46.067",
+        "end_timecode": "00:02:51.667",
+        "start_seconds": 166.06666666666666,
+        "end_seconds": 171.66666666666666,
+        "start_frame": 4982,
+        "end_frame": 5150,
+        "cut_scene_number": 69,
+        "frame_paths": [
+            "frames/scene_69_frame_4982.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_69_frame_4982.jpg",
+                "caption": "The image shows a woman sitting at a dining table with a phone to her ear. She has dark hair and is wearing a brown sweater. The table has a white tablecloth and a small floral centerpiece. In the background, there is a refrigerator and a portion of a kitchen can be seen. The setting appears to be a domestic environment.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 146,
+                            "right": 205,
+                            "bottom": 236,
+                            "left": 116
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:51.667",
+        "end_timecode": "00:03:01.533",
+        "start_seconds": 171.66666666666666,
+        "end_seconds": 181.53333333333333,
+        "start_frame": 5150,
+        "end_frame": 5446,
+        "cut_scene_number": 70,
+        "frame_paths": [
+            "frames/scene_70_frame_5150.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_70_frame_5150.jpg",
+                "caption": "The image shows a man in a dark environment, likely inside a vehicle, given the limited visible surroundings. He is wearing a suit and holding a phone to his ear, suggesting he is engaged in a conversation. The background is dimly lit, creating a focused emphasis on the man's contemplative expression. The text \"Chasing My Rejected Wife\" appears at the top of the image, indicating it could be a promotional or cover image for media content. The setting appears to be an intimate, possibly tense moment based on the visual composition.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 253,
+                            "right": 218,
+                            "bottom": 408,
+                            "left": 64
+                        },
+                        "setting_ID": "person_1_setting_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:01.533",
+        "end_timecode": "00:03:02.100",
+        "start_seconds": 181.53333333333333,
+        "end_seconds": 182.1,
+        "start_frame": 5446,
+        "end_frame": 5463,
+        "cut_scene_number": 71,
+        "frame_paths": [
+            "frames/scene_71_frame_5446.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_71_frame_5446.jpg",
+                "caption": "The image shows a close-up of a person's face seen through a car's side mirror. The individual appears to be wearing formal attire, possibly a suit and tie. The expression on their face is thoughtful or contemplative. The background outside the car is blurred with hints of green, suggesting trees or vegetation, and the overall setting seems to be during the daytime. The words \"Chasing My Rejected Wife\" are overlaid at the top of the image.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:02.100",
+        "end_timecode": "00:03:03.133",
+        "start_seconds": 182.1,
+        "end_seconds": 183.13333333333333,
+        "start_frame": 5463,
+        "end_frame": 5494,
+        "cut_scene_number": 72,
+        "frame_paths": [
+            "frames/scene_72_frame_5463.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_72_frame_5463.jpg",
+                "caption": "The image shows a cozy indoor setting with a woman sitting at a table. She is wearing a brown knitted sweater. In the foreground, there's a lace-patterned tablecloth, and a centerpiece with what appears to be a bouquet of pink flowers. To the side, there are small containers, likely condiments or spices. Behind her, a blurred background hints at kitchen appliances, including a refrigerator. The overall atmosphere is warm and inviting.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 136,
+                            "right": 255,
+                            "bottom": 226,
+                            "left": 165
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:03.133",
+        "end_timecode": "00:03:05.100",
+        "start_seconds": 183.13333333333333,
+        "end_seconds": 185.1,
+        "start_frame": 5494,
+        "end_frame": 5553,
+        "cut_scene_number": 73,
+        "frame_paths": [
+            "frames/scene_73_frame_5494.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_73_frame_5494.jpg",
+                "caption": "The image shows a kitchen setting with light-colored cabinets and countertops. A person is standing and serving a plate at a round table covered with a lace tablecloth. Another person is seated at the table. The kitchen has typical equipment like a microwave and various kitchen items on the counters. The environment gives a cozy and domestic feel.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:05.100",
+        "end_timecode": "00:03:06.667",
+        "start_seconds": 185.1,
+        "end_seconds": 186.66666666666666,
+        "start_frame": 5553,
+        "end_frame": 5600,
+        "cut_scene_number": 74,
+        "frame_paths": [
+            "frames/scene_74_frame_5553.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_74_frame_5553.jpg",
+                "caption": "The image shows a woman with dark hair tied back, wearing a brown sweater. She is seated at a table, smiling and looking slightly upward. In the foreground, there is a vase with pink and orange flowers on the table. The background features a blurred interior setting, potentially a dining or kitchen area, with wooden furniture and warm lighting. A faint text overlay reads \"Chasing My Rejected Wife\" at the top and \"Wow. That's delicious.\" at the bottom.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:06.667",
+        "end_timecode": "00:03:12.900",
+        "start_seconds": 186.66666666666666,
+        "end_seconds": 192.9,
+        "start_frame": 5600,
+        "end_frame": 5787,
+        "cut_scene_number": 75,
+        "frame_paths": [
+            "frames/scene_75_frame_5600.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_75_frame_5600.jpg",
+                "caption": "The image depicts a kitchen environment with light-colored cabinets and drawers. On the countertop, there is a microwave, a black coffee maker, and some other kitchen items. In the foreground, a round table is covered with a lace tablecloth, decorated with a floral centerpiece. Two people are present: one sitting at the table and the other standing nearby. The words \"Wow. That's delicious.\" are overlaid on the image, and \"Chasing My Rejected Wife\" is displayed at the top.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:12.900",
+        "end_timecode": "00:03:14.600",
+        "start_seconds": 192.9,
+        "end_seconds": 194.6,
+        "start_frame": 5787,
+        "end_frame": 5838,
+        "cut_scene_number": 76,
+        "frame_paths": [
+            "frames/scene_76_frame_5787.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_76_frame_5787.jpg",
+                "caption": "The image shows a woman with dark hair wearing a brown sweater, smiling and holding a fork. She seems to be sitting at a table with a white lace tablecloth. A blurred figure is in the foreground, likely seated across from her. The setting appears to be indoors, possibly a dining area. Text on the image reads, \"Chasing My Rejected Wife\" at the top and \"I've been dying to know.\" at the bottom, suggesting it's a scene from a visual novel or a similar media piece.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 146,
+                            "right": 235,
+                            "bottom": 236,
+                            "left": 145
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:14.600",
+        "end_timecode": "00:03:17.500",
+        "start_seconds": 194.6,
+        "end_seconds": 197.5,
+        "start_frame": 5838,
+        "end_frame": 5925,
+        "cut_scene_number": 77,
+        "frame_paths": [
+            "frames/scene_77_frame_5838.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_77_frame_5838.jpg",
+                "caption": "The image shows two people sitting at a dining table. The environment appears to be a kitchen or dining area, indicated by the presence of cabinets and appliances in the background. The lighting is warm, suggesting a cozy indoor setting. A table with a woven tablecloth and cutlery is visible in the foreground. The text overlaid on the image reads, \"Is the CEO as handsome and as sexy\" and at the top, it says \"Chasing My Rejected Wife.\"",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:17.500",
+        "end_timecode": "00:03:18.733",
+        "start_seconds": 197.5,
+        "end_seconds": 198.73333333333332,
+        "start_frame": 5925,
+        "end_frame": 5962,
+        "cut_scene_number": 78,
+        "frame_paths": [
+            "frames/scene_78_frame_5925.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_78_frame_5925.jpg",
+                "caption": "The image depicts a woman indoors, possibly in a kitchen or living area, as suggested by the blurred background that seems to include kitchen appliances or cabinets. She has dark hair pulled back into a bun and is wearing a brown cardigan. She is holding a fork in her hand, suggesting she might be eating or about to eat. The setting appears to be cozy and warm. There is text at the top stating \"Chasing My Rejected Wife\" and more text at the bottom.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:18.733",
+        "end_timecode": "00:03:19.933",
+        "start_seconds": 198.73333333333332,
+        "end_seconds": 199.93333333333334,
+        "start_frame": 5962,
+        "end_frame": 5998,
+        "cut_scene_number": 79,
+        "frame_paths": [
+            "frames/scene_79_frame_5962.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_79_frame_5962.jpg",
+                "caption": "The image features a woman with long brown hair smiling. She is seated indoors, possibly at a dining table, as indicated by the tablecloth edge visible in the foreground. The background includes a kitchen area with soft lighting, and blurred elements suggest cabinets and kitchenware. The text overlay at the top says \"Chasing My Rejected Wife,\" and at the bottom, it reads, \"as they say he is?\" The overall ambiance appears to be warm and domestic.",
+                "faces": [
+                    {
+                        "person_id": 4,
+                        "face_location": {
+                            "top": 202,
+                            "right": 287,
+                            "bottom": 356,
+                            "left": 132
+                        },
+                        "setting_ID": "person_4_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:19.933",
+        "end_timecode": "00:03:21.567",
+        "start_seconds": 199.93333333333334,
+        "end_seconds": 201.56666666666666,
+        "start_frame": 5998,
+        "end_frame": 6047,
+        "cut_scene_number": 80,
+        "frame_paths": [
+            "frames/scene_80_frame_5998.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_80_frame_5998.jpg",
+                "caption": "The image shows a woman sitting at a dining table, appearing to smile while holding a fork. She is wearing a brown sweater. In front of her is a table with a white tablecloth and a blurred arrangement of flowers. The background contains what seems to be a kitchen area, including a section of a refrigerator. Text overlays the image near the top (\"Chasin' My Rejected Wife\") and bottom (\"Yes, he's handsome and good looking\").",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 156,
+                            "right": 235,
+                            "bottom": 245,
+                            "left": 145
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:21.567",
+        "end_timecode": "00:03:23.200",
+        "start_seconds": 201.56666666666666,
+        "end_seconds": 203.2,
+        "start_frame": 6047,
+        "end_frame": 6096,
+        "cut_scene_number": 81,
+        "frame_paths": [
+            "frames/scene_81_frame_6047.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_81_frame_6047.jpg",
+                "caption": "The image shows a cozy indoor environment, likely a dining or living area. In the foreground, there's a round table covered with a white, lace tablecloth. On the table, there's a clear vase holding a bouquet of flowers with orange and pink blooms, and some dining items like condiment bottles. Two young adults are sitting at the table, facing the camera with pleasant expressions. Behind them, there is a muted beige wall with a framed artwork or picture hanging on it. The lighting is warm, giving the room an inviting feel. The text overlay at the top reads \"Chasing My Rejected Wife\" and below the people, there is a subtitle: \"Yes, he's handsome and good looking.\"",
+                "faces": [
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 205,
+                            "right": 279,
+                            "bottom": 257,
+                            "left": 227
+                        },
+                        "setting_ID": "person_5_setting_0"
+                    },
+                    {
+                        "person_id": 4,
+                        "face_location": {
+                            "top": 199,
+                            "right": 147,
+                            "bottom": 251,
+                            "left": 95
+                        },
+                        "setting_ID": "person_4_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:23.200",
+        "end_timecode": "00:03:25.333",
+        "start_seconds": 203.2,
+        "end_seconds": 205.33333333333334,
+        "start_frame": 6096,
+        "end_frame": 6160,
+        "cut_scene_number": 82,
+        "frame_paths": [
+            "frames/scene_82_frame_6096.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_82_frame_6096.jpg",
+                "caption": "The image features a woman seated indoors, possibly engaged in a conversation. She is wearing a dark sweater and has her hair styled in a casual updo. She is holding a fork and appears to be dining, suggesting a setting like a dining room or a restaurant. The background shows a blurred view of what could be furniture or part of the room, with warm lighting adding a cozy atmosphere. Subtitles at the bottom of the image read, \"And if you want to know more, you can ask his wife.\" A title at the top reads, \"Chasing My Rejected Wife.\"",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 128,
+                            "right": 235,
+                            "bottom": 235,
+                            "left": 127
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:25.333",
+        "end_timecode": "00:03:26.567",
+        "start_seconds": 205.33333333333334,
+        "end_seconds": 206.56666666666666,
+        "start_frame": 6160,
+        "end_frame": 6197,
+        "cut_scene_number": 83,
+        "frame_paths": [
+            "frames/scene_83_frame_6160.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_83_frame_6160.jpg",
+                "caption": "The image shows a young woman sitting at a table, looking to the side with a neutral expression. She has long brown hair and is wearing a simple gray shirt. The table in front of her has a lace tablecloth with what appears to be a green plate and a knife on top. The setting is indoors, possibly in a kitchen or dining area, as suggested by the blurred background that includes kitchen appliances or cabinets. The text \"Chasing My Rejected Wife\" is overlaid at the top, with additional text at the bottom: \"And if you want to know more, you can ask his wife.\"",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:26.567",
+        "end_timecode": "00:03:28.033",
+        "start_seconds": 206.56666666666666,
+        "end_seconds": 208.03333333333333,
+        "start_frame": 6197,
+        "end_frame": 6241,
+        "cut_scene_number": 84,
+        "frame_paths": [
+            "frames/scene_84_frame_6197.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_84_frame_6197.jpg",
+                "caption": "The image shows an indoor setting with a woman in focus. She has dark hair pulled back and is wearing a brown sweater. The background appears to be a kitchen, with a countertop and blurred kitchen appliances visible. Text on the image reads: \"He's married? Yes.\" The overall atmosphere seems warm and homely.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:28.033",
+        "end_timecode": "00:03:29.700",
+        "start_seconds": 208.03333333333333,
+        "end_seconds": 209.7,
+        "start_frame": 6241,
+        "end_frame": 6291,
+        "cut_scene_number": 85,
+        "frame_paths": [
+            "frames/scene_85_frame_6241.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_85_frame_6241.jpg",
+                "caption": "The image depicts a cozy, indoor dining setting. Three people are seated at a round table covered with a lace tablecloth. On the table, there is a vase with colorful flowers and several condiments, including a salt and pepper shaker. In the background, you can see a warm-toned wall with an open shelf holding a few books or decorative items. The scene is casual and intimate, suggesting a relaxed domestic environment. The caption on the image reads, \"And he is very devoted to his wife,\" implying a focus on relationships.",
+                "faces": [
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 205,
+                            "right": 273,
+                            "bottom": 257,
+                            "left": 222
+                        },
+                        "setting_ID": "person_5_setting_0"
+                    },
+                    {
+                        "person_id": 4,
+                        "face_location": {
+                            "top": 199,
+                            "right": 141,
+                            "bottom": 251,
+                            "left": 89
+                        },
+                        "setting_ID": "person_4_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:29.700",
+        "end_timecode": "00:03:32.633",
+        "start_seconds": 209.7,
+        "end_seconds": 212.63333333333333,
+        "start_frame": 6291,
+        "end_frame": 6379,
+        "cut_scene_number": 86,
+        "frame_paths": [
+            "frames/scene_86_frame_6291.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_86_frame_6291.jpg",
+                "caption": "The image shows a woman with brown hair wearing a cozy, brown sweater. She has a cheerful expression and is holding a fork. The setting appears to be indoors, likely in a dining area, as there is a blurred view of flowers and possibly food in front of her. The top part of the image features text saying \"Chasing My Rejected Wife,\" and at the bottom, there is a subtitle that reads, \"And he is very devoted to his wife.\" The environment has a warm, domestic feel, suggesting an intimate or conversational scene.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 133,
+                            "right": 270,
+                            "bottom": 288,
+                            "left": 115
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:32.633",
+        "end_timecode": "00:03:34.533",
+        "start_seconds": 212.63333333333333,
+        "end_seconds": 214.53333333333333,
+        "start_frame": 6379,
+        "end_frame": 6436,
+        "cut_scene_number": 87,
+        "frame_paths": [
+            "frames/scene_87_frame_6379.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_87_frame_6379.jpg",
+                "caption": "The picture depicts two people seated at a table in a cozy, indoor setting. The table is covered with a white lace tablecloth, adorned with a floral arrangement that includes pink and orange flowers. Behind them, there's a glimpse of a kitchen area with a beige wall, featuring a small shelf and some kitchen items. The setting feels warm and inviting, suggesting it's a casual home environment. Text on the image reads, \"He bought her a $2 million necklace.\"",
+                "faces": [
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 221,
+                            "right": 295,
+                            "bottom": 296,
+                            "left": 220
+                        },
+                        "setting_ID": "person_5_setting_0"
+                    },
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 186,
+                            "right": 135,
+                            "bottom": 275,
+                            "left": 46
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:34.533",
+        "end_timecode": "00:03:36.300",
+        "start_seconds": 214.53333333333333,
+        "end_seconds": 216.3,
+        "start_frame": 6436,
+        "end_frame": 6489,
+        "cut_scene_number": 88,
+        "frame_paths": [
+            "frames/scene_88_frame_6436.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_88_frame_6436.jpg",
+                "caption": "The image shows a woman in a cozy indoor environment. She is wearing a brown sweater and has dark hair tied up. The background appears to be a kitchen or dining area, with a blurred appliance or cabinet in view, suggesting a domestic setting. The lighting is warm and soft, enhancing the intimate atmosphere. Text at the top reads “Chasing My Rejected Wife,” and there’s a partial quote at the bottom that begins with “I had this weird feeling like I.”",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:36.300",
+        "end_timecode": "00:03:37.967",
+        "start_seconds": 216.3,
+        "end_seconds": 217.96666666666667,
+        "start_frame": 6489,
+        "end_frame": 6539,
+        "cut_scene_number": 89,
+        "frame_paths": [
+            "frames/scene_89_frame_6489.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_89_frame_6489.jpg",
+                "caption": "The picture shows a woman sitting at a table, holding a fork. She is smiling and appears to be engaged in conversation. She has long dark hair and is wearing a brown top. In the foreground, blurred, there appear to be flowers, possibly part of a table decoration or centerpiece. There is another person partially visible, sitting across from her. The text \"I don't know, see him before.\" is displayed on the image, and the top corner has a title \"Chasing My Rejected Wife.\" The setting appears to be a dining area, likely indoors.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 125,
+                            "right": 196,
+                            "bottom": 254,
+                            "left": 67
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:37.967",
+        "end_timecode": "00:03:39.967",
+        "start_seconds": 217.96666666666667,
+        "end_seconds": 219.96666666666667,
+        "start_frame": 6539,
+        "end_frame": 6599,
+        "cut_scene_number": 90,
+        "frame_paths": [
+            "frames/scene_90_frame_6539.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_90_frame_6539.jpg",
+                "caption": "The image shows an indoor setting, likely a dining or kitchen area. Two people are seated at a table covered with a white lace tablecloth. On the table, there is a colorful flower arrangement and various condiments. Behind them, there is an open kitchen area with shelves featuring a green book or folder. The people appear to be engaged in conversation, and there's a caption at the bottom that reads, \"Just don't forget, Aileen.\"",
+                "faces": [
+                    {
+                        "person_id": 4,
+                        "face_location": {
+                            "top": 213,
+                            "right": 121,
+                            "bottom": 287,
+                            "left": 46
+                        },
+                        "setting_ID": "person_4_setting_0"
+                    },
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 213,
+                            "right": 287,
+                            "bottom": 287,
+                            "left": 212
+                        },
+                        "setting_ID": "person_5_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:39.967",
+        "end_timecode": "00:03:42.767",
+        "start_seconds": 219.96666666666667,
+        "end_seconds": 222.76666666666668,
+        "start_frame": 6599,
+        "end_frame": 6683,
+        "cut_scene_number": 91,
+        "frame_paths": [
+            "frames/scene_91_frame_6599.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_91_frame_6599.jpg",
+                "caption": "In the image, there is a woman with dark hair styled in a casual, natural look. She is inside a room, possibly a dining area, given the presence of a table in front of her. The woman is wearing a brown top and is holding a yellow pen or utensil in her hand. On the table, part of a floral arrangement is visible, adding a touch of color. A red and white object, possibly a condiment container, is also on the table. The overall setting appears domestic and intimate, suggesting a personal or conversational atmosphere. There's text overlaid on the image, contributing to the context of the scene.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 116,
+                            "right": 201,
+                            "bottom": 270,
+                            "left": 46
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:42.767",
+        "end_timecode": "00:03:45.767",
+        "start_seconds": 222.76666666666668,
+        "end_seconds": 225.76666666666668,
+        "start_frame": 6683,
+        "end_frame": 6773,
+        "cut_scene_number": 92,
+        "frame_paths": [
+            "frames/scene_92_frame_6683.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_92_frame_6683.jpg",
+                "caption": "The image shows a dining scene with two people seated at a table covered with a white lace tablecloth. In front of them is a decorative vase filled with a variety of flowers, including pink and orange blooms. On the table, there are also several spice containers, and some plates with food. The setting appears to be indoors, likely a kitchen or dining area, as there is a kitchen counter visible in the background. The background features a light-colored wall with a shelf holding a few kitchen items. Text overlay reads, \"Chasing My Rejected Wife\" at the top, and \"What? do you want Aileen\" at the bottom.",
+                "faces": [
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 204,
+                            "right": 278,
+                            "bottom": 279,
+                            "left": 204
+                        },
+                        "setting_ID": "person_5_setting_0"
+                    },
+                    {
+                        "person_id": 4,
+                        "face_location": {
+                            "top": 196,
+                            "right": 126,
+                            "bottom": 285,
+                            "left": 36
+                        },
+                        "setting_ID": "person_4_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:45.767",
+        "end_timecode": "00:03:47.100",
+        "start_seconds": 225.76666666666668,
+        "end_seconds": 227.1,
+        "start_frame": 6773,
+        "end_frame": 6813,
+        "cut_scene_number": 93,
+        "frame_paths": [
+            "frames/scene_93_frame_6773.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_93_frame_6773.jpg",
+                "caption": "The image shows a woman sitting at a table. She appears to be in an indoor setting, likely a dining room, with a blurred background featuring dark and light areas. She has long brown hair and is holding a fork in her right hand, suggesting she is about to eat. In front of her, there is a plate with what seems to be a salad or a meal that includes lettuce and possibly flowers or garnishes. The atmosphere appears intimate and calm. The text on the image reads, \"Waiting for her future husband,\" along with the text \"Chasing My Rejected Wife\" at the top.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 133,
+                            "right": 218,
+                            "bottom": 288,
+                            "left": 64
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:47.100",
+        "end_timecode": "00:03:48.967",
+        "start_seconds": 227.1,
+        "end_seconds": 228.96666666666667,
+        "start_frame": 6813,
+        "end_frame": 6869,
+        "cut_scene_number": 94,
+        "frame_paths": [
+            "frames/scene_94_frame_6813.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_94_frame_6813.jpg",
+                "caption": "The image shows two people seated at a dining table in what appears to be a cozy kitchen or dining room. The table is covered with a white lace tablecloth, and there is a vibrant floral arrangement with pink, orange, and yellow flowers. Besides the flowers, there are meal plates and a small jar of condiments on the table. The background features a shelf with books and a framed picture, and the color scheme of the room includes warm, neutral tones.",
+                "faces": [
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 204,
+                            "right": 278,
+                            "bottom": 279,
+                            "left": 204
+                        },
+                        "setting_ID": "person_5_setting_0"
+                    },
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 213,
+                            "right": 113,
+                            "bottom": 287,
+                            "left": 38
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:48.967",
+        "end_timecode": "00:03:55.300",
+        "start_seconds": 228.96666666666667,
+        "end_seconds": 235.3,
+        "start_frame": 6869,
+        "end_frame": 7059,
+        "cut_scene_number": 95,
+        "frame_paths": [
+            "frames/scene_95_frame_6869.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_95_frame_6869.jpg",
+                "caption": "The image shows a person sitting at a dining table, smiling while looking down, possibly at a meal. In the foreground, there's a blurry view of flowers in a vase, giving a cozy and intimate atmosphere. The background is softly out of focus, indicating an indoor setting, likely a dining room or kitchen. The lighting is warm and soft, enhancing the cozy feel of the scene. There's also a small red container visible on the table, suggesting condiments or seasonings as part of the meal setup.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 196,
+                            "right": 210,
+                            "bottom": 325,
+                            "left": 81
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:55.300",
+        "end_timecode": "00:03:56.867",
+        "start_seconds": 235.3,
+        "end_seconds": 236.86666666666667,
+        "start_frame": 7059,
+        "end_frame": 7106,
+        "cut_scene_number": 96,
+        "frame_paths": [
+            "frames/scene_96_frame_7059.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_96_frame_7059.jpg",
+                "caption": "The image shows a person in a cozy indoor setting. The individual has dark hair pulled back and appears engaged in conversation. They are wearing a dark brown, ribbed sweater and small, gold earrings. In the background, there's a kitchen with a light-colored countertop and a visible appliance. The text over the image reads \"Chasing My Rejected Wife\" at the top and a caption at the bottom states, \"You know, because I.\" The overall atmosphere is warm and inviting.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:56.867",
+        "end_timecode": "00:03:59.433",
+        "start_seconds": 236.86666666666667,
+        "end_seconds": 239.43333333333334,
+        "start_frame": 7106,
+        "end_frame": 7183,
+        "cut_scene_number": 97,
+        "frame_paths": [
+            "frames/scene_97_frame_7106.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_97_frame_7106.jpg",
+                "caption": "The image shows a young woman seated at a table, resting her head on her hand. She has long brown hair and is looking to the right, smiling slightly. The background appears to be a kitchen with light-colored cabinets and a countertop. The lighting is warm and soft, giving a cozy atmosphere. There is some text overlaying the image, but the visible environment is primarily focused on the kitchen setting.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:59.433",
+        "end_timecode": "00:04:02.433",
+        "start_seconds": 239.43333333333334,
+        "end_seconds": 242.43333333333334,
+        "start_frame": 7183,
+        "end_frame": 7273,
+        "cut_scene_number": 98,
+        "frame_paths": [
+            "frames/scene_98_frame_7183.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_98_frame_7183.jpg",
+                "caption": "The image shows a woman with dark hair styled in a loose bun, sitting indoors. She is wearing a cozy, brown knitted sweater. The environment appears to be a kitchen or dining area, with blurred background details including countertops and kitchen appliances. The lighting is warm, creating a comfortable and intimate atmosphere. She is holding a pencil or pen and looking downwards, suggesting she might be writing or drawing. There's visible text at the bottom that reads: \"She really wanted to see me married, so.\"",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:02.433",
+        "end_timecode": "00:04:03.733",
+        "start_seconds": 242.43333333333334,
+        "end_seconds": 243.73333333333332,
+        "start_frame": 7273,
+        "end_frame": 7312,
+        "cut_scene_number": 99,
+        "frame_paths": [
+            "frames/scene_99_frame_7273.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_99_frame_7273.jpg",
+                "caption": "The image shows a cozy indoor setting with three people sitting around a round table covered with a lace tablecloth. On the table, there's a floral centerpiece, and two condiment containers are visible. The environment appears to be a dining or living area, given the background elements like a shelf with decorative items, a framed picture, and warm lighting. The overall atmosphere is warm and intimate.",
+                "faces": [
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 205,
+                            "right": 262,
+                            "bottom": 257,
+                            "left": 210
+                        },
+                        "setting_ID": "person_5_setting_0"
+                    },
+                    {
+                        "person_id": 4,
+                        "face_location": {
+                            "top": 211,
+                            "right": 129,
+                            "bottom": 262,
+                            "left": 78
+                        },
+                        "setting_ID": "person_4_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:03.733",
+        "end_timecode": "00:04:05.167",
+        "start_seconds": 243.73333333333332,
+        "end_seconds": 245.16666666666666,
+        "start_frame": 7312,
+        "end_frame": 7355,
+        "cut_scene_number": 100,
+        "frame_paths": [
+            "frames/scene_100_frame_7312.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_100_frame_7312.jpg",
+                "caption": "The image shows a woman sitting at a dining table with a plate of food in front of her. She appears to be smiling as she looks down at her meal. The table has a floral arrangement with pink and cream-colored flowers, adding a touch of decor. There's another person sitting across from her, partially visible, suggesting a social or family setting. In the background, household items such as a refrigerator are visible, indicating a home environment. The overall atmosphere seems cozy and intimate, with warm lighting.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 187,
+                            "right": 211,
+                            "bottom": 295,
+                            "left": 103
+                        },
+                        "setting_ID": "person_0_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:05.167",
+        "end_timecode": "00:04:07.333",
+        "start_seconds": 245.16666666666666,
+        "end_seconds": 247.33333333333334,
+        "start_frame": 7355,
+        "end_frame": 7420,
+        "cut_scene_number": 101,
+        "frame_paths": [
+            "frames/scene_101_frame_7355.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_101_frame_7355.jpg",
+                "caption": "The image is an aerial view of a cityscape featuring a dense cluster of high-rise buildings. Several skyscrapers prominently dominate the scene, including some with unique architecture and different facade designs. The area appears to be a bustling urban environment with many office buildings. The background shows a hazy skyline, suggesting the presence of light fog or smog. Overall, the environment is metropolitan, highlighting the busy and developed nature of the city.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:07.333",
+        "end_timecode": "00:04:09.067",
+        "start_seconds": 247.33333333333334,
+        "end_seconds": 249.06666666666666,
+        "start_frame": 7420,
+        "end_frame": 7472,
+        "cut_scene_number": 102,
+        "frame_paths": [
+            "frames/scene_102_frame_7420.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_102_frame_7420.jpg",
+                "caption": "The image shows a man playing pool indoors. He is focused, leaning over a pool table while aiming a cue at the white cue ball. The room features wood-paneled walls and colorful patterned curtains in the background. The pool table is black, and there are several balls visible on the table surface. The atmosphere suggests a relaxed or recreational setting.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:09.067",
+        "end_timecode": "00:04:10.633",
+        "start_seconds": 249.06666666666666,
+        "end_seconds": 250.63333333333333,
+        "start_frame": 7472,
+        "end_frame": 7519,
+        "cut_scene_number": 103,
+        "frame_paths": [
+            "frames/scene_103_frame_7472.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_103_frame_7472.jpg",
+                "caption": "The image shows a person standing indoors. He is holding a pool cue, suggesting that he might be playing or preparing to play pool. He is wearing a dark blue polo shirt and gray pants. Behind him, a large window with an arched top is visible, allowing natural light to filter into the room. The setting appears to be a well-lit room, possibly a game or billiard room. There's a pool table in the foreground with some balls on it. The overall ambiance suggests a casual and relaxed environment.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:10.633",
+        "end_timecode": "00:04:15.867",
+        "start_seconds": 250.63333333333333,
+        "end_seconds": 255.86666666666667,
+        "start_frame": 7519,
+        "end_frame": 7676,
+        "cut_scene_number": 104,
+        "frame_paths": [
+            "frames/scene_104_frame_7519.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_104_frame_7519.jpg",
+                "caption": "In the picture, there are two individuals standing indoors, possibly in a study or formal room. The surroundings feature wooden paneling and what appears to be a billiard table at the front. The person on the left is wearing a white blouse and black skirt, and the person on the right is in a navy blazer and beige pants. They both seem to be looking attentively at something off-camera. The atmosphere is formal, with a focus on the individuals and the elegant backdrop.",
+                "faces": [
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 118,
+                            "right": 279,
+                            "bottom": 170,
+                            "left": 227
+                        },
+                        "setting_ID": "person_2_setting_1"
+                    },
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 118,
+                            "right": 141,
+                            "bottom": 170,
+                            "left": 89
+                        },
+                        "setting_ID": "person_0_setting_0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:15.867",
+        "end_timecode": "00:04:20.600",
+        "start_seconds": 255.86666666666667,
+        "end_seconds": 260.6,
+        "start_frame": 7676,
+        "end_frame": 7818,
+        "cut_scene_number": 105,
+        "frame_paths": [
+            "frames/scene_105_frame_7676.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_105_frame_7676.jpg",
+                "caption": "The image shows two people standing indoors, with a wood-paneled wall in the background. The person on the left is wearing a white blouse and dark trousers, with their hair tied back. The person on the right is dressed in a dark blazer, light shirt, and beige trousers, with arms crossed and a watch visible on the wrist. There is text overlaid at the top and bottom of the image. The setting suggests a formal or professional environment.",
+                "faces": [
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 116,
+                            "right": 335,
+                            "bottom": 206,
+                            "left": 245
+                        },
+                        "setting_ID": "person_2_setting_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:20.600",
+        "end_timecode": "00:04:21.867",
+        "start_seconds": 260.6,
+        "end_seconds": 261.8666666666667,
+        "start_frame": 7818,
+        "end_frame": 7856,
+        "cut_scene_number": 106,
+        "frame_paths": [
+            "frames/scene_106_frame_7818.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_106_frame_7818.jpg",
+                "caption": "The image shows a person holding a billiard cue in what appears to be an indoor setting. The individual is wearing a dark short-sleeved shirt. Behind them, there's a patterned curtain featuring a mix of colors, likely floral or abstract. The room has wooden panels or furniture, contributing to a warm and classic environment. There is also some text at the top indicating a title or brand.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 125,
+                            "right": 296,
+                            "bottom": 254,
+                            "left": 167
+                        },
+                        "setting_ID": "person_1_setting_2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:21.867",
+        "end_timecode": "00:04:24.000",
+        "start_seconds": 261.8666666666667,
+        "end_seconds": 264.0,
+        "start_frame": 7856,
+        "end_frame": 7920,
+        "cut_scene_number": 107,
+        "frame_paths": [
+            "frames/scene_107_frame_7856.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_107_frame_7856.jpg",
+                "caption": "The image features an interior setting that appears to be a formal or professional environment. Two individuals, a woman and a man, are present. The woman is dressed in a white blouse and a black skirt, standing with her hands clasped in front of her. The man, wearing a dark blazer with a white shirt and beige trousers, stands with his arms crossed, looking towards her. Wooden walls and shelving units are part of the background, creating a sophisticated atmosphere. The overall composition suggests a serious or contemplative mood.",
+                "faces": [
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 113,
+                            "right": 312,
+                            "bottom": 188,
+                            "left": 237
+                        },
+                        "setting_ID": "person_2_setting_1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:24.000",
+        "end_timecode": "00:04:27.233",
+        "start_seconds": 264.0,
+        "end_seconds": 267.23333333333335,
+        "start_frame": 7920,
+        "end_frame": 8017,
+        "cut_scene_number": 108,
+        "frame_paths": [
+            "frames/scene_108_frame_7920.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_108_frame_7920.jpg",
+                "caption": "The image shows a person holding a pool cue, standing next to a pool table. The room has wooden paneling and a large, arched window with curtains, through which natural light is shining. There are several balls on the pool table, and the atmosphere suggests an indoor setting, possibly a recreation or game room. The overall lighting is soft and diffused.",
+                "faces": []
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:27.233",
+        "end_timecode": "00:04:30.000",
+        "start_seconds": 267.23333333333335,
+        "end_seconds": 270.0,
+        "start_frame": 8017,
+        "end_frame": 8100,
+        "cut_scene_number": 109,
+        "frame_paths": [
+            "frames/scene_109_frame_8017.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_109_frame_8017.jpg",
+                "caption": "The image shows a woman standing indoors. She is wearing a white button-up blouse and dark pants. Her hair is styled in a loose ponytail. The background features wooden paneling and floral curtains, suggesting a classic or vintage-style interior. Visible text on the image reads, \"Chasing My Rejected Wife\" and \"Anthony, where did you find this gem?\"",
+                "faces": []
+            }
+        ]
+    }
+]

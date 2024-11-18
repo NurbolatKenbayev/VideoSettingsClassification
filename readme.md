@@ -5,7 +5,7 @@
 
 `pip install python-dotenv`
 
-`pip install face_recognition` (requires `dlib`, which in turn requires C++ build tools. You will need to have `cmake`, `gcc` and `g++` on your system. Install `dlib` before installing `face_recognition`.)
+`pip install face_recognition` (requires `dlib`, which in turn requires C++ build tools. You will need to have `cmake`, `gcc` and `g++` on your system. Install `pip install dlib` before installing `face_recognition`.)
 or if it doesn't work install manually (**preferred**):
 (You will need to have `cmake` on your system: `sudo apt update` + `sudo apt install cmake`)
 Go to https://pypi.org/project/face-recognition/#files and download `face_recognition-1.3.0.tar.gz`

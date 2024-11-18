@@ -1,0 +1,56 @@
+[
+    {
+        "start_timecode": "00:00:00.000",
+        "end_timecode": "00:00:00.933",
+        "start_seconds": 0.0,
+        "end_seconds": 0.9333333333333333,
+        "start_frame": 0,
+        "end_frame": 28,
+        "cut_scene_number": 1,
+        "frame_paths": [
+            "frames/scene_1_frame_0.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_1_frame_0.jpg",
+                "caption": "In the image, a woman with blonde hair is lying down, gazing upwards with a concerned expression. She appears to be in a hospital setting, suggested by the hospital gown. The background is blurred, with subtle, neutral colors, contributing to a clinical atmosphere. The text overlay reads, \"Is the baby ok?\" indicating she's likely a patient inquiring about her baby. There is also a logo in the top right corner labeled \"DomiReel.\""
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:00.933",
+        "end_timecode": "00:00:03.200",
+        "start_seconds": 0.9333333333333333,
+        "end_seconds": 3.2,
+        "start_frame": 28,
+        "end_frame": 96,
+        "cut_scene_number": 2,
+        "frame_paths": [
+            "frames/scene_2_frame_28.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_2_frame_28.jpg",
+                "caption": "The image shows a woman sitting indoors, possibly in an office or meeting room. She is wearing a grey blazer and has her hair pulled back, with a few strands loose. She has a thoughtful expression on her face. There is a hand resting on her shoulder, suggesting comfort or support. In the background, there is a framed picture on the wall, and a digital device that looks like a thermostat or a small wall-mounted unit. The dialogue text on the image reads, \"Is the baby ok?\" indicating a conversation or concern about a baby. The environment appears formal, possibly professional."
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:03.200",
+        "end_timecode": "00:00:06.000",
+        "start_seconds": 3.2,
+        "end_seconds": 6.0,
+        "start_frame": 96,
+        "end_frame": 180,
+        "cut_scene_number": 3,
+        "frame_paths": [
+            "frames/scene_3_frame_96.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_3_frame_96.jpg",
+                "caption": "The image shows a person with gray hair looking down. The individual is wearing a light-colored jacket over a striped shirt. The background is blurred and appears to be an indoor setting. Text overlays provide a name and description, and there is a watermark in the bottom left corner. There's also an app icon featuring a cartoon cat in the top right corner."
+            }
+        ]
+    }
+]

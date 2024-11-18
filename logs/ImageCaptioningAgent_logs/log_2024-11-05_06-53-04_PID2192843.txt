@@ -1,9 +1,0 @@
-2024-11-05 06:53:04,788 - process_2192843 - INFO - 
-Generating captions for Scene 11 with 1 frames. 
-
-2024-11-05 06:53:11,990 - process_2192843 - INFO - 
-Generated caption for frame frames/scene_11_frame_595.jpg 
-
-2024-11-05 06:53:11,991 - process_2192843 - INFO - 
-Completed caption generation for Scene 11. 
-

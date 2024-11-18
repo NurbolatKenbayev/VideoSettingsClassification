@@ -1,0 +1,117 @@
+2024-11-19 00:13:51,421 - process_13249 - INFO - 
+Generating captions for Scene 5 with 1 frames. 
+
+2024-11-19 00:13:55,371 - process_13249 - INFO - 
+Generated caption for frame frames/scene_5_frame_315.jpg 
+
+2024-11-19 00:13:55,372 - process_13249 - INFO - 
+Completed caption generation for Scene 5. 
+
+2024-11-19 00:13:55,372 - process_13249 - INFO - 
+Generating captions for Scene 6 with 1 frames. 
+
+2024-11-19 00:13:58,432 - process_13249 - INFO - 
+Generated caption for frame frames/scene_6_frame_373.jpg 
+
+2024-11-19 00:13:58,433 - process_13249 - INFO - 
+Completed caption generation for Scene 6. 
+
+2024-11-19 00:13:58,433 - process_13249 - INFO - 
+Generating captions for Scene 7 with 1 frames. 
+
+2024-11-19 00:14:03,748 - process_13249 - INFO - 
+Generated caption for frame frames/scene_7_frame_519.jpg 
+
+2024-11-19 00:14:03,748 - process_13249 - INFO - 
+Completed caption generation for Scene 7. 
+
+2024-11-19 00:14:03,749 - process_13249 - INFO - 
+Generating captions for Scene 8 with 1 frames. 
+
+2024-11-19 00:14:08,372 - process_13249 - INFO - 
+Generated caption for frame frames/scene_8_frame_638.jpg 
+
+2024-11-19 00:14:08,372 - process_13249 - INFO - 
+Completed caption generation for Scene 8. 
+
+2024-11-19 00:14:08,372 - process_13249 - INFO - 
+Generating captions for Scene 45 with 1 frames. 
+
+2024-11-19 00:14:13,978 - process_13249 - INFO - 
+Generated caption for frame frames/scene_45_frame_3014.jpg 
+
+2024-11-19 00:14:13,978 - process_13249 - INFO - 
+Completed caption generation for Scene 45. 
+
+2024-11-19 00:14:13,978 - process_13249 - INFO - 
+Generating captions for Scene 46 with 1 frames. 
+
+2024-11-19 00:14:17,169 - process_13249 - INFO - 
+Generated caption for frame frames/scene_46_frame_3096.jpg 
+
+2024-11-19 00:14:17,170 - process_13249 - INFO - 
+Completed caption generation for Scene 46. 
+
+2024-11-19 00:14:17,170 - process_13249 - INFO - 
+Generating captions for Scene 47 with 1 frames. 
+
+2024-11-19 00:14:21,099 - process_13249 - INFO - 
+Generated caption for frame frames/scene_47_frame_3128.jpg 
+
+2024-11-19 00:14:21,099 - process_13249 - INFO - 
+Completed caption generation for Scene 47. 
+
+2024-11-19 00:14:21,099 - process_13249 - INFO - 
+Generating captions for Scene 48 with 1 frames. 
+
+2024-11-19 00:14:23,927 - process_13249 - INFO - 
+Generated caption for frame frames/scene_48_frame_3195.jpg 
+
+2024-11-19 00:14:23,928 - process_13249 - INFO - 
+Completed caption generation for Scene 48. 
+
+2024-11-19 00:14:23,928 - process_13249 - INFO - 
+Generating captions for Scene 73 with 1 frames. 
+
+2024-11-19 00:14:26,548 - process_13249 - INFO - 
+Generated caption for frame frames/scene_73_frame_5494.jpg 
+
+2024-11-19 00:14:26,548 - process_13249 - INFO - 
+Completed caption generation for Scene 73. 
+
+2024-11-19 00:14:26,548 - process_13249 - INFO - 
+Generating captions for Scene 74 with 1 frames. 
+
+2024-11-19 00:14:30,004 - process_13249 - INFO - 
+Generated caption for frame frames/scene_74_frame_5553.jpg 
+
+2024-11-19 00:14:30,004 - process_13249 - INFO - 
+Completed caption generation for Scene 74. 
+
+2024-11-19 00:14:30,004 - process_13249 - INFO - 
+Generating captions for Scene 75 with 1 frames. 
+
+2024-11-19 00:14:34,023 - process_13249 - INFO - 
+Generated caption for frame frames/scene_75_frame_5600.jpg 
+
+2024-11-19 00:14:34,023 - process_13249 - INFO - 
+Completed caption generation for Scene 75. 
+
+2024-11-19 00:14:34,024 - process_13249 - INFO - 
+Generating captions for Scene 76 with 1 frames. 
+
+2024-11-19 00:14:39,268 - process_13249 - INFO - 
+Generated caption for frame frames/scene_76_frame_5787.jpg 
+
+2024-11-19 00:14:39,268 - process_13249 - INFO - 
+Completed caption generation for Scene 76. 
+
+2024-11-19 00:14:39,269 - process_13249 - INFO - 
+Generating captions for Scene 109 with 1 frames. 
+
+2024-11-19 00:14:42,668 - process_13249 - INFO - 
+Generated caption for frame frames/scene_109_frame_8017.jpg 
+
+2024-11-19 00:14:42,669 - process_13249 - INFO - 
+Completed caption generation for Scene 109. 
+

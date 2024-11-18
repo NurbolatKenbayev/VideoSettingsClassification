@@ -1,0 +1,9 @@
+2024-11-19 00:01:53,560 - process_12970 - INFO - 
+Generating captions for Scene 2 with 1 frames. 
+
+2024-11-19 00:02:00,505 - process_12970 - INFO - 
+Generated caption for frame frames/scene_2_frame_28.jpg 
+
+2024-11-19 00:02:00,505 - process_12970 - INFO - 
+Completed caption generation for Scene 2. 
+

@@ -1,9 +1,0 @@
-2024-11-05 06:53:04,792 - process_2192860 - INFO - 
-Generating captions for Scene 28 with 1 frames. 
-
-2024-11-05 06:53:10,922 - process_2192860 - INFO - 
-Generated caption for frame frames/scene_28_frame_2660.jpg 
-
-2024-11-05 06:53:10,922 - process_2192860 - INFO - 
-Completed caption generation for Scene 28. 
-

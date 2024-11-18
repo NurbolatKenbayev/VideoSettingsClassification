@@ -1,9 +1,0 @@
-2024-11-05 06:53:04,788 - process_2192849 - INFO - 
-Generating captions for Scene 17 with 1 frames. 
-
-2024-11-05 06:53:11,205 - process_2192849 - INFO - 
-Generated caption for frame frames/scene_17_frame_1087.jpg 
-
-2024-11-05 06:53:11,205 - process_2192849 - INFO - 
-Completed caption generation for Scene 17. 
-

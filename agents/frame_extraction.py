@@ -1,3 +1,4 @@
+import copy
 import logging
 import os
 from typing import Dict, List
@@ -19,7 +20,7 @@ class FrameExtractor:
     ):
         self.logger = logging.getLogger("FrameExtractor")
         self.video_path = video_path
-        self.scenes = scenes
+        self.scenes = copy.deepcopy(scenes)
         self.output_dir = output_dir
         self.frames_per_scene = (
             frames_per_scene  # Number of frames to extract per scene
@@ -41,8 +42,6 @@ class FrameExtractor:
         if not cap.isOpened():
             self.logger.error(f"Failed to open video file: {self.video_path}")
             raise IOError(f"Failed to open video file: {self.video_path}")
-
-        frame_data_list = []
 
         for scene in self.scenes:
             scene_number = scene["cut_scene_number"]
@@ -82,8 +81,7 @@ class FrameExtractor:
                 frame_paths.append(frame_path)
 
             # Update scene metadata with frame paths
-            scene["frame_paths"] = frame_paths
-            frame_data_list.append(scene)
+            scene["frame_paths"] = frame_paths  # changes `self.scenes`
 
             self.logger.info(
                 f"Extracted {len(frame_paths)} frames for Scene {scene_number}"
@@ -92,7 +90,7 @@ class FrameExtractor:
         cap.release()
         self.logger.info("Frame extraction completed.")
 
-        return frame_data_list
+        return self.scenes
 
     def _get_frame_indices(
         self, start_frame: int, end_frame: int, num_frames: int

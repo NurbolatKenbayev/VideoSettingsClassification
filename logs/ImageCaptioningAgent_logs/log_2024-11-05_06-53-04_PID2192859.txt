@@ -1,9 +1,0 @@
-2024-11-05 06:53:04,792 - process_2192859 - INFO - 
-Generating captions for Scene 27 with 1 frames. 
-
-2024-11-05 06:53:10,762 - process_2192859 - INFO - 
-Generated caption for frame frames/scene_27_frame_2503.jpg 
-
-2024-11-05 06:53:10,762 - process_2192859 - INFO - 
-Completed caption generation for Scene 27. 
-

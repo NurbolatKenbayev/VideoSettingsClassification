@@ -1,0 +1,99 @@
+2024-11-18 23:59:35,493 - __main__ - INFO - 
+Main pipeline process started. 
+
+2024-11-19 00:01:09,993 - pyscenedetect - ERROR - 
+VideoManager is deprecated and will be removed. 
+
+2024-11-19 00:01:10,027 - pyscenedetect - INFO - 
+Loaded 1 video, framerate: 30.000 FPS, resolution: 1080 x 1920 
+
+2024-11-19 00:01:10,027 - VideoProcessor - INFO - 
+Using ContentDetector with threshold=27.0 
+
+2024-11-19 00:01:10,027 - pyscenedetect - INFO - 
+Downscale factor set to 4, effective resolution: 270 x 480 
+
+2024-11-19 00:01:10,027 - pyscenedetect - INFO - 
+Detecting scenes... 
+
+2024-11-19 00:01:10,506 - VideoProcessor - INFO - 
+Detected 3 scenes using content detector. 
+
+2024-11-19 00:01:10,509 - VideoProcessor - INFO - 
+VideoManager resources have been released. 
+
+2024-11-19 00:01:28,014 - FrameExtractor - INFO - 
+Starting frame extraction. 
+
+2024-11-19 00:01:28,085 - FrameExtractor - INFO - 
+Extracted 1 frames for Scene 1 
+
+2024-11-19 00:01:28,114 - FrameExtractor - INFO - 
+Extracted 1 frames for Scene 2 
+
+2024-11-19 00:01:28,179 - FrameExtractor - INFO - 
+Extracted 1 frames for Scene 3 
+
+2024-11-19 00:01:28,182 - FrameExtractor - INFO - 
+Frame extraction completed. 
+
+2024-11-19 00:01:53,249 - ImageCaptioningAgent - INFO - 
+Starting image captioning for scenes. 
+
+2024-11-19 00:02:00,511 - ImageCaptioningAgent - INFO - 
+Image captioning for all scenes completed. 
+
+2024-11-19 00:02:58,893 - CharactersClassificationAgent - INFO - 
+No existing known faces database found. Starting fresh. 
+
+2024-11-19 00:02:58,893 - CharactersClassificationAgent - INFO - 
+Starting character classification. 
+
+2024-11-19 00:02:59,447 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 1 
+
+2024-11-19 00:02:59,955 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 2 
+
+2024-11-19 00:03:00,451 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 3 
+
+2024-11-19 00:03:00,452 - CharactersClassificationAgent - INFO - 
+Saved known faces database with 2 faces. 
+
+2024-11-19 00:03:00,452 - CharactersClassificationAgent - INFO - 
+Character classification completed. 
+
+2024-11-19 00:03:17,921 - __main__ - INFO - 
+Completed faces detection for Scene 1. 
+
+2024-11-19 00:03:17,947 - __main__ - INFO - 
+Completed faces detection for Scene 2. 
+
+2024-11-19 00:03:17,947 - __main__ - INFO - 
+Completed faces detection for Scene 3. 
+
+2024-11-19 00:03:54,291 - SettingClassificationCharacterAgent - INFO - 
+Starting setting classification per person. 
+
+2024-11-19 00:03:54,291 - SettingClassificationCharacterAgent - INFO - 
+There are 2 different persons. 
+
+2024-11-19 00:03:54,292 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 0 with 1 frames. 
+
+2024-11-19 00:03:54,292 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 1 with 1 frames. 
+
+2024-11-19 00:03:54,292 - SettingClassificationCharacterAgent - INFO - 
+Setting classification per person completed. 
+
+2024-11-19 00:04:20,671 - __main__ - INFO - 
+Completed faces detection for Scene 1. 
+
+2024-11-19 00:04:20,700 - __main__ - INFO - 
+Completed faces detection for Scene 2. 
+
+2024-11-19 00:04:20,700 - __main__ - INFO - 
+Completed faces detection for Scene 3. 
+

@@ -1,0 +1,557 @@
+{
+    "0": [
+        {
+            "cut_scene_number": 2,
+            "frame_path": "frames/scene_2_frame_115.jpg",
+            "caption": "The image shows two people seated at a dining table in what appears to be a formal dining environment. The table is set with plates, cutlery, and wine glasses. One of the plates contains a portion of food, likely including meat and vegetables. The woman has long, wavy blonde hair and is wearing a colorful, patterned top. The man has short, dark hair and is dressed in a light-colored blazer over a dark shirt. The background is blurred, with a wall that looks to be painted in a muted color. There is also a watermark \"DomiReel\" on the image, and a logo in the top right corner.",
+            "faces": [
+                {
+                    "person_id": 0,
+                    "face_location": {
+                        "top": 489,
+                        "right": 291,
+                        "bottom": 712,
+                        "left": 68
+                    }
+                },
+                {
+                    "person_id": 1,
+                    "face_location": {
+                        "top": 455,
+                        "right": 919,
+                        "bottom": 776,
+                        "left": 598
+                    }
+                }
+            ],
+            "setting_ID": "person_0_setting_0"
+        },
+        {
+            "cut_scene_number": 4,
+            "frame_path": "frames/scene_4_frame_187.jpg",
+            "caption": "The picture shows a woman with long, wavy blonde hair, wearing a floral patterned top. She is indoors, and there is a soft, blue lighting. In the foreground, there are some blurred flowers, which seem to be part of a bouquet. There doesn't appear to be much detail about her surroundings, but it gives a calm and intimate atmosphere. The word \"DomiReel\" is visible on the left side, and there is an app icon with a cat on the top right.",
+            "faces": [
+                {
+                    "person_id": 0,
+                    "face_location": {
+                        "top": 461,
+                        "right": 803,
+                        "bottom": 846,
+                        "left": 418
+                    }
+                }
+            ],
+            "setting_ID": "person_0_setting_0"
+        },
+        {
+            "cut_scene_number": 7,
+            "frame_path": "frames/scene_7_frame_342.jpg",
+            "caption": "The image shows a woman with long, wavy blonde hair, smiling. She is wearing a colorful, floral-patterned blouse. In the foreground, there are blurred flowers, suggesting a bouquet or floral arrangement. The background is a soft blue, possibly indicating a wall or indoor setting. There's text overlay at the bottom of the image that says, \"Joshua has always been so.\" Additionally, an app logo appears in the upper right corner, indicating the image might be from a video or social media content.",
+            "faces": [
+                {
+                    "person_id": 0,
+                    "face_location": {
+                        "top": 333,
+                        "right": 718,
+                        "bottom": 718,
+                        "left": 332
+                    }
+                }
+            ],
+            "setting_ID": "person_0_setting_0"
+        },
+        {
+            "cut_scene_number": 10,
+            "frame_path": "frames/scene_10_frame_510.jpg",
+            "caption": "The picture shows two people seated at a dining table in what appears to be an indoor setting. The environment is likely a dining room or a restaurant. The table is covered with a dark tablecloth, and there are wine glasses and a plate of food in front of the people. The woman on the left is wearing a colorful floral dress and has light, wavy hair. She is smiling and looking towards the man on the right, who is wearing a light-colored suit jacket over a dark shirt and looking forward. The atmosphere seems formal or semi-formal, and the image includes some text overlay.",
+            "faces": [
+                {
+                    "person_id": 0,
+                    "face_location": {
+                        "top": 489,
+                        "right": 390,
+                        "bottom": 712,
+                        "left": 167
+                    }
+                }
+            ],
+            "setting_ID": "person_0_setting_0"
+        },
+        {
+            "cut_scene_number": 12,
+            "frame_path": "frames/scene_12_frame_581.jpg",
+            "caption": "The image features a woman with long, wavy blonde hair, wearing a floral-patterned top. She appears to be indoors in a room with neutral-colored walls. In the foreground, there's a blurred bouquet of flowers, adding a splash of color to the scene. The lighting is soft and even. The environment seems calm and pleasant. There is also some text overlay on the image.",
+            "faces": [
+                {
+                    "person_id": 0,
+                    "face_location": {
+                        "top": 297,
+                        "right": 810,
+                        "bottom": 759,
+                        "left": 348
+                    }
+                }
+            ],
+            "setting_ID": "person_0_setting_0"
+        },
+        {
+            "cut_scene_number": 15,
+            "frame_path": "frames/scene_15_frame_736.jpg",
+            "caption": "The image shows a woman with long, wavy blonde hair, wearing a colorful floral-patterned top. She appears to be indoors, with a soft-focus background that suggests a calm, neutral setting—perhaps a room with light-colored walls. In the foreground, there are blurred flowers, adding a touch of softness to the scene. The expression on the woman's face suggests she is surprised or intrigued. Text overlays are visible on the image, reading \"DomiReel\" and partially obscured text \"GER\" and \"Father.\" Additionally, there is an app logo in the top right corner featuring a stylized cat.",
+            "faces": [
+                {
+                    "person_id": 0,
+                    "face_location": {
+                        "top": 400,
+                        "right": 656,
+                        "bottom": 862,
+                        "left": 194
+                    }
+                }
+            ],
+            "setting_ID": "person_0_setting_0"
+        },
+        {
+            "cut_scene_number": 16,
+            "frame_path": "frames/scene_16_frame_779.jpg",
+            "caption": "The image shows a woman seated at a dining table, which is set for a meal. She is wearing a colorful, floral-patterned dress. In front of her, there are plates with food and a wine glass. The background appears to be indoors with a dimly lit atmosphere, and you can see two lit candles on a candle holder. There is also some greenery, likely as part of the table setting, visible on the table. The environment suggests a formal or semi-formal dining setting.",
+            "faces": [
+                {
+                    "person_id": 0,
+                    "face_location": {
+                        "top": 468,
+                        "right": 765,
+                        "bottom": 736,
+                        "left": 498
+                    }
+                }
+            ],
+            "setting_ID": "person_0_setting_0"
+        },
+        {
+            "cut_scene_number": 20,
+            "frame_path": "frames/scene_20_frame_994.jpg",
+            "caption": "The image depicts a person with long, wavy blonde hair and expressive eyes, captured in a close-up shot indoors. The person is wearing a colorful, floral-patterned top. In the foreground, there are blurred flowers, suggesting they might be part of a table centerpiece. The background is soft, highlighting the subject. There's also text on the image that reads, \"if you can even warm up enough,\" and a logo with an icon of a cat and play button is visible in the top right corner. The overall ambiance appears to be calm and intimate.",
+            "faces": [
+                {
+                    "person_id": 0,
+                    "face_location": {
+                        "top": 348,
+                        "right": 707,
+                        "bottom": 811,
+                        "left": 245
+                    }
+                }
+            ],
+            "setting_ID": "person_0_setting_0"
+        },
+        {
+            "cut_scene_number": 21,
+            "frame_path": "frames/scene_21_frame_1086.jpg",
+            "caption": "The image shows a woman seated at a dining table. She is wearing a floral-patterned dress. In front of her, there are multiple dinner items including a glass of red wine and a plate with food. The setting appears to be a formal dining environment with decorative candles on the table. The background is softly blurred, suggesting an indoor private setting. The ambience seems intimate, possibly suggesting a special occasion or gathering.",
+            "faces": [
+                {
+                    "person_id": 0,
+                    "face_location": {
+                        "top": 455,
+                        "right": 669,
+                        "bottom": 776,
+                        "left": 348
+                    }
+                }
+            ],
+            "setting_ID": "person_0_setting_0"
+        },
+        {
+            "cut_scene_number": 23,
+            "frame_path": "frames/scene_23_frame_1168.jpg",
+            "caption": "The image shows a woman with long, wavy, blonde hair looking to the side. She is wearing a floral-patterned top with pink and blue colors. In the foreground, there is a blurred view of a bouquet featuring light pink and white flowers. The background is out of focus with a soft blue tone, indicating it could be indoors with some natural or artificial light. There is also a small, colorful overlay in the top right corner of the image.",
+            "faces": [
+                {
+                    "person_id": 0,
+                    "face_location": {
+                        "top": 400,
+                        "right": 605,
+                        "bottom": 862,
+                        "left": 142
+                    }
+                }
+            ],
+            "setting_ID": "person_0_setting_0"
+        },
+        {
+            "cut_scene_number": 25,
+            "frame_path": "frames/scene_25_frame_1228.jpg",
+            "caption": "The image depicts a woman with long, wavy blonde hair, looking to the side. She is wearing a colorful floral-patterned top. In the foreground, there is a blurry bouquet of pink and peach-colored flowers. The background is a neutral interior, possibly a room, with blurred elements that don't provide much detail. The lighting suggests an indoor setting, and there's text overlaid on the image that reads \"I'm just saying,\" with the word \"DomiReel\" in the bottom corner.",
+            "faces": [
+                {
+                    "person_id": 0,
+                    "face_location": {
+                        "top": 400,
+                        "right": 553,
+                        "bottom": 862,
+                        "left": 91
+                    }
+                }
+            ],
+            "setting_ID": "person_0_setting_0"
+        },
+        {
+            "cut_scene_number": 34,
+            "frame_path": "frames/scene_34_frame_1721.jpg",
+            "caption": "The image shows a woman sitting at a dining table. She has long, wavy blonde hair and is wearing a colorful, floral-patterned dress. In front of her, there are elegantly set dining table items, including a glass of red wine and another empty glass. A plate with food can be seen slightly out of focus. The table appears to be decorated with greenery and tall, white candles in holders. The setting suggests a formal or semi-formal dining environment, likely indoors. In the top right corner, there is an overlay of an app logo featuring a cartoon cat. The word \"soon.\" is written over the image.",
+            "faces": [
+                {
+                    "person_id": 0,
+                    "face_location": {
+                        "top": 420,
+                        "right": 812,
+                        "bottom": 741,
+                        "left": 491
+                    }
+                }
+            ],
+            "setting_ID": "person_0_setting_0"
+        }
+    ],
+    "1": [
+        {
+            "cut_scene_number": 2,
+            "frame_path": "frames/scene_2_frame_115.jpg",
+            "caption": "The image shows two people seated at a dining table in what appears to be a formal dining environment. The table is set with plates, cutlery, and wine glasses. One of the plates contains a portion of food, likely including meat and vegetables. The woman has long, wavy blonde hair and is wearing a colorful, patterned top. The man has short, dark hair and is dressed in a light-colored blazer over a dark shirt. The background is blurred, with a wall that looks to be painted in a muted color. There is also a watermark \"DomiReel\" on the image, and a logo in the top right corner.",
+            "faces": [
+                {
+                    "person_id": 0,
+                    "face_location": {
+                        "top": 489,
+                        "right": 291,
+                        "bottom": 712,
+                        "left": 68
+                    }
+                },
+                {
+                    "person_id": 1,
+                    "face_location": {
+                        "top": 455,
+                        "right": 919,
+                        "bottom": 776,
+                        "left": 598
+                    }
+                }
+            ],
+            "setting_ID": "person_1_setting_0"
+        },
+        {
+            "cut_scene_number": 5,
+            "frame_path": "frames/scene_5_frame_260.jpg",
+            "caption": "The image shows a person smiling while looking at a smartphone. The individual is wearing a light-colored blazer with a dark shirt. The background is out of focus but suggests a soft, possibly indoor setting with some greenery visible, indicating a plant might be present. The text \"ELEANO\" and \"Stepmother\" appears prominently on the image, along with a watermark that says \"DomiReel.\" Additionally, there is an orange and white logo with a cat icon in a play button located at the top right corner. The overall atmosphere of the image is relaxed and casual.",
+            "faces": [
+                {
+                    "person_id": 1,
+                    "face_location": {
+                        "top": 451,
+                        "right": 759,
+                        "bottom": 913,
+                        "left": 297
+                    }
+                }
+            ],
+            "setting_ID": "person_1_setting_0"
+        },
+        {
+            "cut_scene_number": 11,
+            "frame_path": "frames/scene_11_frame_542.jpg",
+            "caption": "The image shows a person with dark hair wearing a beige jacket and a black shirt with a necklace featuring a cross. The background appears to be a blurred indoor environment, possibly a room with plants. In the foreground, there's a blurred section that looks like flowers. Text on the image reads \"who's so popular and charismatic.\" The lighting is soft, contributing to a calm ambiance.",
+            "faces": [
+                {
+                    "person_id": 1,
+                    "face_location": {
+                        "top": 502,
+                        "right": 759,
+                        "bottom": 965,
+                        "left": 297
+                    }
+                }
+            ],
+            "setting_ID": "person_1_setting_0"
+        },
+        {
+            "cut_scene_number": 13,
+            "frame_path": "frames/scene_13_frame_617.jpg",
+            "caption": "The image shows a person with dark hair wearing a beige suit and a black shirt. They are smiling gently and wearing a silver necklace with a cross pendant. In the foreground, there are out-of-focus flowers that appear to be light-colored with hints of pink or peach. The background is a muted shade of blue, and there is some greenery, possibly a plant, blurred in one corner. The setting suggests an indoor environment, possibly a formal occasion or gathering.",
+            "faces": [
+                {
+                    "person_id": 1,
+                    "face_location": {
+                        "top": 502,
+                        "right": 810,
+                        "bottom": 965,
+                        "left": 348
+                    }
+                }
+            ],
+            "setting_ID": "person_1_setting_0"
+        }
+    ],
+    "2": [
+        {
+            "cut_scene_number": 6,
+            "frame_path": "frames/scene_6_frame_317.jpg",
+            "caption": "The image shows two people sitting at a dining table in an elegant setting. The woman is wearing a shiny, silver one-shoulder dress, and the man is in a black suit. The table is set with a plate of food consisting of meat, mashed potatoes, and asparagus. A wine glass filled with red wine is visible. The environment appears formal, likely in a restaurant or formal dining area, with soft lighting and curtains in the background. A logo with the word \"DomiReel\" is displayed on the image.",
+            "faces": [
+                {
+                    "person_id": 2,
+                    "face_location": {
+                        "top": 439,
+                        "right": 587,
+                        "bottom": 706,
+                        "left": 319
+                    }
+                }
+            ],
+            "setting_ID": "person_2_setting_0"
+        },
+        {
+            "cut_scene_number": 29,
+            "frame_path": "frames/scene_29_frame_1447.jpg",
+            "caption": "The photo shows a woman sitting indoors, possibly at a dining setting. She is wearing a shiny, silver one-shoulder top and has blonde hair styled with curls that fall to one side. She is wearing red lipstick and a delicate necklace. In front of her, there are blurred flowers and a glass, indicating a table setting. The background consists of a light curtain, suggesting a softly lit and elegant atmosphere.",
+            "faces": [
+                {
+                    "person_id": 2,
+                    "face_location": {
+                        "top": 418,
+                        "right": 718,
+                        "bottom": 804,
+                        "left": 332
+                    }
+                }
+            ],
+            "setting_ID": "person_2_setting_0"
+        },
+        {
+            "cut_scene_number": 31,
+            "frame_path": "frames/scene_31_frame_1576.jpg",
+            "caption": "The image shows a person with long, wavy blonde hair wearing a sparkly, one-shoulder silver dress. They have a confident expression and are looking directly at the camera. In the foreground, there are blurred flowers, which appear to be part of a larger bouquet. A glass is partially visible to the person's left side. The background is softly lit with light-colored curtains, creating an elegant and formal setting. Overlay text reads, \"especially in the bedroom.\" A logo is present in the upper right corner, resembling a red square with a white illustration of a cat.",
+            "faces": [
+                {
+                    "person_id": 2,
+                    "face_location": {
+                        "top": 418,
+                        "right": 718,
+                        "bottom": 804,
+                        "left": 332
+                    }
+                }
+            ],
+            "setting_ID": "person_2_setting_0"
+        },
+        {
+            "cut_scene_number": 33,
+            "frame_path": "frames/scene_33_frame_1661.jpg",
+            "caption": "The image shows a woman with blonde hair, wearing a silver, one-shoulder dress. She has red lipstick and is accessorized with a delicate necklace and earrings. The background is softly lit with curtains, creating an indoor setting. At the bottom of the image, there is a partial view of some flowers and a glass. Text on the image reads, \"No doubt that you'll have that.\" In the top right corner, there is a logo with an illustration of a cat inside a pink rounded square.",
+            "faces": [
+                {
+                    "person_id": 2,
+                    "face_location": {
+                        "top": 418,
+                        "right": 849,
+                        "bottom": 973,
+                        "left": 295
+                    }
+                }
+            ],
+            "setting_ID": "person_2_setting_0"
+        },
+        {
+            "cut_scene_number": 36,
+            "frame_path": "frames/scene_36_frame_2123.jpg",
+            "caption": "The image shows a couple sitting closely at a dining table. They are dressed formally; the woman is wearing a sparkling silver dress, and the man is in a black suit. There is a floral arrangement in the center of the table featuring white, peach, and pink flowers with greenery. The background includes a light-colored curtain and a softly lit environment, creating an elegant, intimate setting. There are glasses on the table, suggesting a meal or event taking place. Subtitled text at the bottom reads, \"but still,\" indicating a conversation or narrative context.",
+            "faces": [
+                {
+                    "person_id": 2,
+                    "face_location": {
+                        "top": 514,
+                        "right": 390,
+                        "bottom": 737,
+                        "left": 167
+                    }
+                }
+            ],
+            "setting_ID": "person_2_setting_0"
+        }
+    ],
+    "3": [
+        {
+            "cut_scene_number": 9,
+            "frame_path": "frames/scene_9_frame_468.jpg",
+            "caption": "The image shows a man in a formal setting, likely at a dining table. He is wearing a suit with a light blue shirt and a striped tie. In front of him, there are wine glasses filled with red wine and a white plate with cutlery. There are decorative elements on the table, including a candle holder with lit candles and some greenery. The background is out of focus, suggesting an indoor environment, possibly a dining room.",
+            "faces": [
+                {
+                    "person_id": 3,
+                    "face_location": {
+                        "top": 418,
+                        "right": 760,
+                        "bottom": 804,
+                        "left": 375
+                    }
+                }
+            ],
+            "setting_ID": "person_3_setting_0"
+        },
+        {
+            "cut_scene_number": 14,
+            "frame_path": "frames/scene_14_frame_701.jpg",
+            "caption": "The image shows a man seated at a table set for a formal meal. He is wearing a dark suit with a light blue shirt and a striped tie. In front of him is a table with a white tablecloth, a plate, and cutlery. There are also wine glasses and a decorative candlestick with white candles visible. The background is out of focus and appears to be indoors, creating an intimate, possibly elegant dining environment. Text on the image reads, \"that can't stop chasing me.\"",
+            "faces": [
+                {
+                    "person_id": 3,
+                    "face_location": {
+                        "top": 461,
+                        "right": 718,
+                        "bottom": 846,
+                        "left": 332
+                    }
+                }
+            ],
+            "setting_ID": "person_3_setting_0"
+        },
+        {
+            "cut_scene_number": 22,
+            "frame_path": "frames/scene_22_frame_1138.jpg",
+            "caption": "The image shows an indoor setting, likely a dining room. There is a well-dressed man in a dark suit and light blue shirt with a striped tie. In front of him is a table set with wine glasses and a plate. A decorative candelabra with white candles is visible on the table, suggesting a formal dining atmosphere. The background appears to be softly lit, complementing the elegant setting.",
+            "faces": [
+                {
+                    "person_id": 3,
+                    "face_location": {
+                        "top": 461,
+                        "right": 889,
+                        "bottom": 846,
+                        "left": 504
+                    }
+                }
+            ],
+            "setting_ID": "person_3_setting_0"
+        },
+        {
+            "cut_scene_number": 24,
+            "frame_path": "frames/scene_24_frame_1195.jpg",
+            "caption": "The image shows a man sitting at what appears to be a formal dining table. He is wearing a suit with a light blue shirt and a striped tie. The setting is likely indoors, possibly in a dining room or restaurant, given the presence of a candelabrum with lit white candles in the foreground. There are also wine glasses and plates visible, with cutlery laid out, suggesting a meal setting. The table is decorated with flowers, adding an elegant touch. The lighting is soft, creating an intimate atmosphere.",
+            "faces": [
+                {
+                    "person_id": 3,
+                    "face_location": {
+                        "top": 451,
+                        "right": 913,
+                        "bottom": 913,
+                        "left": 451
+                    }
+                }
+            ],
+            "setting_ID": "person_3_setting_0"
+        }
+    ],
+    "4": [
+        {
+            "cut_scene_number": 17,
+            "frame_path": "frames/scene_17_frame_832.jpg",
+            "caption": "The image shows a formal dining setting. There is a woman wearing a silver dress sitting at the dining table, holding a glass of red wine. Next to her is a man in a dark suit, looking straight ahead. The table is set with a plate of food, including what appears to be asparagus, and there are elegant table settings, including silverware and a lit candle. The room has a soft, ambient lighting with curtains and possibly a plant in the background. The text on the image reads, \"Alex would give me a grandson.\"",
+            "faces": [
+                {
+                    "person_id": 4,
+                    "face_location": {
+                        "top": 260,
+                        "right": 1003,
+                        "bottom": 528,
+                        "left": 735
+                    }
+                }
+            ],
+            "setting_ID": "person_4_setting_0"
+        },
+        {
+            "cut_scene_number": 19,
+            "frame_path": "frames/scene_19_frame_940.jpg",
+            "caption": "The image shows a person wearing a black suit and shirt, with a white pocket square. The background appears to be indoors, with soft, diffused lighting and possibly light-colored curtains or panels. There is text overlay on the image, including the name \"Joshua\" and \"DomiReel\" in the corner. The overall setting gives a formal and subdued atmosphere.",
+            "faces": [
+                {
+                    "person_id": 4,
+                    "face_location": {
+                        "top": 554,
+                        "right": 707,
+                        "bottom": 1016,
+                        "left": 245
+                    }
+                }
+            ],
+            "setting_ID": "person_4_setting_0"
+        },
+        {
+            "cut_scene_number": 26,
+            "frame_path": "frames/scene_26_frame_1278.jpg",
+            "caption": "The image shows a dimly lit, indoor setting. There are two people present: a man in focus and a woman partially visible in the foreground. The man is wearing a black suit with a white pocket square, and he appears to be serious or deep in thought. The background is blurred, but you can make out some greenery or floral decorations, adding a touch of softness to the environment. Overall, the setting seems formal and elegant, with a quiet and contemplative mood.",
+            "faces": [
+                {
+                    "person_id": 4,
+                    "face_location": {
+                        "top": 418,
+                        "right": 803,
+                        "bottom": 804,
+                        "left": 418
+                    }
+                }
+            ],
+            "setting_ID": "person_4_setting_0"
+        },
+        {
+            "cut_scene_number": 32,
+            "frame_path": "frames/scene_32_frame_1602.jpg",
+            "caption": "The image shows a man wearing a dark suit and shirt, looking to the side. The background is softly lit, possibly by natural light through a sheer curtain. The setting seems to be indoors, likely in a residential or office space. There's a logo in the corner, indicating a video or social media platform. The text on the image reads, \"especially in the bedroom.\"",
+            "faces": [
+                {
+                    "person_id": 4,
+                    "face_location": {
+                        "top": 502,
+                        "right": 707,
+                        "bottom": 965,
+                        "left": 245
+                    }
+                }
+            ],
+            "setting_ID": "person_4_setting_0"
+        },
+        {
+            "cut_scene_number": 35,
+            "frame_path": "frames/scene_35_frame_1992.jpg",
+            "caption": "The image shows a man and a woman in close proximity. The woman is in the foreground, wearing a silver, shimmery dress and has blonde hair. She is looking downward with her hand near her neckline. The man is behind her, looking at her intently. \n\nIn the environment, there are blurred elements suggesting an indoor setting, possibly a dining area, indicated by the presence of a wine glass in the bottom right corner. The background appears out-of-focus with light-colored curtains and soft lighting, creating an intimate atmosphere. There is an app logo with a cat icon in the top right corner, which adds a modern digital element to the picture.",
+            "faces": [
+                {
+                    "person_id": 4,
+                    "face_location": {
+                        "top": 590,
+                        "right": 889,
+                        "bottom": 975,
+                        "left": 504
+                    }
+                }
+            ],
+            "setting_ID": "person_4_setting_0"
+        },
+        {
+            "cut_scene_number": 37,
+            "frame_path": "frames/scene_37_frame_2326.jpg",
+            "caption": "In the image, there are two people sitting closely together. The woman is holding a glass of red wine and appears to be speaking or sipping her drink. She has blonde hair and is wearing a shiny, metallic-colored outfit and a necklace. The man is beside her, looking at her intently, and is dressed in a dark suit. The background suggests an indoor setting with soft lighting, possibly a dining or living area, with a curtain or drapery visible. There is a candle or similar object in the foreground. The text overlay on the image reads \"your stepmom's attitude.\"",
+            "faces": [
+                {
+                    "person_id": 4,
+                    "face_location": {
+                        "top": 675,
+                        "right": 974,
+                        "bottom": 1060,
+                        "left": 589
+                    }
+                }
+            ],
+            "setting_ID": "person_4_setting_0"
+        }
+    ]
+}

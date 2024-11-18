@@ -1,9 +1,0 @@
-2024-11-05 06:53:04,785 - process_2192840 - INFO - 
-Generating captions for Scene 8 with 1 frames. 
-
-2024-11-05 06:53:09,796 - process_2192840 - INFO - 
-Generated caption for frame frames/scene_8_frame_444.jpg 
-
-2024-11-05 06:53:09,796 - process_2192840 - INFO - 
-Completed caption generation for Scene 8. 
-

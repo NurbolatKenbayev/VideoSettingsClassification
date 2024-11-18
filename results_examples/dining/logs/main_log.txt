@@ -1,0 +1,294 @@
+2024-11-18 23:49:54,263 - __main__ - INFO - 
+Main pipeline process started. 
+
+2024-11-18 23:50:10,123 - SettingClassificationCharacterAgent - INFO - 
+Starting setting classification per person. 
+
+2024-11-18 23:50:10,123 - SettingClassificationCharacterAgent - INFO - 
+There are 5 different persons. 
+
+2024-11-18 23:50:10,124 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 0 with 12 frames. 
+
+2024-11-18 23:50:15,405 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:50:15,411 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_4_frame_187.jpg and frames/scene_2_frame_115.jpg: Yes 
+
+2024-11-18 23:50:18,963 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:50:18,963 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_7_frame_342.jpg and frames/scene_4_frame_187.jpg: Yes. 
+
+2024-11-18 23:50:22,170 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:50:22,171 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_10_frame_510.jpg and frames/scene_7_frame_342.jpg: Yes. 
+
+2024-11-18 23:50:27,651 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:50:27,653 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_12_frame_581.jpg and frames/scene_10_frame_510.jpg: Yes. 
+
+2024-11-18 23:50:31,223 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:50:31,224 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_15_frame_736.jpg and frames/scene_12_frame_581.jpg: Yes 
+
+2024-11-18 23:50:35,983 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:50:35,986 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_16_frame_779.jpg and frames/scene_15_frame_736.jpg: Yes. 
+
+2024-11-18 23:50:40,583 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:50:40,585 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_20_frame_994.jpg and frames/scene_16_frame_779.jpg: Yes. 
+
+2024-11-18 23:50:46,727 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:50:46,729 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_21_frame_1086.jpg and frames/scene_20_frame_994.jpg: Yes. 
+
+2024-11-18 23:50:51,065 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:50:51,068 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_23_frame_1168.jpg and frames/scene_21_frame_1086.jpg: Yes 
+
+2024-11-18 23:50:55,638 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:50:55,640 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_25_frame_1228.jpg and frames/scene_23_frame_1168.jpg: Yes. 
+
+2024-11-18 23:50:59,630 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:50:59,633 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_34_frame_1721.jpg and frames/scene_25_frame_1228.jpg: Yes 
+
+2024-11-18 23:50:59,633 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 1 with 4 frames. 
+
+2024-11-18 23:51:03,624 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:03,625 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_5_frame_260.jpg and frames/scene_2_frame_115.jpg: Yes. 
+
+2024-11-18 23:51:07,593 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:07,595 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_11_frame_542.jpg and frames/scene_5_frame_260.jpg: Yes. 
+
+2024-11-18 23:51:10,996 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:10,998 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_13_frame_617.jpg and frames/scene_11_frame_542.jpg: Yes 
+
+2024-11-18 23:51:10,998 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 2 with 5 frames. 
+
+2024-11-18 23:51:14,904 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:14,906 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_29_frame_1447.jpg and frames/scene_6_frame_317.jpg: Yes. 
+
+2024-11-18 23:51:20,212 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:20,214 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_31_frame_1576.jpg and frames/scene_29_frame_1447.jpg: Yes 
+
+2024-11-18 23:51:23,876 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:23,878 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_33_frame_1661.jpg and frames/scene_31_frame_1576.jpg: Yes. 
+
+2024-11-18 23:51:28,985 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:28,987 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_36_frame_2123.jpg and frames/scene_33_frame_1661.jpg: Yes. 
+
+2024-11-18 23:51:28,988 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 3 with 4 frames. 
+
+2024-11-18 23:51:32,138 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:32,140 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_14_frame_701.jpg and frames/scene_9_frame_468.jpg: Yes 
+
+2024-11-18 23:51:37,071 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:37,073 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_22_frame_1138.jpg and frames/scene_14_frame_701.jpg: Yes 
+
+2024-11-18 23:51:44,234 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:44,236 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_24_frame_1195.jpg and frames/scene_22_frame_1138.jpg: Yes. 
+
+2024-11-18 23:51:44,236 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 4 with 6 frames. 
+
+2024-11-18 23:51:47,683 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:47,685 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_19_frame_940.jpg and frames/scene_17_frame_832.jpg: Yes 
+
+2024-11-18 23:51:51,999 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:52,000 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_26_frame_1278.jpg and frames/scene_19_frame_940.jpg: Yes 
+
+2024-11-18 23:51:56,461 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:56,462 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_32_frame_1602.jpg and frames/scene_26_frame_1278.jpg: Yes. 
+
+2024-11-18 23:51:59,752 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:51:59,754 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_35_frame_1992.jpg and frames/scene_32_frame_1602.jpg: Yes. 
+
+2024-11-18 23:52:03,171 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-11-18 23:52:03,171 - SettingClassificationCharacterAgent - INFO - 
+Answer for frames/scene_37_frame_2326.jpg and frames/scene_35_frame_1992.jpg: Yes. 
+
+2024-11-18 23:52:03,171 - SettingClassificationCharacterAgent - INFO - 
+Setting classification per person completed. 
+
+2024-11-18 23:52:03,255 - __main__ - INFO - 
+Completed faces detection for Scene 1. 
+
+2024-11-18 23:52:03,305 - __main__ - INFO - 
+Completed faces detection for Scene 2. 
+
+2024-11-18 23:52:03,306 - __main__ - INFO - 
+Completed faces detection for Scene 3. 
+
+2024-11-18 23:52:03,325 - __main__ - INFO - 
+Completed faces detection for Scene 4. 
+
+2024-11-18 23:52:03,341 - __main__ - INFO - 
+Completed faces detection for Scene 5. 
+
+2024-11-18 23:52:03,358 - __main__ - INFO - 
+Completed faces detection for Scene 6. 
+
+2024-11-18 23:52:03,374 - __main__ - INFO - 
+Completed faces detection for Scene 7. 
+
+2024-11-18 23:52:03,374 - __main__ - INFO - 
+Completed faces detection for Scene 8. 
+
+2024-11-18 23:52:03,392 - __main__ - INFO - 
+Completed faces detection for Scene 9. 
+
+2024-11-18 23:52:03,409 - __main__ - INFO - 
+Completed faces detection for Scene 10. 
+
+2024-11-18 23:52:03,440 - __main__ - INFO - 
+Completed faces detection for Scene 11. 
+
+2024-11-18 23:52:03,465 - __main__ - INFO - 
+Completed faces detection for Scene 12. 
+
+2024-11-18 23:52:03,485 - __main__ - INFO - 
+Completed faces detection for Scene 13. 
+
+2024-11-18 23:52:03,504 - __main__ - INFO - 
+Completed faces detection for Scene 14. 
+
+2024-11-18 23:52:03,525 - __main__ - INFO - 
+Completed faces detection for Scene 15. 
+
+2024-11-18 23:52:03,543 - __main__ - INFO - 
+Completed faces detection for Scene 16. 
+
+2024-11-18 23:52:03,595 - __main__ - INFO - 
+Completed faces detection for Scene 17. 
+
+2024-11-18 23:52:03,595 - __main__ - INFO - 
+Completed faces detection for Scene 18. 
+
+2024-11-18 23:52:03,610 - __main__ - INFO - 
+Completed faces detection for Scene 19. 
+
+2024-11-18 23:52:03,627 - __main__ - INFO - 
+Completed faces detection for Scene 20. 
+
+2024-11-18 23:52:03,660 - __main__ - INFO - 
+Completed faces detection for Scene 21. 
+
+2024-11-18 23:52:03,681 - __main__ - INFO - 
+Completed faces detection for Scene 22. 
+
+2024-11-18 23:52:03,696 - __main__ - INFO - 
+Completed faces detection for Scene 23. 
+
+2024-11-18 23:52:03,722 - __main__ - INFO - 
+Completed faces detection for Scene 24. 
+
+2024-11-18 23:52:03,750 - __main__ - INFO - 
+Completed faces detection for Scene 25. 
+
+2024-11-18 23:52:03,765 - __main__ - INFO - 
+Completed faces detection for Scene 26. 
+
+2024-11-18 23:52:03,765 - __main__ - INFO - 
+Completed faces detection for Scene 27. 
+
+2024-11-18 23:52:03,765 - __main__ - INFO - 
+Completed faces detection for Scene 28. 
+
+2024-11-18 23:52:03,777 - __main__ - INFO - 
+Completed faces detection for Scene 29. 
+
+2024-11-18 23:52:03,777 - __main__ - INFO - 
+Completed faces detection for Scene 30. 
+
+2024-11-18 23:52:03,788 - __main__ - INFO - 
+Completed faces detection for Scene 31. 
+
+2024-11-18 23:52:03,798 - __main__ - INFO - 
+Completed faces detection for Scene 32. 
+
+2024-11-18 23:52:03,809 - __main__ - INFO - 
+Completed faces detection for Scene 33. 
+
+2024-11-18 23:52:03,822 - __main__ - INFO - 
+Completed faces detection for Scene 34. 
+
+2024-11-18 23:52:03,834 - __main__ - INFO - 
+Completed faces detection for Scene 35. 
+
+2024-11-18 23:52:03,846 - __main__ - INFO - 
+Completed faces detection for Scene 36. 
+
+2024-11-18 23:52:03,858 - __main__ - INFO - 
+Completed faces detection for Scene 37. 
+
