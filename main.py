@@ -3,11 +3,12 @@ import json
 import logging
 import os
 
+from dotenv import load_dotenv
+
 from agents.frame_extraction import FrameExtractor
 from agents.image_captioning import ImageCaptioningAgent
 from agents.setting_classification import SettingClassifierAgent
 from agents.video_processing import VideoProcessor
-from dotenv import load_dotenv
 
 if __name__ == "__main__":
     # rm -rf ./frames ./logs
