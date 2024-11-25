@@ -1,0 +1,96 @@
+2024-11-25 10:42:20,795 - __main__ - INFO - 
+Main pipeline process started. 
+
+2024-11-25 10:42:57,072 - pyscenedetect - ERROR - 
+VideoManager is deprecated and will be removed. 
+
+2024-11-25 10:42:57,103 - pyscenedetect - INFO - 
+Loaded 1 video, framerate: 23.976 FPS, resolution: 1920 x 960 
+
+2024-11-25 10:42:57,103 - VideoProcessor - INFO - 
+Using ContentDetector with threshold=27.0 
+
+2024-11-25 10:42:57,103 - pyscenedetect - INFO - 
+Downscale factor set to 7, effective resolution: 274 x 137 
+
+2024-11-25 10:42:57,104 - pyscenedetect - INFO - 
+Detecting scenes... 
+
+2024-11-25 10:42:57,211 - VideoProcessor - WARNING - 
+No scenes were detected in the video. 
+
+2024-11-25 10:42:57,211 - VideoProcessor - INFO - 
+Detected 0 scenes using content detector. 
+
+2024-11-25 10:42:57,214 - VideoProcessor - INFO - 
+VideoManager resources have been released. 
+
+2024-11-25 10:43:22,488 - pyscenedetect - ERROR - 
+VideoManager is deprecated and will be removed. 
+
+2024-11-25 10:43:22,502 - pyscenedetect - INFO - 
+Loaded 1 video, framerate: 23.976 FPS, resolution: 1920 x 960 
+
+2024-11-25 10:43:22,502 - VideoProcessor - INFO - 
+Using ContentDetector with threshold=27.0 
+
+2024-11-25 10:43:22,502 - pyscenedetect - INFO - 
+Downscale factor set to 7, effective resolution: 274 x 137 
+
+2024-11-25 10:43:22,502 - pyscenedetect - INFO - 
+Detecting scenes... 
+
+2024-11-25 10:43:22,597 - VideoProcessor - WARNING - 
+No scenes were detected in the video. 
+
+2024-11-25 10:43:22,598 - VideoProcessor - INFO - 
+Detected 0 scenes using content detector. 
+
+2024-11-25 10:43:22,600 - VideoProcessor - INFO - 
+VideoManager resources have been released. 
+
+2024-11-25 10:48:05,318 - pyscenedetect - ERROR - 
+VideoManager is deprecated and will be removed. 
+
+2024-11-25 10:48:05,337 - pyscenedetect - INFO - 
+Loaded 1 video, framerate: 23.976 FPS, resolution: 1920 x 960 
+
+2024-11-25 10:48:05,338 - VideoProcessor - INFO - 
+Using ContentDetector with threshold=27.0 
+
+2024-11-25 10:48:05,338 - pyscenedetect - INFO - 
+Downscale factor set to 7, effective resolution: 274 x 137 
+
+2024-11-25 10:48:05,338 - pyscenedetect - INFO - 
+Detecting scenes... 
+
+2024-11-25 10:48:05,440 - VideoProcessor - WARNING - 
+No scenes were detected in the video. 
+
+2024-11-25 10:48:05,440 - VideoProcessor - INFO - 
+Detected 0 scenes using content detector. 
+
+2024-11-25 10:48:05,442 - VideoProcessor - INFO - 
+VideoManager resources have been released. 
+
+2024-11-25 10:51:28,038 - pyscenedetect - ERROR - 
+VideoManager is deprecated and will be removed. 
+
+2024-11-25 10:51:28,054 - pyscenedetect - INFO - 
+Loaded 1 video, framerate: 30.000 FPS, resolution: 1080 x 1920 
+
+2024-11-25 10:51:28,055 - VideoProcessor - INFO - 
+Using ContentDetector with threshold=27.0 
+
+2024-11-25 10:51:28,055 - pyscenedetect - INFO - 
+Downscale factor set to 4, effective resolution: 270 x 480 
+
+2024-11-25 10:51:28,055 - pyscenedetect - INFO - 
+Detecting scenes... 
+
+2024-11-25 10:51:28,526 - VideoProcessor - INFO - 
+Detected 3 scenes using content detector. 
+
+2024-11-25 10:51:28,529 - VideoProcessor - INFO - 
+VideoManager resources have been released. 
+

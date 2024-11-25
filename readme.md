@@ -16,6 +16,10 @@ Install the package:
 Verify installation in python: `import face_recognition`
 (`pip show face_recognition` to find the location of the installed package)
 
+`pip install networkx`
+
+`pip install boto3`
+
 Don't forget to add `.env` file with the `OPENAI_API_KEY` and **put it in the `.gitignore`**.
 
 

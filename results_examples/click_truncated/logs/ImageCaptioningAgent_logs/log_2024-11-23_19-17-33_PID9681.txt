@@ -1,0 +1,36 @@
+2024-11-23 19:17:33,399 - process_9681 - INFO - 
+Generating captions for Scene 25 with 1 frames. 
+
+2024-11-23 19:18:39,794 - process_9681 - INFO - 
+Generated caption for frame frames/scene_25_frame_1656.jpg 
+
+2024-11-23 19:18:39,795 - process_9681 - INFO - 
+Completed caption generation for Scene 25. 
+
+2024-11-23 19:18:39,795 - process_9681 - INFO - 
+Generating captions for Scene 26 with 1 frames. 
+
+2024-11-23 19:18:44,730 - process_9681 - INFO - 
+Generated caption for frame frames/scene_26_frame_1741.jpg 
+
+2024-11-23 19:18:44,731 - process_9681 - INFO - 
+Completed caption generation for Scene 26. 
+
+2024-11-23 19:18:44,731 - process_9681 - INFO - 
+Generating captions for Scene 27 with 1 frames. 
+
+2024-11-23 19:18:49,005 - process_9681 - INFO - 
+Generated caption for frame frames/scene_27_frame_1799.jpg 
+
+2024-11-23 19:18:49,005 - process_9681 - INFO - 
+Completed caption generation for Scene 27. 
+
+2024-11-23 19:18:49,005 - process_9681 - INFO - 
+Generating captions for Scene 28 with 1 frames. 
+
+2024-11-23 19:18:56,376 - process_9681 - INFO - 
+Generated caption for frame frames/scene_28_frame_1860.jpg 
+
+2024-11-23 19:18:56,376 - process_9681 - INFO - 
+Completed caption generation for Scene 28. 
+

@@ -1,0 +1,3249 @@
+[
+    {
+        "start_timecode": "00:00:00.000",
+        "end_timecode": "00:00:02.500",
+        "start_seconds": 0.0,
+        "end_seconds": 2.5,
+        "start_frame": 0,
+        "end_frame": 75,
+        "cut_scene_number": 1,
+        "frame_paths": [
+            "frames/scene_1_frame_0.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_1_frame_0.jpg",
+                "caption": "The setting appears to be an indoor space, likely an office or a formal living area. The environment has warm lighting, suggesting a cozy or intimate atmosphere. The background shows framed pictures or artworks on a textured wall. There's a desk lamp partially visible, and a woman is at the forefront, dressed in a formal blouse and skirt, standing with a poised demeanor. The decor and attire give the impression of a professional or elegant setting.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 80,
+                            "right": 294,
+                            "bottom": 187,
+                            "left": 187
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:02.500",
+        "end_timecode": "00:00:05.900",
+        "start_seconds": 2.5,
+        "end_seconds": 5.9,
+        "start_frame": 75,
+        "end_frame": 177,
+        "cut_scene_number": 2,
+        "frame_paths": [
+            "frames/scene_2_frame_75.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_2_frame_75.jpg",
+                "caption": "The setting appears to be an office or study room. The individual is seated at a desk with books and papers visible in the foreground. The background features a shelf with more books and a warm-toned wall, suggesting a cozy or professional environment. The lighting is soft and ambient, highlighting the person and creating a focused atmosphere suitable for work or study.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 206,
+                            "right": 225,
+                            "bottom": 295,
+                            "left": 135
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:05.900",
+        "end_timecode": "00:00:08.500",
+        "start_seconds": 5.9,
+        "end_seconds": 8.5,
+        "start_frame": 177,
+        "end_frame": 255,
+        "cut_scene_number": 3,
+        "frame_paths": [
+            "frames/scene_3_frame_177.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_3_frame_177.jpg",
+                "caption": "The setting in the picture is an indoor environment, likely a room with a classic or vintage ambiance. The walls have a patterned design, and there's a framed picture hanging in the background, suggesting a home or formal setting. The lighting is warm, creating a cozy and intimate atmosphere. The person in the image is dressed in a blouse with a bow, which might indicate a semi-formal occasion or gathering.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 104,
+                            "right": 270,
+                            "bottom": 211,
+                            "left": 163
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:08.500",
+        "end_timecode": "00:00:10.500",
+        "start_seconds": 8.5,
+        "end_seconds": 10.5,
+        "start_frame": 255,
+        "end_frame": 315,
+        "cut_scene_number": 4,
+        "frame_paths": [
+            "frames/scene_4_frame_255.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_4_frame_255.jpg",
+                "caption": "The image depicts an indoor setting, possibly an office or formal meeting space. The background has warm, ambient lighting with a blurred effect, contributing to a cozy or intimate atmosphere. The person in the foreground is wearing a suit and appears to be engaged in a conversation or presentation, suggesting a professional or business context. The overall environment is sophisticated and formal.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 116,
+                            "right": 253,
+                            "bottom": 270,
+                            "left": 98
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:10.500",
+        "end_timecode": "00:00:12.433",
+        "start_seconds": 10.5,
+        "end_seconds": 12.433333333333334,
+        "start_frame": 315,
+        "end_frame": 373,
+        "cut_scene_number": 5,
+        "frame_paths": [
+            "frames/scene_5_frame_315.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_5_frame_315.jpg",
+                "caption": "The setting appears to be an indoor environment, likely a room with warm lighting. The background includes framed art or photographs on the walls, suggesting a residential or office space. The walls are decorated with patterned wallpaper, adding to the cozy and stylish atmosphere. The woman in the foreground is dressed in a blouse with a bow, indicating a formal or professional setting. The lighting is soft and contributes to a warm, inviting ambiance.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 92,
+                            "right": 294,
+                            "bottom": 199,
+                            "left": 187
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:12.433",
+        "end_timecode": "00:00:17.300",
+        "start_seconds": 12.433333333333334,
+        "end_seconds": 17.3,
+        "start_frame": 373,
+        "end_frame": 519,
+        "cut_scene_number": 6,
+        "frame_paths": [
+            "frames/scene_6_frame_373.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_6_frame_373.jpg",
+                "caption": "The setting appears to be a formal indoor environment, likely an office or a conference room. The person in the image is wearing a suit, suggesting a professional setting. The background has warm, ambient lighting, with a blurred effect that does not provide distinct details but gives the impression of a sophisticated or upscale space. There is a desk in front of the person, which aligns with the setting being an office environment.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 116,
+                            "right": 339,
+                            "bottom": 270,
+                            "left": 184
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:17.300",
+        "end_timecode": "00:00:21.267",
+        "start_seconds": 17.3,
+        "end_seconds": 21.266666666666666,
+        "start_frame": 519,
+        "end_frame": 638,
+        "cut_scene_number": 7,
+        "frame_paths": [
+            "frames/scene_7_frame_519.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_7_frame_519.jpg",
+                "caption": "The setting appears to be an indoor environment, likely an office or a home office, given the presence of a formal-looking outfit on the individual. The background features patterned wallpaper and a framed picture, suggesting a classic or vintage style interior. The lighting is warm, contributing to an intimate and inviting atmosphere. The furniture visible includes parts of a wooden structure, possibly a cabinet or desk, which adds to the formal setting. The overall ambiance is professional yet comfortable.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 146,
+                            "right": 265,
+                            "bottom": 236,
+                            "left": 175
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:21.267",
+        "end_timecode": "00:00:22.433",
+        "start_seconds": 21.266666666666666,
+        "end_seconds": 22.433333333333334,
+        "start_frame": 638,
+        "end_frame": 673,
+        "cut_scene_number": 8,
+        "frame_paths": [
+            "frames/scene_8_frame_638.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_8_frame_638.jpg",
+                "caption": "The image depicts an interior scene with a vintage or classic office setting. In the foreground, there is a wooden desk with a stack of books and a cup of coffee on it. A warm, softly glowing lamp with a red shade sits alongside the items, casting a cozy light.\n\nThe background features two individuals: a woman in professional attire standing closer to the desk and a man in a suit standing further back. The walls are adorned with wallpaper and framed art, contributing to the room's antiquated atmosphere. The lighting is predominantly warm, adding to the room's inviting yet formal ambiance. Overall, the setting appears to be a study or office space with a traditional design.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 113,
+                            "right": 233,
+                            "bottom": 164,
+                            "left": 181
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    },
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 146,
+                            "right": 281,
+                            "bottom": 182,
+                            "left": 245
+                        },
+                        "setting_ID": "person_2_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:22.433",
+        "end_timecode": "00:00:24.067",
+        "start_seconds": 22.433333333333334,
+        "end_seconds": 24.066666666666666,
+        "start_frame": 673,
+        "end_frame": 722,
+        "cut_scene_number": 9,
+        "frame_paths": [
+            "frames/scene_9_frame_673.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_9_frame_673.jpg",
+                "caption": "The image depicts a man in formal attire, wearing a dark suit, white shirt, and black tie. He is seated indoors at a desk or table, suggesting an office or professional environment. The background appears to be warmly lit with a blurring effect, possibly showing a wall with earthy tones, adding a cozy or classy ambiance. The lighting seems soft and diffused, contributing to the overall intimate and professional setting.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 98,
+                            "right": 287,
+                            "bottom": 253,
+                            "left": 132
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:24.067",
+        "end_timecode": "00:00:24.633",
+        "start_seconds": 24.066666666666666,
+        "end_seconds": 24.633333333333333,
+        "start_frame": 722,
+        "end_frame": 739,
+        "cut_scene_number": 10,
+        "frame_paths": [
+            "frames/scene_10_frame_722.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_10_frame_722.jpg",
+                "caption": "The setting is an office or study. The room features wooden paneling or dark wallpaper with framed pictures, giving it a classic or traditional look. There are books stacked on a desk, indicating a scholarly or professional environment. A cup of coffee sits on the desk alongside papers, suggesting ongoing work or a meeting. A decorative table lamp provides warm lighting, contributing to an intimate and focused atmosphere. A man and a woman are present, with the woman standing close to the desk and facing the man, who stands near a wall. The overall ambiance is formal and business-like.",
+                "faces": [
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 146,
+                            "right": 281,
+                            "bottom": 182,
+                            "left": 245
+                        },
+                        "setting_ID": "person_2_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:24.633",
+        "end_timecode": "00:00:27.100",
+        "start_seconds": 24.633333333333333,
+        "end_seconds": 27.1,
+        "start_frame": 739,
+        "end_frame": 813,
+        "cut_scene_number": 11,
+        "frame_paths": [
+            "frames/scene_11_frame_739.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_11_frame_739.jpg",
+                "caption": "The setting appears to be an interior space with a vintage or classic ambiance. The background features wallpaper with intricate patterns, and there is a framed picture or artwork on the wall, suggesting a well-decorated room. The lighting is warm and soft, creating an inviting and intimate atmosphere. The person in the image is indoors, wearing a light-colored blouse with a bow, which complements the sophisticated and elegant environment. This setting likely represents a residential or formal space, such as a living room or study, with a focus on traditional decor.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:27.100",
+        "end_timecode": "00:00:30.133",
+        "start_seconds": 27.1,
+        "end_seconds": 30.133333333333333,
+        "start_frame": 813,
+        "end_frame": 904,
+        "cut_scene_number": 12,
+        "frame_paths": [
+            "frames/scene_12_frame_813.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_12_frame_813.jpg",
+                "caption": "The setting in the picture is a cozy, dimly lit living room. The environment features a dark leather sofa with a plush white pillow, contributing to a comfortable and homey atmosphere. The walls are a rich wood paneling, and there's a decorative pattern visible behind the person, which adds a touch of elegance. The lighting is warm, casting a soft glow throughout the room, and it creates a calm, relaxed ambiance. Overall, this appears to be a private, indoor domestic setting.",
+                "faces": [
+                    {
+                        "person_id": 3,
+                        "face_location": {
+                            "top": 218,
+                            "right": 163,
+                            "bottom": 281,
+                            "left": 100
+                        },
+                        "setting_ID": "person_3_setting_0",
+                        "global_setting_ID": "global_setting_1"
+                    }
+                ],
+                "global_setting_ID": "global_setting_1"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:30.133",
+        "end_timecode": "00:00:31.333",
+        "start_seconds": 30.133333333333333,
+        "end_seconds": 31.333333333333332,
+        "start_frame": 904,
+        "end_frame": 940,
+        "cut_scene_number": 13,
+        "frame_paths": [
+            "frames/scene_13_frame_904.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_13_frame_904.jpg",
+                "caption": "The image depicts a scene set in an office environment. A man, dressed in a formal suit and tie, is sitting at a desk, engaged in a phone call. The background reveals a classic office decor, with wooden shelves and a filing cabinet visible behind him. There is some soft lighting that casts an even glow across the room, suggesting it might be daytime. Papers and possibly a cup are on the desk, contributing to the professional and formal setting.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 139,
+                            "right": 253,
+                            "bottom": 268,
+                            "left": 124
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:31.333",
+        "end_timecode": "00:00:32.700",
+        "start_seconds": 31.333333333333332,
+        "end_seconds": 32.7,
+        "start_frame": 940,
+        "end_frame": 981,
+        "cut_scene_number": 14,
+        "frame_paths": [
+            "frames/scene_14_frame_940.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_14_frame_940.jpg",
+                "caption": "The setting appears to be an interior space, likely a home or an office. The walls are decorated with a textured or patterned wallpaper that has warm, earthy tones. There is a framed picture hanging on the wall, contributing to a formal or traditional atmosphere. The lighting is soft and warm, suggesting a cozy or intimate environment. The clothing of the person in the image is formal, with a blouse featuring a bow tie, further emphasizing a professional or formal setting.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 116,
+                            "right": 245,
+                            "bottom": 206,
+                            "left": 155
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:32.700",
+        "end_timecode": "00:00:36.033",
+        "start_seconds": 32.7,
+        "end_seconds": 36.03333333333333,
+        "start_frame": 981,
+        "end_frame": 1081,
+        "cut_scene_number": 15,
+        "frame_paths": [
+            "frames/scene_15_frame_981.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_15_frame_981.jpg",
+                "caption": "The setting appears to be a professional office environment. The background includes wooden shelves and cabinets, suggesting a workplace or study. The man is seated at a desk, which has some office items and a coffee cup, indicating an office setting. The lighting is warm and appears to be artificial, giving a cozy yet professional ambiance. The presence of books and organized shelves further indicates a formal, business-like environment.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 146,
+                            "right": 235,
+                            "bottom": 236,
+                            "left": 145
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:36.033",
+        "end_timecode": "00:00:38.967",
+        "start_seconds": 36.03333333333333,
+        "end_seconds": 38.96666666666667,
+        "start_frame": 1081,
+        "end_frame": 1169,
+        "cut_scene_number": 16,
+        "frame_paths": [
+            "frames/scene_16_frame_1081.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_16_frame_1081.jpg",
+                "caption": "The image shows an older woman sitting in a cozy indoor environment, possibly her living room or a similar space. She is using a smartphone, suggesting a casual or personal setting. The lighting in the room is warm and soft, creating a comfortable and intimate atmosphere. A fluffy pillow or blanket is seen beside her, adding to the coziness of the scene. The background appears to be softly lit, emphasizing the warm and relaxed mood of the setting.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:38.967",
+        "end_timecode": "00:00:40.867",
+        "start_seconds": 38.96666666666667,
+        "end_seconds": 40.86666666666667,
+        "start_frame": 1169,
+        "end_frame": 1226,
+        "cut_scene_number": 17,
+        "frame_paths": [
+            "frames/scene_17_frame_1169.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_17_frame_1169.jpg",
+                "caption": "The setting is a cozy living room with wooden panel walls, giving it a warm and intimate ambiance. A woman is seated on a dark leather sofa, talking on the phone. The lighting suggests it’s a daytime scene, with light streaming in from a window, casting soft shadows. The environment includes wall art and decorative cushions on the sofa, which adds to a homely feel. There's text on the screen, implying it might be a scene from a film or series.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:40.867",
+        "end_timecode": "00:00:42.133",
+        "start_seconds": 40.86666666666667,
+        "end_seconds": 42.13333333333333,
+        "start_frame": 1226,
+        "end_frame": 1264,
+        "cut_scene_number": 18,
+        "frame_paths": [
+            "frames/scene_18_frame_1226.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_18_frame_1226.jpg",
+                "caption": "The image depicts an indoor setting with warm, ambient lighting. The background suggests a cozy living room, with a cushioned chair or sofa partially visible. Soft fur-like textures are present, likely from a pillow or throw. The lighting highlights a person on the phone, adding a sense of intimacy to the scene. The overall atmosphere is domestic and comfortable.",
+                "faces": [
+                    {
+                        "person_id": 3,
+                        "face_location": {
+                            "top": 128,
+                            "right": 259,
+                            "bottom": 235,
+                            "left": 151
+                        },
+                        "setting_ID": "person_3_setting_0",
+                        "global_setting_ID": "global_setting_1"
+                    }
+                ],
+                "global_setting_ID": "global_setting_1"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:42.133",
+        "end_timecode": "00:00:43.367",
+        "start_seconds": 42.13333333333333,
+        "end_seconds": 43.36666666666667,
+        "start_frame": 1264,
+        "end_frame": 1301,
+        "cut_scene_number": 19,
+        "frame_paths": [
+            "frames/scene_19_frame_1264.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_19_frame_1264.jpg",
+                "caption": "The image depicts an indoor setting. The person is in a warmly lit environment, indicating it might be evening or that indoor lighting is used. The background is softly focused, with part of the furniture visible, possibly a couch with a light-colored cushion or throw. The wood paneling could suggest a cozy, home-like atmosphere. The person is holding a phone, engaged in a conversation, which adds to the private, possibly domestic setting. The overall tone appears to be intimate and personal.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:43.367",
+        "end_timecode": "00:00:45.800",
+        "start_seconds": 43.36666666666667,
+        "end_seconds": 45.8,
+        "start_frame": 1301,
+        "end_frame": 1374,
+        "cut_scene_number": 20,
+        "frame_paths": [
+            "frames/scene_20_frame_1301.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_20_frame_1301.jpg",
+                "caption": "The image shows a man sitting in an office setting. He is wearing a dark suit and tie, and is seated at a desk with papers and a cup of coffee in front of him. The background features wooden shelves with files or card catalog drawers, creating a professional environment. The lighting is warm, contributing to a cozy and formal ambiance.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 128,
+                            "right": 235,
+                            "bottom": 235,
+                            "left": 127
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:45.800",
+        "end_timecode": "00:00:48.100",
+        "start_seconds": 45.8,
+        "end_seconds": 48.1,
+        "start_frame": 1374,
+        "end_frame": 1443,
+        "cut_scene_number": 21,
+        "frame_paths": [
+            "frames/scene_21_frame_1374.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_21_frame_1374.jpg",
+                "caption": "The image shows a woman standing indoors, suggesting a formal or semi-formal setting. The background indicates an interior environment, possibly a home or office, with warm, muted lighting. There is a piece of framed art on the wall and the walls appear to have a decorative design or wallpaper. The scene feels intimate or personal, perhaps indicating a private space rather than a public one.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 116,
+                            "right": 259,
+                            "bottom": 223,
+                            "left": 151
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:48.100",
+        "end_timecode": "00:00:52.567",
+        "start_seconds": 48.1,
+        "end_seconds": 52.56666666666667,
+        "start_frame": 1443,
+        "end_frame": 1577,
+        "cut_scene_number": 22,
+        "frame_paths": [
+            "frames/scene_22_frame_1443.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_22_frame_1443.jpg",
+                "caption": "The setting appears to be an office or study. The environment includes a polished wooden desk with a person sitting in a leather chair. The background consists of wooden shelves with books and décor items. There is warm ambient lighting, creating a formal and professional atmosphere. The person is dressed in a suit, suggesting a business or executive setting.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 196,
+                            "right": 182,
+                            "bottom": 325,
+                            "left": 53
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:52.567",
+        "end_timecode": "00:00:54.067",
+        "start_seconds": 52.56666666666667,
+        "end_seconds": 54.06666666666667,
+        "start_frame": 1577,
+        "end_frame": 1622,
+        "cut_scene_number": 23,
+        "frame_paths": [
+            "frames/scene_23_frame_1577.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_23_frame_1577.jpg",
+                "caption": "The setting appears to be an office or study. The environment includes wooden shelves or cabinets in the background, with small drawers, suggesting the presence of documents or files. The lighting is warm, creating a cozy and professional atmosphere. The person is wearing a suit and is sitting down, suggesting a formal or business-related setting.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 168,
+                            "right": 282,
+                            "bottom": 297,
+                            "left": 153
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:54.067",
+        "end_timecode": "00:00:55.200",
+        "start_seconds": 54.06666666666667,
+        "end_seconds": 55.2,
+        "start_frame": 1622,
+        "end_frame": 1656,
+        "cut_scene_number": 24,
+        "frame_paths": [
+            "frames/scene_24_frame_1622.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_24_frame_1622.jpg",
+                "caption": "The setting appears to be an office environment. The individual is seated at a desk, indicating a formal or professional atmosphere. The background includes wood-paneled walls and a bookshelf or cabinet, adding to the office-like ambiance. Lighting is warm, likely from lamps or overhead lights, creating a cozy yet professional setting. The person's attire, a suit and tie, further emphasizes the business setting.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 223,
+                            "right": 235,
+                            "bottom": 331,
+                            "left": 127
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:55.200",
+        "end_timecode": "00:00:58.033",
+        "start_seconds": 55.2,
+        "end_seconds": 58.03333333333333,
+        "start_frame": 1656,
+        "end_frame": 1741,
+        "cut_scene_number": 25,
+        "frame_paths": [
+            "frames/scene_25_frame_1656.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_25_frame_1656.jpg",
+                "caption": "The setting appears to be an office or study. The environment is furnished with wooden elements, including a desk, and features warm lighting from a table lamp. The walls have a decorative pattern, possibly wallpaper, with framed pictures hanging on them. Papers and documents are visible on the desk. The people present are dressed formally, suggesting a professional or business atmosphere.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 94,
+                            "right": 156,
+                            "bottom": 156,
+                            "left": 93
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    },
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 146,
+                            "right": 280,
+                            "bottom": 190,
+                            "left": 237
+                        },
+                        "setting_ID": "person_2_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:58.033",
+        "end_timecode": "00:00:59.967",
+        "start_seconds": 58.03333333333333,
+        "end_seconds": 59.96666666666667,
+        "start_frame": 1741,
+        "end_frame": 1799,
+        "cut_scene_number": 26,
+        "frame_paths": [
+            "frames/scene_26_frame_1741.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_26_frame_1741.jpg",
+                "caption": "The setting appears to be an indoor environment, possibly a room with a classic or traditional design. The woman in the foreground is standing, wearing a light-colored blouse with a bow. The background features a warm color tone, with what seems to be a framed picture or painting on the wall, suggesting a more formal or refined setting. The lighting is soft and warm, creating a cozy or intimate atmosphere. There are no visible windows or natural lighting sources in the scene.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 116,
+                            "right": 247,
+                            "bottom": 223,
+                            "left": 139
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:00:59.967",
+        "end_timecode": "00:01:02.000",
+        "start_seconds": 59.96666666666667,
+        "end_seconds": 62.0,
+        "start_frame": 1799,
+        "end_frame": 1860,
+        "cut_scene_number": 27,
+        "frame_paths": [
+            "frames/scene_27_frame_1799.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_27_frame_1799.jpg",
+                "caption": "The setting appears to be an office or study with a formal and professional atmosphere. The individual is wearing a suit and tie, suggesting a business environment. The background features wood paneling and a warm, ambient lighting, which adds a touch of elegance and sophistication. The person is seated, indicating a meeting or a moment of contemplation. Overall, the environment conveys a sense of professionalism and authority.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 153,
+                            "right": 311,
+                            "bottom": 282,
+                            "left": 182
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:02.000",
+        "end_timecode": "00:01:03.233",
+        "start_seconds": 62.0,
+        "end_seconds": 63.233333333333334,
+        "start_frame": 1860,
+        "end_frame": 1897,
+        "cut_scene_number": 28,
+        "frame_paths": [
+            "frames/scene_28_frame_1860.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_28_frame_1860.jpg",
+                "caption": "The setting appears to be an indoor environment, possibly a well-furnished room in a home or an office. The background shows warm-toned, elegant wallpaper or possibly wood paneling, creating a classic or formal ambiance. There is artwork or a framed picture on the wall, suggesting a tastefully decorated space. The lighting is soft and warm, casting a gentle glow in the room. The presence of a person in formal attire further suggests a setting that is likely professional or upscale domestic.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 104,
+                            "right": 259,
+                            "bottom": 211,
+                            "left": 151
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:03.233",
+        "end_timecode": "00:01:04.833",
+        "start_seconds": 63.233333333333334,
+        "end_seconds": 64.83333333333333,
+        "start_frame": 1897,
+        "end_frame": 1945,
+        "cut_scene_number": 29,
+        "frame_paths": [
+            "frames/scene_29_frame_1897.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_29_frame_1897.jpg",
+                "caption": "The setting appears to be an indoor office or study, characterized by elegant and professional decor. The background features wooden furniture, likely shelves or cabinets, lending a warm and classic atmosphere. The lighting is soft and ambient, enhancing the sophisticated tone of the setting. The individual in the image is dressed in formal attire, suggesting a professional or business environment. This setting could be associated with a workplace or an upscale personal office.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 133,
+                            "right": 322,
+                            "bottom": 288,
+                            "left": 167
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:04.833",
+        "end_timecode": "00:01:07.433",
+        "start_seconds": 64.83333333333333,
+        "end_seconds": 67.43333333333334,
+        "start_frame": 1945,
+        "end_frame": 2023,
+        "cut_scene_number": 30,
+        "frame_paths": [
+            "frames/scene_30_frame_1945.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_30_frame_1945.jpg",
+                "caption": "The setting appears to be indoors, likely a room in a house or a professional office. The environment includes warm, ambient lighting that gives a cozy and intimate feel. In the background, there's a framed picture on the wall and what might be a wooden cabinet or furniture piece. The walls are a warm, earthy color, which complements the overall calming atmosphere. The person's attire is formal, suggesting the setting might be a more upscale or professional space.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 128,
+                            "right": 294,
+                            "bottom": 235,
+                            "left": 187
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:07.433",
+        "end_timecode": "00:01:08.500",
+        "start_seconds": 67.43333333333334,
+        "end_seconds": 68.5,
+        "start_frame": 2023,
+        "end_frame": 2055,
+        "cut_scene_number": 31,
+        "frame_paths": [
+            "frames/scene_31_frame_2023.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_31_frame_2023.jpg",
+                "caption": "The image depicts a man sitting at a desk in an office setting. He is dressed in a formal suit and tie, holding a pen in his hands. The background includes office-related items, such as a bookshelf and file folders, suggesting a professional environment. The lighting is warm and soft, contributing to a calm ambiance. The text on the image, \"You're asking me?\" suggests a conversation or dialogue taking place, reinforcing that this is likely a scene from a narrative setting.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 133,
+                            "right": 253,
+                            "bottom": 288,
+                            "left": 98
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:08.500",
+        "end_timecode": "00:01:11.300",
+        "start_seconds": 68.5,
+        "end_seconds": 71.3,
+        "start_frame": 2055,
+        "end_frame": 2139,
+        "cut_scene_number": 32,
+        "frame_paths": [
+            "frames/scene_32_frame_2055.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_32_frame_2055.jpg",
+                "caption": "The image depicts a woman standing in a warmly lit indoor setting, possibly a living room or study. The background features a patterned, reddish-brown wall, suggesting a classic or vintage style. There seems to be a framed picture or painting on the wall, adding to the room's sophisticated ambiance. The lighting is soft, creating a cozy and refined atmosphere. The woman's attire is formal and elegant, complementing the setting. This suggests a scene from a drama or a professional environment.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 104,
+                            "right": 270,
+                            "bottom": 211,
+                            "left": 163
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:11.300",
+        "end_timecode": "00:01:13.000",
+        "start_seconds": 71.3,
+        "end_seconds": 73.0,
+        "start_frame": 2139,
+        "end_frame": 2190,
+        "cut_scene_number": 33,
+        "frame_paths": [
+            "frames/scene_33_frame_2139.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_33_frame_2139.jpg",
+                "caption": "The setting of the picture appears to be an office or study room. The person is seated in a formal suit, suggesting a professional environment. The background features a wooden bookshelf, which contributes to an atmosphere of sophistication and professionalism. The lighting is warm, giving the space an inviting and comfortable feel. The overall setting suggests a scene taking place in a corporate or executive office.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 133,
+                            "right": 287,
+                            "bottom": 288,
+                            "left": 132
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:13.000",
+        "end_timecode": "00:01:14.633",
+        "start_seconds": 73.0,
+        "end_seconds": 74.63333333333334,
+        "start_frame": 2190,
+        "end_frame": 2239,
+        "cut_scene_number": 34,
+        "frame_paths": [
+            "frames/scene_34_frame_2190.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_34_frame_2190.jpg",
+                "caption": "The setting of the image is an office environment. The room has warm, ambient lighting that gives it a cozy and formal feel. The walls are decorated with patterned wallpaper and framed artwork, adding an element of sophistication. \n\nIn the foreground, there is a wooden desk with papers and a lamp providing additional light. The individuals in the scene are dressed formally, suggesting a professional atmosphere. The combination of decor, furniture, and attire indicates that this is likely an office or study space, where professional or personal interactions are taking place.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 94,
+                            "right": 163,
+                            "bottom": 156,
+                            "left": 100
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    },
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 141,
+                            "right": 285,
+                            "bottom": 193,
+                            "left": 233
+                        },
+                        "setting_ID": "person_2_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:14.633",
+        "end_timecode": "00:01:16.500",
+        "start_seconds": 74.63333333333334,
+        "end_seconds": 76.5,
+        "start_frame": 2239,
+        "end_frame": 2295,
+        "cut_scene_number": 35,
+        "frame_paths": [
+            "frames/scene_35_frame_2239.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_35_frame_2239.jpg",
+                "caption": "The image depicts an office setting. The individual is sitting at a desk, appearing to be in a formal environment wearing a suit and tie. In the background, there are wooden bookshelves or cabinets, contributing to a professional atmosphere. The lighting is warm and ambient, suggesting an indoor space, possibly lit by lamps or overhead lights to create a comfortable work environment. This setting suggests a business or corporate location where professional activities might take place.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 133,
+                            "right": 287,
+                            "bottom": 288,
+                            "left": 132
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:16.500",
+        "end_timecode": "00:01:21.000",
+        "start_seconds": 76.5,
+        "end_seconds": 81.0,
+        "start_frame": 2295,
+        "end_frame": 2430,
+        "cut_scene_number": 36,
+        "frame_paths": [
+            "frames/scene_36_frame_2295.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_36_frame_2295.jpg",
+                "caption": "The setting appears to be an indoor environment, possibly a room in a house or office. The background includes framed pictures or paintings on a wall with warm-colored wallpaper. The lighting is soft and warm, suggesting artificial indoor lighting that creates a cozy atmosphere. The furniture and decor give a classic or possibly traditional feel to the setting. The person in the image adds to the context, wearing professional attire suitable for an office or formal setting.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:21.000",
+        "end_timecode": "00:01:23.633",
+        "start_seconds": 81.0,
+        "end_seconds": 83.63333333333334,
+        "start_frame": 2430,
+        "end_frame": 2509,
+        "cut_scene_number": 37,
+        "frame_paths": [
+            "frames/scene_37_frame_2430.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_37_frame_2430.jpg",
+                "caption": "The setting of the image appears to be an office or formal study. The environment includes wooden furnishings, likely shelves or panels, in the background which give the space a professional and sophisticated look. The lighting is warm, creating a comfortable and serious atmosphere. The individual is seated, wearing a suit, which suggests a business or official setting. The focus is on the contemplative expression and hand gesture, indicating a moment of reflection or thought. Overall, the setting conveys a professional and refined ambiance.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 139,
+                            "right": 311,
+                            "bottom": 268,
+                            "left": 182
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:23.633",
+        "end_timecode": "00:01:26.267",
+        "start_seconds": 83.63333333333334,
+        "end_seconds": 86.26666666666667,
+        "start_frame": 2509,
+        "end_frame": 2588,
+        "cut_scene_number": 38,
+        "frame_paths": [
+            "frames/scene_38_frame_2509.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_38_frame_2509.jpg",
+                "caption": "The setting appears to be an office or study. The environment includes a wooden desk with paperwork on it, a stylish lamp providing warm lighting, and framed artwork on the walls that have a wallpaper pattern. The room has a formal and professional atmosphere, with two people standing: a woman dressed in a light-colored blouse and skirt, and a man in a suit with his arms crossed. The overall ambiance is one of professionalism and serious discussion.",
+                "faces": [
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 142,
+                            "right": 275,
+                            "bottom": 185,
+                            "left": 232
+                        },
+                        "setting_ID": "person_2_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    },
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 87,
+                            "right": 156,
+                            "bottom": 149,
+                            "left": 93
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:26.267",
+        "end_timecode": "00:01:30.400",
+        "start_seconds": 86.26666666666667,
+        "end_seconds": 90.4,
+        "start_frame": 2588,
+        "end_frame": 2712,
+        "cut_scene_number": 39,
+        "frame_paths": [
+            "frames/scene_39_frame_2588.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_39_frame_2588.jpg",
+                "caption": "The image shows an interior setting with warm lighting. The background features a framed artwork on a wall with a warm, earthy tone. The person is standing in front of what appears to be a wooden wall section or paneling. The atmosphere suggests a cozy and possibly residential environment, such as a living room or a study, with elements that imply comfort and formality.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 116,
+                            "right": 294,
+                            "bottom": 223,
+                            "left": 187
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:30.400",
+        "end_timecode": "00:01:32.233",
+        "start_seconds": 90.4,
+        "end_seconds": 92.23333333333333,
+        "start_frame": 2712,
+        "end_frame": 2767,
+        "cut_scene_number": 40,
+        "frame_paths": [
+            "frames/scene_40_frame_2712.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_40_frame_2712.jpg",
+                "caption": "The setting appears to be an office environment. The individual is seated at a wooden desk with a formal appearance, suggesting a professional setting. Behind him, there are shelves or cabinets that contain files or books. The lighting is warm, likely from indoor lamps or overhead lighting, contributing to an intimate or concentrated atmosphere. On the desk, there is a cup, adding to the office-like vibe. The setting suggests a business or workplace scenario.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 140,
+                            "right": 270,
+                            "bottom": 247,
+                            "left": 163
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:32.233",
+        "end_timecode": "00:01:34.300",
+        "start_seconds": 92.23333333333333,
+        "end_seconds": 94.3,
+        "start_frame": 2767,
+        "end_frame": 2829,
+        "cut_scene_number": 41,
+        "frame_paths": [
+            "frames/scene_41_frame_2767.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_41_frame_2767.jpg",
+                "caption": "The setting appears to be a warmly lit indoor environment, potentially a living room or a parlor. The background features a patterned wall, possibly with wallpaper, and there are framed pictures on the wall. The lighting is soft, contributing to a cozy atmosphere. The person in the image stands in the foreground, wearing a blouse with a bow. The overall ambiance suggests a comfortable and elegant interior space, likely part of a home or a formal setting.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 104,
+                            "right": 282,
+                            "bottom": 211,
+                            "left": 175
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:34.300",
+        "end_timecode": "00:01:37.367",
+        "start_seconds": 94.3,
+        "end_seconds": 97.36666666666666,
+        "start_frame": 2829,
+        "end_frame": 2921,
+        "cut_scene_number": 42,
+        "frame_paths": [
+            "frames/scene_42_frame_2829.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_42_frame_2829.jpg",
+                "caption": "The setting appears to be an office or a study room. The person in the image is seated, suggesting a formal or professional environment. The background features a wooden bookshelf or paneling, which adds to the office-like ambiance. The lighting is warm and soft, giving the space a cozy yet professional feel. There are no visible windows, so it’s likely artificially lit. The person is dressed in a suit and tie, reinforcing the formal setting.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 153,
+                            "right": 268,
+                            "bottom": 282,
+                            "left": 139
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:37.367",
+        "end_timecode": "00:01:38.733",
+        "start_seconds": 97.36666666666666,
+        "end_seconds": 98.73333333333333,
+        "start_frame": 2921,
+        "end_frame": 2962,
+        "cut_scene_number": 43,
+        "frame_paths": [
+            "frames/scene_43_frame_2921.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_43_frame_2921.jpg",
+                "caption": "The setting appears to be an office or study room. The environment is formal, with wooden furniture and warm-toned wallpaper, decorated with framed artwork. A lamp with a dark shade casts a soft, warm light on a large desk that has papers and a small coffee cup placed on it. Two people are standing behind the desk, which adds to the impression of a professional or serious conversation taking place. The lighting is gentle, enhancing the ambiance of a classic, possibly traditional office space.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 87,
+                            "right": 163,
+                            "bottom": 149,
+                            "left": 100
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    },
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 141,
+                            "right": 279,
+                            "bottom": 193,
+                            "left": 227
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:38.733",
+        "end_timecode": "00:01:40.467",
+        "start_seconds": 98.73333333333333,
+        "end_seconds": 100.46666666666667,
+        "start_frame": 2962,
+        "end_frame": 3014,
+        "cut_scene_number": 44,
+        "frame_paths": [
+            "frames/scene_44_frame_2962.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_44_frame_2962.jpg",
+                "caption": "The setting appears to be a formal office or a study. The environment has warm lighting and wooden tones, with bookshelves or cabinets visible in the background. The person in the image is dressed in a suit, suggesting a professional or business context. The setting suggests a conversation taking place in a quiet, official, or personal workspace.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 133,
+                            "right": 270,
+                            "bottom": 288,
+                            "left": 115
+                        },
+                        "setting_ID": "person_1_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:40.467",
+        "end_timecode": "00:01:43.200",
+        "start_seconds": 100.46666666666667,
+        "end_seconds": 103.2,
+        "start_frame": 3014,
+        "end_frame": 3096,
+        "cut_scene_number": 45,
+        "frame_paths": [
+            "frames/scene_45_frame_3014.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_45_frame_3014.jpg",
+                "caption": "The setting in the image appears to be an indoor environment with a warm, inviting atmosphere. The background includes a wall adorned with art or framed pictures, suggesting a personal or office space. The lighting is soft and ambient, adding to the cozy feel of the setting. The woman in the foreground is dressed formally, indicating a professional or social setting.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 104,
+                            "right": 259,
+                            "bottom": 211,
+                            "left": 151
+                        },
+                        "setting_ID": "person_0_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:43.200",
+        "end_timecode": "00:01:44.267",
+        "start_seconds": 103.2,
+        "end_seconds": 104.26666666666667,
+        "start_frame": 3096,
+        "end_frame": 3128,
+        "cut_scene_number": 46,
+        "frame_paths": [
+            "frames/scene_46_frame_3096.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_46_frame_3096.jpg",
+                "caption": "The setting appears to be an office or study, characterized by a warm and formal ambiance. The room has richly colored wallpaper with a pattern, adding to its classic feel. There's framed artwork on the walls, enhancing the decorative aspect of the space. A wooden desk is prominently featured, adorned with various items including a lamp with a warm, soft light that contributes to the cozy atmosphere. A stack of papers and a cup are visible on the desk, indicating a workspace. The lighting is subdued and warm, suggesting an intimate and serious environment. Overall, this setting conveys a sense of professionalism and formality.",
+                "faces": [
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 142,
+                            "right": 275,
+                            "bottom": 185,
+                            "left": 232
+                        },
+                        "setting_ID": "person_2_setting_0",
+                        "global_setting_ID": "global_setting_0"
+                    }
+                ],
+                "global_setting_ID": "global_setting_0"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:44.267",
+        "end_timecode": "00:01:46.500",
+        "start_seconds": 104.26666666666667,
+        "end_seconds": 106.5,
+        "start_frame": 3128,
+        "end_frame": 3195,
+        "cut_scene_number": 47,
+        "frame_paths": [
+            "frames/scene_47_frame_3128.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_47_frame_3128.jpg",
+                "caption": "The setting depicted in the image is an office or professional environment. The details observed include:\n\n- **Physical Environment**: The person is wearing a suit, suggesting a formal setting such as an office.\n- **Surroundings**: The background appears to have wooden elements, possibly paneling or furniture, reinforcing the office or study atmosphere.\n- **Background Lighting**: The lighting is warm, indicating a well-lit room, typically found in indoor office settings.\n- **Action**: The person seems engaged in conversation or listening, indicated by their posture and focus, suggesting a professional discussion or meeting.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:46.500",
+        "end_timecode": "00:01:49.700",
+        "start_seconds": 106.5,
+        "end_seconds": 109.7,
+        "start_frame": 3195,
+        "end_frame": 3291,
+        "cut_scene_number": 48,
+        "frame_paths": [
+            "frames/scene_48_frame_3195.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_48_frame_3195.jpg",
+                "caption": "The setting is an indoor environment, likely an office. The background shows large windows allowing natural light to illuminate the space. The person is dressed in business attire, suggesting a professional setting. The furniture and decor appear modern and functional, contributing to a typical office ambiance.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:49.700",
+        "end_timecode": "00:01:51.733",
+        "start_seconds": 109.7,
+        "end_seconds": 111.73333333333333,
+        "start_frame": 3291,
+        "end_frame": 3352,
+        "cut_scene_number": 49,
+        "frame_paths": [
+            "frames/scene_49_frame_3291.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_49_frame_3291.jpg",
+                "caption": "The setting of the image appears to be a well-lit indoor space, likely an office or a professional environment. The background features a framed poster or picture on the wall, suggesting a formal or work-related setting. The lighting is soft, possibly from a nearby window, creating a warm and natural ambiance. The people in the image are dressed in business attire, reinforcing the professional context.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 196,
+                            "right": 225,
+                            "bottom": 285,
+                            "left": 135
+                        },
+                        "setting_ID": "person_0_setting_1",
+                        "global_setting_ID": "global_setting_2"
+                    }
+                ],
+                "global_setting_ID": "global_setting_2"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:51.733",
+        "end_timecode": "00:01:53.267",
+        "start_seconds": 111.73333333333333,
+        "end_seconds": 113.26666666666667,
+        "start_frame": 3352,
+        "end_frame": 3398,
+        "cut_scene_number": 50,
+        "frame_paths": [
+            "frames/scene_50_frame_3352.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_50_frame_3352.jpg",
+                "caption": "The image shows a man dressed in a suit and tie, suggesting a formal setting. The background is softly lit with natural-looking light, possibly indicating the presence of a window or large light source off-camera. The setting appears to be indoors, perhaps an office or a professional environment, given the attire and lighting. The dialogue at the bottom of the image hints at a storyline involving interpersonal dynamics. The overall ambiance is calm with a neutral color palette.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:53.267",
+        "end_timecode": "00:01:56.367",
+        "start_seconds": 113.26666666666667,
+        "end_seconds": 116.36666666666666,
+        "start_frame": 3398,
+        "end_frame": 3491,
+        "cut_scene_number": 51,
+        "frame_paths": [
+            "frames/scene_51_frame_3398.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_51_frame_3398.jpg",
+                "caption": "The image shows a woman standing indoors in a well-lit room. She is dressed in a light-colored blouse with a bow tie detail. The background is somewhat blurred, but it appears to be a simple, light-colored wall with a framed picture or poster partially visible. Lighting seems natural, possibly from a window, as it is soft and evenly distributed. This setting suggests a professional or casual indoor environment, perhaps an office or a living room.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 152,
+                            "right": 247,
+                            "bottom": 259,
+                            "left": 139
+                        },
+                        "setting_ID": "person_0_setting_1",
+                        "global_setting_ID": "global_setting_2"
+                    }
+                ],
+                "global_setting_ID": "global_setting_2"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:56.367",
+        "end_timecode": "00:01:58.267",
+        "start_seconds": 116.36666666666666,
+        "end_seconds": 118.26666666666667,
+        "start_frame": 3491,
+        "end_frame": 3548,
+        "cut_scene_number": 52,
+        "frame_paths": [
+            "frames/scene_52_frame_3491.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_52_frame_3491.jpg",
+                "caption": "The image shows a man dressed in formal business attire, including a dark suit, light shirt, and striped tie. He appears to be standing indoors, likely in an office or professional setting. The background is softly lit, suggesting natural light coming through a window or a diffuse artificial light source, creating a neutral or warm ambiance. The text overlay indicates a focus on professional themes, reinforcing the office environment. The exact details of the surroundings are blurred, but the lighting and attire suggest a modern office context.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:01:58.267",
+        "end_timecode": "00:02:01.667",
+        "start_seconds": 118.26666666666667,
+        "end_seconds": 121.66666666666667,
+        "start_frame": 3548,
+        "end_frame": 3650,
+        "cut_scene_number": 53,
+        "frame_paths": [
+            "frames/scene_53_frame_3548.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_53_frame_3548.jpg",
+                "caption": "The image shows a woman in a well-lit, indoor setting, possibly an office or a home. The background is indistinct, with a bright, possibly window-lit area to the left, suggesting the presence of natural light. The woman is dressed in a formal blouse, indicative of a professional environment. There is another person partially visible on the left, suggesting a conversation. The overall lighting is soft and neutral, contributing to an atmosphere of calmness or tension.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 146,
+                            "right": 245,
+                            "bottom": 236,
+                            "left": 155
+                        },
+                        "setting_ID": "person_0_setting_1",
+                        "global_setting_ID": "global_setting_2"
+                    }
+                ],
+                "global_setting_ID": "global_setting_2"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:01.667",
+        "end_timecode": "00:02:04.633",
+        "start_seconds": 121.66666666666667,
+        "end_seconds": 124.63333333333334,
+        "start_frame": 3650,
+        "end_frame": 3739,
+        "cut_scene_number": 54,
+        "frame_paths": [
+            "frames/scene_54_frame_3650.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_54_frame_3650.jpg",
+                "caption": "The image shows a man in a formal setting, as indicated by his suit and tie. The background is softly lit, suggesting a professional environment, possibly an office. The presence of large windows or light-colored walls suggests good natural lighting, contributing to an airy atmosphere. The text on the image suggests a scene from a drama or film, dealing with interpersonal relationships.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:04.633",
+        "end_timecode": "00:02:07.733",
+        "start_seconds": 124.63333333333334,
+        "end_seconds": 127.73333333333333,
+        "start_frame": 3739,
+        "end_frame": 3832,
+        "cut_scene_number": 55,
+        "frame_paths": [
+            "frames/scene_55_frame_3739.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_55_frame_3739.jpg",
+                "caption": "The setting appears to be indoors, likely an office or a similar professional environment. The lighting is soft, possibly natural light coming through a window. A woman is in the foreground, smiling, wearing a light-colored blouse and skirt. In the background, there is a poster or framed image on the wall. The overall ambiance suggests a calm and possibly formal atmosphere.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 186,
+                            "right": 235,
+                            "bottom": 275,
+                            "left": 145
+                        },
+                        "setting_ID": "person_0_setting_1",
+                        "global_setting_ID": "global_setting_2"
+                    }
+                ],
+                "global_setting_ID": "global_setting_2"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:07.733",
+        "end_timecode": "00:02:10.300",
+        "start_seconds": 127.73333333333333,
+        "end_seconds": 130.3,
+        "start_frame": 3832,
+        "end_frame": 3909,
+        "cut_scene_number": 56,
+        "frame_paths": [
+            "frames/scene_56_frame_3832.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_56_frame_3832.jpg",
+                "caption": "The image depicts an urban nighttime setting. The scene features a busy multi-lane road with numerous cars traveling in both directions, indicating it's an active city area. Skyscrapers and tall buildings light up the background, showcasing windows with artificial lighting, suggesting office or residential spaces. The cityscape is further illuminated by streetlights and vehicle headlights, creating a vibrant atmosphere. The environment has a clear and modern aesthetic, typically associated with bustling metropolitan regions. Trees line parts of the street, providing a touch of greenery amidst the urban setting.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:10.300",
+        "end_timecode": "00:02:14.600",
+        "start_seconds": 130.3,
+        "end_seconds": 134.6,
+        "start_frame": 3909,
+        "end_frame": 4038,
+        "cut_scene_number": 57,
+        "frame_paths": [
+            "frames/scene_57_frame_3909.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_57_frame_3909.jpg",
+                "caption": "The image depicts a kitchen setting. The background shows a refrigerator with various papers and notes attached to it, indicating a lived-in environment. There is a table in the foreground with a lace tablecloth. The lighting is soft, likely suggesting natural light or warm indoor lighting. The overall atmosphere appears domestic and homey.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:14.600",
+        "end_timecode": "00:02:17.200",
+        "start_seconds": 134.6,
+        "end_seconds": 137.2,
+        "start_frame": 4038,
+        "end_frame": 4116,
+        "cut_scene_number": 58,
+        "frame_paths": [
+            "frames/scene_58_frame_4038.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_58_frame_4038.jpg",
+                "caption": "The setting appears to be a kitchen. The environment includes white cabinetry and a tiled floor. There's a countertop with appliances like a microwave and a coffee maker visible in the background. The lighting is warm, suggesting indoor artificial light. A person is seated at a table with a crocheted tablecloth, creating a cozy and homey atmosphere.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:17.200",
+        "end_timecode": "00:02:19.867",
+        "start_seconds": 137.2,
+        "end_seconds": 139.86666666666667,
+        "start_frame": 4116,
+        "end_frame": 4196,
+        "cut_scene_number": 59,
+        "frame_paths": [
+            "frames/scene_59_frame_4116.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_59_frame_4116.jpg",
+                "caption": "The setting appears to be indoors, likely within a home or an office space. The lighting is warm, suggesting a cozy atmosphere. The background is somewhat blurred, making it difficult to distinguish specific details about the environment. The person is sitting, which implies this could be a casual or informal setting. The use of warm tones adds to the relaxed and comfortable ambiance of the scene.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 133,
+                            "right": 270,
+                            "bottom": 288,
+                            "left": 115
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:19.867",
+        "end_timecode": "00:02:24.967",
+        "start_seconds": 139.86666666666667,
+        "end_seconds": 144.96666666666667,
+        "start_frame": 4196,
+        "end_frame": 4349,
+        "cut_scene_number": 60,
+        "frame_paths": [
+            "frames/scene_60_frame_4196.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_60_frame_4196.jpg",
+                "caption": "The image depicts an indoor setting, likely a home, given the cozy and intimate environment. The person is sitting at a table with a patterned tablecloth, suggesting a kitchen or dining room area. The background includes part of a refrigerator, implying the scene is taking place in a kitchen or dining area. The lighting is soft and warm, adding to the comfortable atmosphere. The person is wearing a large, brown knit sweater, which enhances the cozy, relaxed vibe of the setting.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:24.967",
+        "end_timecode": "00:02:28.567",
+        "start_seconds": 144.96666666666667,
+        "end_seconds": 148.56666666666666,
+        "start_frame": 4349,
+        "end_frame": 4457,
+        "cut_scene_number": 61,
+        "frame_paths": [
+            "frames/scene_61_frame_4349.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_61_frame_4349.jpg",
+                "caption": "The setting appears to be inside a vehicle. The focus is on a man viewed through the car's side mirror, indicating he's likely inside the car. The background is blurred, with hints of greenery and bright lighting, suggesting it might be daytime or there is strong artificial light coming from outside. It doesn't provide much information about the exact location beyond being in a vehicle.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 168,
+                            "right": 253,
+                            "bottom": 297,
+                            "left": 124
+                        },
+                        "setting_ID": "person_1_setting_1",
+                        "global_setting_ID": "global_setting_4"
+                    }
+                ],
+                "global_setting_ID": "global_setting_4"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:28.567",
+        "end_timecode": "00:02:31.400",
+        "start_seconds": 148.56666666666666,
+        "end_seconds": 151.4,
+        "start_frame": 4457,
+        "end_frame": 4542,
+        "cut_scene_number": 62,
+        "frame_paths": [
+            "frames/scene_62_frame_4457.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_62_frame_4457.jpg",
+                "caption": "The setting appears to be an indoor environment, likely a dining room or kitchen. The woman is seated at a table, covered with a beige or cream-colored cloth. She is wearing a brown, oversized knitted sweater and is holding a phone to her ear, indicating she is engaged in a conversation. The background shows a portion of a neutral-colored wall and possibly a refrigerator, suggestive of a home setting. The lighting is soft and warm, creating a cozy and intimate atmosphere. There are papers or notes pinned or clipped on the fridge, contributing to a lived-in, domestic ambiance.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 229,
+                            "right": 171,
+                            "bottom": 304,
+                            "left": 96
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:31.400",
+        "end_timecode": "00:02:31.900",
+        "start_seconds": 151.4,
+        "end_seconds": 151.9,
+        "start_frame": 4542,
+        "end_frame": 4557,
+        "cut_scene_number": 63,
+        "frame_paths": [
+            "frames/scene_63_frame_4542.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_63_frame_4542.jpg",
+                "caption": "The image shows a man sitting in a car. He is wearing a suit with a tie and appears to be talking on a phone. The lighting inside the car is dim, suggesting it may be night or evening. The background outside the car is not clearly visible, but it seems dark, reinforcing the impression of nighttime. The setting appears to be the interior of a vehicle, likely moving or stationary, but with an emphasis on a private, possibly tense or significant moment.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 175,
+                            "right": 270,
+                            "bottom": 283,
+                            "left": 163
+                        },
+                        "setting_ID": "person_1_setting_1",
+                        "global_setting_ID": "global_setting_4"
+                    }
+                ],
+                "global_setting_ID": "global_setting_4"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:31.900",
+        "end_timecode": "00:02:33.933",
+        "start_seconds": 151.9,
+        "end_seconds": 153.93333333333334,
+        "start_frame": 4557,
+        "end_frame": 4618,
+        "cut_scene_number": 64,
+        "frame_paths": [
+            "frames/scene_64_frame_4557.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_64_frame_4557.jpg",
+                "caption": "The scene is set inside a car, likely at night given the dim lighting. The background is dark, suggesting the interior is illuminated by the car's lights or a nearby streetlight. The person seated appears to be engaged in a phone conversation. The presence of a steering wheel or dashboard items may indicate that this is the driver's seat. This setting is intimate and confined, reflecting a sense of focus on the character's actions rather than their surroundings.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 175,
+                            "right": 247,
+                            "bottom": 283,
+                            "left": 139
+                        },
+                        "setting_ID": "person_1_setting_1",
+                        "global_setting_ID": "global_setting_4"
+                    }
+                ],
+                "global_setting_ID": "global_setting_4"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:33.933",
+        "end_timecode": "00:02:36.367",
+        "start_seconds": 153.93333333333334,
+        "end_seconds": 156.36666666666667,
+        "start_frame": 4618,
+        "end_frame": 4691,
+        "cut_scene_number": 65,
+        "frame_paths": [
+            "frames/scene_65_frame_4618.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_65_frame_4618.jpg",
+                "caption": "The image shows a man sitting inside a car, likely at night or in a dimly lit environment. The lighting inside the car is low, creating a shadowy appearance. The man is dressed in a formal suit and is using a phone. The background is dark, providing limited visibility of the surroundings. The setting suggests an urban or suburban road scene, possibly with outside lighting such as street lamps being the primary source of illumination. The caption \"You don't know me?\" is displayed on the image, hinting at a dramatic or tense context.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 175,
+                            "right": 235,
+                            "bottom": 283,
+                            "left": 127
+                        },
+                        "setting_ID": "person_1_setting_1",
+                        "global_setting_ID": "global_setting_4"
+                    }
+                ],
+                "global_setting_ID": "global_setting_4"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:36.367",
+        "end_timecode": "00:02:39.867",
+        "start_seconds": 156.36666666666667,
+        "end_seconds": 159.86666666666667,
+        "start_frame": 4691,
+        "end_frame": 4796,
+        "cut_scene_number": 66,
+        "frame_paths": [
+            "frames/scene_66_frame_4691.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_66_frame_4691.jpg",
+                "caption": "The image shows a woman indoors, sitting at a table covered with a textured tablecloth. She is talking on the phone, wearing a thick, dark knitted cardigan. The background suggests a home environment, with a refrigerator visible in the back and papers attached to it. The lighting is warm and dim, creating a cozy and intimate atmosphere.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 206,
+                            "right": 185,
+                            "bottom": 295,
+                            "left": 96
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:39.867",
+        "end_timecode": "00:02:42.767",
+        "start_seconds": 159.86666666666667,
+        "end_seconds": 162.76666666666668,
+        "start_frame": 4796,
+        "end_frame": 4883,
+        "cut_scene_number": 67,
+        "frame_paths": [
+            "frames/scene_67_frame_4796.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_67_frame_4796.jpg",
+                "caption": "The setting appears to be the interior of a car at night. The background lighting is dim, with external light sources providing limited illumination. The person is in the driver's seat, speaking on a phone. The focus is on the individual, and the car's interior details suggest a modern vehicle.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 211,
+                            "right": 282,
+                            "bottom": 340,
+                            "left": 153
+                        },
+                        "setting_ID": "person_1_setting_1",
+                        "global_setting_ID": "global_setting_4"
+                    }
+                ],
+                "global_setting_ID": "global_setting_4"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:42.767",
+        "end_timecode": "00:02:46.067",
+        "start_seconds": 162.76666666666668,
+        "end_seconds": 166.06666666666666,
+        "start_frame": 4883,
+        "end_frame": 4982,
+        "cut_scene_number": 68,
+        "frame_paths": [
+            "frames/scene_68_frame_4883.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_68_frame_4883.jpg",
+                "caption": "The setting depicts the interior of a car, likely during the nighttime or in a dimly lit environment. The man is seated in what seems to be the driver's seat, holding a phone to his ear. He is dressed in a suit and tie, suggesting a formal occasion or a business setting. The lighting is low, with soft illumination that highlights his facial features, possibly coming from the car's interior lights or passing streetlights. The background outside the car is not visible, focusing attention on the man's profile and expression.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:46.067",
+        "end_timecode": "00:02:51.667",
+        "start_seconds": 166.06666666666666,
+        "end_seconds": 171.66666666666666,
+        "start_frame": 4982,
+        "end_frame": 5150,
+        "cut_scene_number": 69,
+        "frame_paths": [
+            "frames/scene_69_frame_4982.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_69_frame_4982.jpg",
+                "caption": "The setting is a dining area in what appears to be a home. A woman is seated at a wooden dining table, talking on the phone. On the table, there is a floral arrangement with soft, pastel-colored flowers, suggesting a cozy and lived-in atmosphere. In the background, a metallic refrigerator indicates this is part of a kitchen space. The lighting is warm and creates an intimate and calm mood typical of indoor evening settings.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 146,
+                            "right": 205,
+                            "bottom": 236,
+                            "left": 116
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:02:51.667",
+        "end_timecode": "00:03:01.533",
+        "start_seconds": 171.66666666666666,
+        "end_seconds": 181.53333333333333,
+        "start_frame": 5150,
+        "end_frame": 5446,
+        "cut_scene_number": 70,
+        "frame_paths": [
+            "frames/scene_70_frame_5150.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_70_frame_5150.jpg",
+                "caption": "The image depicts a man seated inside a vehicle, likely a car, based on the visible interior elements. He is wearing a suit and holding a phone to his ear, suggesting he is engaged in a conversation. The surroundings appear dimly lit, indicating that it might be nighttime or in a low-light setting. The background lighting is minimal, possibly from streetlights or interior car lights, casting subtle illumination on the man's face. The lack of visible details outside the vehicle suggests the focus is primarily on the interior setting.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 253,
+                            "right": 218,
+                            "bottom": 408,
+                            "left": 64
+                        },
+                        "setting_ID": "person_1_setting_1",
+                        "global_setting_ID": "global_setting_4"
+                    }
+                ],
+                "global_setting_ID": "global_setting_4"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:01.533",
+        "end_timecode": "00:03:02.100",
+        "start_seconds": 181.53333333333333,
+        "end_seconds": 182.1,
+        "start_frame": 5446,
+        "end_frame": 5463,
+        "cut_scene_number": 71,
+        "frame_paths": [
+            "frames/scene_71_frame_5446.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_71_frame_5446.jpg",
+                "caption": "The image shows a man looking through a car's side mirror, indicating he is inside a vehicle. The setting is likely a car interior, as seen by the mirror's reflection. The background is slightly blurred, with hints of greenery, suggesting the vehicle might be near a park or a leafy area. The lighting appears natural, possibly daylight.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:02.100",
+        "end_timecode": "00:03:03.133",
+        "start_seconds": 182.1,
+        "end_seconds": 183.13333333333333,
+        "start_frame": 5463,
+        "end_frame": 5494,
+        "cut_scene_number": 72,
+        "frame_paths": [
+            "frames/scene_72_frame_5463.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_72_frame_5463.jpg",
+                "caption": "The setting appears to be a cozy indoor dining area. A woman is seated at a table covered with a white lace tablecloth. In the foreground, there is a bouquet of light-colored flowers adding warmth to the scene. The lighting is soft, contributing to a warm and inviting atmosphere. In the background, a kitchen or dining room setup is visible, including a refrigerator and what looks like a cabinet or some appliances, suggesting a home environment. The overall ambiance is intimate and domestic.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 136,
+                            "right": 255,
+                            "bottom": 226,
+                            "left": 165
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:03.133",
+        "end_timecode": "00:03:05.100",
+        "start_seconds": 183.13333333333333,
+        "end_seconds": 185.1,
+        "start_frame": 5494,
+        "end_frame": 5553,
+        "cut_scene_number": 73,
+        "frame_paths": [
+            "frames/scene_73_frame_5494.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_73_frame_5494.jpg",
+                "caption": "The setting is a cozy kitchen environment. The room features white cabinetry and a backsplash with a countertop that has various kitchen items. There's a microwave and some utensils in the background. The lighting is warm and soft, suggesting a comfortable, homely atmosphere. A round table covered with a lace tablecloth is in the center, where two people are positioned. One person is seated, while the other stands holding a plate, indicating an interaction or meal setting.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:05.100",
+        "end_timecode": "00:03:06.667",
+        "start_seconds": 185.1,
+        "end_seconds": 186.66666666666666,
+        "start_frame": 5553,
+        "end_frame": 5600,
+        "cut_scene_number": 74,
+        "frame_paths": [
+            "frames/scene_74_frame_5553.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_74_frame_5553.jpg",
+                "caption": "The setting appears to be a cozy, warmly lit indoor dining area. The background consists of wooden furniture, possibly a dining room chair, and parts of kitchen appliances or cabinetry that suggest a home kitchen or dining room environment. There's a soft focus on flowers in the foreground, indicating a table setting. The lighting is soft and warm, creating an inviting and intimate atmosphere.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:06.667",
+        "end_timecode": "00:03:12.900",
+        "start_seconds": 186.66666666666666,
+        "end_seconds": 192.9,
+        "start_frame": 5600,
+        "end_frame": 5787,
+        "cut_scene_number": 75,
+        "frame_paths": [
+            "frames/scene_75_frame_5600.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_75_frame_5600.jpg",
+                "caption": "The setting is a kitchen. The environment includes white cabinetry and a countertop with several appliances such as a microwave and a coffee maker. There is also a floral arrangement on an oval table covered with a lace tablecloth. The background lighting is warm, creating a cozy atmosphere. The dialogue suggests a conversation about enjoying food.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:12.900",
+        "end_timecode": "00:03:14.600",
+        "start_seconds": 192.9,
+        "end_seconds": 194.6,
+        "start_frame": 5787,
+        "end_frame": 5838,
+        "cut_scene_number": 76,
+        "frame_paths": [
+            "frames/scene_76_frame_5787.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_76_frame_5787.jpg",
+                "caption": "The setting appears to be a cozy dining area. The physical environment includes a woman sitting at a table with a lace tablecloth. She is holding a fork and smiling, suggesting a relaxed, pleasant mood. In the foreground, there's an out-of-focus person, possibly another individual at the table. The background features what seems to be a refrigerator, indicating a kitchen or dining room setting. The lighting is warm and soft, conducive to a homely, intimate atmosphere, typical of a casual meal or conversation at home.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 146,
+                            "right": 235,
+                            "bottom": 236,
+                            "left": 145
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:14.600",
+        "end_timecode": "00:03:17.500",
+        "start_seconds": 194.6,
+        "end_seconds": 197.5,
+        "start_frame": 5838,
+        "end_frame": 5925,
+        "cut_scene_number": 77,
+        "frame_paths": [
+            "frames/scene_77_frame_5838.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_77_frame_5838.jpg",
+                "caption": "The setting appears to be a domestic kitchen or dining area. It features light-colored cabinets and a countertop visible in the background, suggesting it is a home kitchen. The lighting is warm and soft, creating an inviting atmosphere. In the foreground, a person is seated at a table with some plates and possibly utensils. The overall ambiance suggests a casual, homey environment, likely where people share meals or conversation.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:17.500",
+        "end_timecode": "00:03:18.733",
+        "start_seconds": 197.5,
+        "end_seconds": 198.73333333333332,
+        "start_frame": 5925,
+        "end_frame": 5962,
+        "cut_scene_number": 78,
+        "frame_paths": [
+            "frames/scene_78_frame_5925.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_78_frame_5925.jpg",
+                "caption": "The setting of the image appears to be an indoor environment, most likely a kitchen or dining area. The background features a kitchen counter or a similar surface, and there is a piece of kitchen equipment visible, possibly an oven or microwave, suggesting a domestic or home-like setting. The lighting is warm, giving a cozy and inviting atmosphere. The person in the foreground is wearing a sweater, which adds to the comfortable, home-like ambiance.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:18.733",
+        "end_timecode": "00:03:19.933",
+        "start_seconds": 198.73333333333332,
+        "end_seconds": 199.93333333333334,
+        "start_frame": 5962,
+        "end_frame": 5998,
+        "cut_scene_number": 79,
+        "frame_paths": [
+            "frames/scene_79_frame_5962.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_79_frame_5962.jpg",
+                "caption": "The setting in the image appears to be a cozy dining room or kitchen area. The environment is warm and inviting, with soft background lighting that suggests a relaxed, intimate atmosphere. The woman is seated at a table, which is covered with a patterned tablecloth. The background features light-colored cabinets and a countertop. This scene gives the impression of being in a home setting, possibly during a meal or casual gathering.",
+                "faces": [
+                    {
+                        "person_id": 4,
+                        "face_location": {
+                            "top": 202,
+                            "right": 287,
+                            "bottom": 356,
+                            "left": 132
+                        },
+                        "setting_ID": "person_4_setting_0",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:19.933",
+        "end_timecode": "00:03:21.567",
+        "start_seconds": 199.93333333333334,
+        "end_seconds": 201.56666666666666,
+        "start_frame": 5998,
+        "end_frame": 6047,
+        "cut_scene_number": 80,
+        "frame_paths": [
+            "frames/scene_80_frame_5998.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_80_frame_5998.jpg",
+                "caption": "The setting appears to be a cozy indoor dining area. The background features a wooden chair and a table with a white lace tablecloth, giving a warm, homey ambiance. There is a floral centerpiece on the table, adding color to the scene. The lighting is soft and warm, suggesting an intimate and comfortable environment, likely in a home.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 156,
+                            "right": 235,
+                            "bottom": 245,
+                            "left": 145
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:21.567",
+        "end_timecode": "00:03:23.200",
+        "start_seconds": 201.56666666666666,
+        "end_seconds": 203.2,
+        "start_frame": 6047,
+        "end_frame": 6096,
+        "cut_scene_number": 81,
+        "frame_paths": [
+            "frames/scene_81_frame_6047.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_81_frame_6047.jpg",
+                "caption": "The setting features a cozy indoor dining area with warm lighting. A group is seated around a white, lace-covered table, suggesting a familial or friendly gathering. Two people are the focal point, sitting side by side and smiling. In the middle of the table, there's a vase with a bouquet of flowers and some condiments, indicating a meal is perhaps being shared. The background shows a shelf with decorative items and a soft, ambient lighting from a lamp, enhancing the inviting atmosphere. The wall color and decor suggest a comfortable and lived-in home environment.",
+                "faces": [
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 205,
+                            "right": 279,
+                            "bottom": 257,
+                            "left": 227
+                        },
+                        "setting_ID": "person_5_setting_0",
+                        "global_setting_ID": "global_setting_3"
+                    },
+                    {
+                        "person_id": 4,
+                        "face_location": {
+                            "top": 199,
+                            "right": 147,
+                            "bottom": 251,
+                            "left": 95
+                        },
+                        "setting_ID": "person_4_setting_0",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:23.200",
+        "end_timecode": "00:03:25.333",
+        "start_seconds": 203.2,
+        "end_seconds": 205.33333333333334,
+        "start_frame": 6096,
+        "end_frame": 6160,
+        "cut_scene_number": 82,
+        "frame_paths": [
+            "frames/scene_82_frame_6096.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_82_frame_6096.jpg",
+                "caption": "The setting appears to be an indoor dining area or kitchen. There is a woman seated at a table, which is covered with a lace tablecloth. The background suggests a cozy, domestic environment, possibly in a home, indicated by the presence of what seems to be cabinetry or an appliance, like a refrigerator. The lighting is warm and soft, creating an intimate and comfortable atmosphere. The scene seems to focus on a conversation or interaction taking place at the table.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 128,
+                            "right": 235,
+                            "bottom": 235,
+                            "left": 127
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:25.333",
+        "end_timecode": "00:03:26.567",
+        "start_seconds": 205.33333333333334,
+        "end_seconds": 206.56666666666666,
+        "start_frame": 6160,
+        "end_frame": 6197,
+        "cut_scene_number": 83,
+        "frame_paths": [
+            "frames/scene_83_frame_6160.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_83_frame_6160.jpg",
+                "caption": "The setting appears to be a dining area. A person is seated at a table covered with a lace tablecloth, possibly engaged in conversation. The lighting is warm, suggesting an indoor, intimate setting typical of a home. In the background, there are kitchen elements like a light-colored cabinet and part of a sink, indicating the proximity to a kitchen. The setting promotes a domestic and personal atmosphere, likely a scene taking place in a home environment.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:26.567",
+        "end_timecode": "00:03:28.033",
+        "start_seconds": 206.56666666666666,
+        "end_seconds": 208.03333333333333,
+        "start_frame": 6197,
+        "end_frame": 6241,
+        "cut_scene_number": 84,
+        "frame_paths": [
+            "frames/scene_84_frame_6197.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_84_frame_6197.jpg",
+                "caption": "The image shows a woman sitting indoors, possibly in a kitchen or living room setting. She is wearing a dark, knitted cardigan and has her hair tied up. The background features some kitchen appliances, suggesting it might be a domestic environment. The lighting is warm, indicating a comfortable and cozy atmosphere. There is text overlayed on the image that reads, \"He's married? Yes.\" This gives a hint to the narrative or context of the scene possibly being from a video or show.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:28.033",
+        "end_timecode": "00:03:29.700",
+        "start_seconds": 208.03333333333333,
+        "end_seconds": 209.7,
+        "start_frame": 6241,
+        "end_frame": 6291,
+        "cut_scene_number": 85,
+        "frame_paths": [
+            "frames/scene_85_frame_6241.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_85_frame_6241.jpg",
+                "caption": "The setting of the image appears to be a dining area within a home. There is a round table covered with a lace tablecloth, which has a vase of flowers and condiments on it. Three people are sitting around the table. The lighting is warm and soft, suggesting a cozy, indoor domestic environment. The background shows a kitchen area with shelves, and there are items like a framed picture and décor visible. The overall scene gives a sense of a casual, intimate gathering in a private residence.",
+                "faces": [
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 205,
+                            "right": 273,
+                            "bottom": 257,
+                            "left": 222
+                        },
+                        "setting_ID": "person_5_setting_0",
+                        "global_setting_ID": "global_setting_3"
+                    },
+                    {
+                        "person_id": 4,
+                        "face_location": {
+                            "top": 199,
+                            "right": 141,
+                            "bottom": 251,
+                            "left": 89
+                        },
+                        "setting_ID": "person_4_setting_0",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:29.700",
+        "end_timecode": "00:03:32.633",
+        "start_seconds": 209.7,
+        "end_seconds": 212.63333333333333,
+        "start_frame": 6291,
+        "end_frame": 6379,
+        "cut_scene_number": 86,
+        "frame_paths": [
+            "frames/scene_86_frame_6291.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_86_frame_6291.jpg",
+                "caption": "The setting appears to be indoors, likely a dining room or a living space. The person is seated at a table, holding a fork. The lighting is warm and soft, suggesting a cozy or intimate atmosphere. In the foreground, there are blurred elements that resemble flowers, potentially part of a table centerpiece or decoration. There is a wooden chair visible in the background, adding to the homey feel of the environment.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 133,
+                            "right": 270,
+                            "bottom": 288,
+                            "left": 115
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:32.633",
+        "end_timecode": "00:03:34.533",
+        "start_seconds": 212.63333333333333,
+        "end_seconds": 214.53333333333333,
+        "start_frame": 6379,
+        "end_frame": 6436,
+        "cut_scene_number": 87,
+        "frame_paths": [
+            "frames/scene_87_frame_6379.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_87_frame_6379.jpg",
+                "caption": "The setting in the image appears to be a dining room. The environment includes a table covered with a white lace tablecloth. On the table, there is a centerpiece made of various flowers and some small items, potentially condiments or decorations. In the background, there are shelves with a few items, possibly kitchenware or decorative pieces. \n\nThe lighting is warm, suggesting an indoor setting typical of a dining area or a cozy room in a home. The presence of people sitting at the table indicates a social or familial gathering.",
+                "faces": [
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 221,
+                            "right": 295,
+                            "bottom": 296,
+                            "left": 220
+                        },
+                        "setting_ID": "person_5_setting_0",
+                        "global_setting_ID": "global_setting_3"
+                    },
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 186,
+                            "right": 135,
+                            "bottom": 275,
+                            "left": 46
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:34.533",
+        "end_timecode": "00:03:36.300",
+        "start_seconds": 214.53333333333333,
+        "end_seconds": 216.3,
+        "start_frame": 6436,
+        "end_frame": 6489,
+        "cut_scene_number": 88,
+        "frame_paths": [
+            "frames/scene_88_frame_6436.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_88_frame_6436.jpg",
+                "caption": "The setting appears to be indoors, likely in a kitchen or a cozy living space. The background shows an oven or appliance, suggesting a home environment. The lighting is warm, creating a comfortable, intimate atmosphere. The person is wearing a brown sweater, hinting at a casual and relaxed setting. Overall, the scene conveys a domestic and personal environment.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:36.300",
+        "end_timecode": "00:03:37.967",
+        "start_seconds": 216.3,
+        "end_seconds": 217.96666666666667,
+        "start_frame": 6489,
+        "end_frame": 6539,
+        "cut_scene_number": 89,
+        "frame_paths": [
+            "frames/scene_89_frame_6489.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_89_frame_6489.jpg",
+                "caption": "The setting appears to be a dining area. There is a person sitting at a table, holding a fork, which suggests they are in the middle of a meal. The table has floral decorations and other dining items. The lighting is warm, creating a cozy and intimate atmosphere. The background is out of focus, indicating it is likely inside a home or a restaurant.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 125,
+                            "right": 196,
+                            "bottom": 254,
+                            "left": 67
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:37.967",
+        "end_timecode": "00:03:39.967",
+        "start_seconds": 217.96666666666667,
+        "end_seconds": 219.96666666666667,
+        "start_frame": 6539,
+        "end_frame": 6599,
+        "cut_scene_number": 90,
+        "frame_paths": [
+            "frames/scene_90_frame_6539.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_90_frame_6539.jpg",
+                "caption": "The setting appears to be a dining room or a casual restaurant. The environment includes a table covered with a lace tablecloth, on which there are flowers and condiments. Two people are sitting at the table, possibly engaged in a conversation. The background shows a counter or a shelf with items like a picture frame. The lighting is warm, typical of indoor lighting, adding to a cozy atmosphere. The scene suggests a domestic or informal setting, likely a home or a small eatery.",
+                "faces": [
+                    {
+                        "person_id": 4,
+                        "face_location": {
+                            "top": 213,
+                            "right": 121,
+                            "bottom": 287,
+                            "left": 46
+                        },
+                        "setting_ID": "person_4_setting_0",
+                        "global_setting_ID": "global_setting_3"
+                    },
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 213,
+                            "right": 287,
+                            "bottom": 287,
+                            "left": 212
+                        },
+                        "setting_ID": "person_5_setting_0",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:39.967",
+        "end_timecode": "00:03:42.767",
+        "start_seconds": 219.96666666666667,
+        "end_seconds": 222.76666666666668,
+        "start_frame": 6599,
+        "end_frame": 6683,
+        "cut_scene_number": 91,
+        "frame_paths": [
+            "frames/scene_91_frame_6599.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_91_frame_6599.jpg",
+                "caption": "The setting appears to be an indoor dining area. The environment is cozy, with warm, soft lighting suggesting an intimate or personal atmosphere. In the foreground, there's part of a dining table with blurred flower arrangements, possibly as part of a centerpiece. The person in the image is sitting at the table, suggesting a conversational scene taking place, perhaps during a meal or a casual gathering.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 116,
+                            "right": 201,
+                            "bottom": 270,
+                            "left": 46
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:42.767",
+        "end_timecode": "00:03:45.767",
+        "start_seconds": 222.76666666666668,
+        "end_seconds": 225.76666666666668,
+        "start_frame": 6683,
+        "end_frame": 6773,
+        "cut_scene_number": 92,
+        "frame_paths": [
+            "frames/scene_92_frame_6683.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_92_frame_6683.jpg",
+                "caption": "The setting appears to be a dining room with a warm and intimate atmosphere. There is a table with a white lace tablecloth in the foreground, adorned with a colorful bouquet of flowers and some spice containers. \n\nTwo people are seated at the table, suggesting a mealtime gathering. The background includes a kitchen area with a countertop and some kitchenware, indicating a domestic environment. The lighting is soft and warm, contributing to a cozy and inviting ambiance.",
+                "faces": [
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 204,
+                            "right": 278,
+                            "bottom": 279,
+                            "left": 204
+                        },
+                        "setting_ID": "person_5_setting_0",
+                        "global_setting_ID": "global_setting_3"
+                    },
+                    {
+                        "person_id": 4,
+                        "face_location": {
+                            "top": 196,
+                            "right": 126,
+                            "bottom": 285,
+                            "left": 36
+                        },
+                        "setting_ID": "person_4_setting_0",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:45.767",
+        "end_timecode": "00:03:47.100",
+        "start_seconds": 225.76666666666668,
+        "end_seconds": 227.1,
+        "start_frame": 6773,
+        "end_frame": 6813,
+        "cut_scene_number": 93,
+        "frame_paths": [
+            "frames/scene_93_frame_6773.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_93_frame_6773.jpg",
+                "caption": "The image depicts a woman sitting at a dining table, presumably inside a home or restaurant. The background shows a dark area that could be part of the interior space, possibly a wall or doorway, with soft, neutral lighting suggesting an indoor setting. The woman is holding a fork, indicating she might be in the middle of a meal. There is a blurred foreground of what appears to be a floral centerpiece, adding to the dining atmosphere. The setting seems to be casual yet intimate, suitable for a personal or social dining scenario.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 133,
+                            "right": 218,
+                            "bottom": 288,
+                            "left": 64
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:47.100",
+        "end_timecode": "00:03:48.967",
+        "start_seconds": 227.1,
+        "end_seconds": 228.96666666666667,
+        "start_frame": 6813,
+        "end_frame": 6869,
+        "cut_scene_number": 94,
+        "frame_paths": [
+            "frames/scene_94_frame_6813.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_94_frame_6813.jpg",
+                "caption": "The setting is a dining room. The environment features a table covered with a lace tablecloth, which holds a centerpiece of colorful flowers. Plates and cups are visible, indicating a meal setting. The background includes warm lighting and part of a kitchen area with a stove and cabinets. The general ambiance is cozy and domestic, suggesting a home environment.",
+                "faces": [
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 204,
+                            "right": 278,
+                            "bottom": 279,
+                            "left": 204
+                        },
+                        "setting_ID": "person_5_setting_0",
+                        "global_setting_ID": "global_setting_3"
+                    },
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 213,
+                            "right": 113,
+                            "bottom": 287,
+                            "left": 38
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:48.967",
+        "end_timecode": "00:03:55.300",
+        "start_seconds": 228.96666666666667,
+        "end_seconds": 235.3,
+        "start_frame": 6869,
+        "end_frame": 7059,
+        "cut_scene_number": 95,
+        "frame_paths": [
+            "frames/scene_95_frame_6869.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_95_frame_6869.jpg",
+                "caption": "The setting of the image is likely a dining area, indicated by the presence of a wooden chair and table. The table has a flower centerpiece, adding a decorative element. The lighting appears warm and soft, suggesting an intimate or cozy atmosphere typical of indoor dining. The person is smiling and holding cutlery, indicating a meal setting. The background is out of focus, providing limited detail, but emphasizes the feeling of being indoors, possibly at home or in a small, comfortable dining space.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 196,
+                            "right": 210,
+                            "bottom": 325,
+                            "left": 81
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:55.300",
+        "end_timecode": "00:03:56.867",
+        "start_seconds": 235.3,
+        "end_seconds": 236.86666666666667,
+        "start_frame": 7059,
+        "end_frame": 7106,
+        "cut_scene_number": 96,
+        "frame_paths": [
+            "frames/scene_96_frame_7059.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_96_frame_7059.jpg",
+                "caption": "The image depicts a woman sitting in an indoor setting, likely a kitchen or dining area. She is holding a pen or utensil, indicating she might be involved in a writing or eating activity. The lighting is warm and ambient, suggesting a cozy, intimate environment. Behind her, there are blurred elements, possibly kitchen appliances or books, which reinforce the idea of a domestic setting. The overall atmosphere appears comfortable and homely.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:56.867",
+        "end_timecode": "00:03:59.433",
+        "start_seconds": 236.86666666666667,
+        "end_seconds": 239.43333333333334,
+        "start_frame": 7106,
+        "end_frame": 7183,
+        "cut_scene_number": 97,
+        "frame_paths": [
+            "frames/scene_97_frame_7106.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_97_frame_7106.jpg",
+                "caption": "The setting of the image appears to be a kitchen. There are light-colored cabinets in the background and a countertop, suggesting a domestic environment. The lighting is warm and soft, creating a cozy atmosphere suitable for casual, personal conversations. The presence of a plate with food in the foreground indicates dining or a meal setting.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:03:59.433",
+        "end_timecode": "00:04:02.433",
+        "start_seconds": 239.43333333333334,
+        "end_seconds": 242.43333333333334,
+        "start_frame": 7183,
+        "end_frame": 7273,
+        "cut_scene_number": 98,
+        "frame_paths": [
+            "frames/scene_98_frame_7183.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_98_frame_7183.jpg",
+                "caption": "The setting appears to be indoors, likely a kitchen or dining area. The background features kitchen elements such as a counter and possibly a stove or oven. The environment is warmly lit, suggesting cozy, ambient lighting. The person in the image has long dark hair tied back and is wearing a brown sweater. The overall atmosphere seems to be calm and domestic.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:02.433",
+        "end_timecode": "00:04:03.733",
+        "start_seconds": 242.43333333333334,
+        "end_seconds": 243.73333333333332,
+        "start_frame": 7273,
+        "end_frame": 7312,
+        "cut_scene_number": 99,
+        "frame_paths": [
+            "frames/scene_99_frame_7273.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_99_frame_7273.jpg",
+                "caption": "The setting is a dining room with a cozy atmosphere. There is a round table covered with a lace tablecloth. On the table, there are flowers in a vase and condiments. Three people are seated around the table, suggesting a social or family gathering. In the background, there is a decorative shelf with some objects and a soft, warm light illuminating the area, giving it a homely feel. The walls appear to be a neutral color, adding to the calm environment. The overall ambiance suggests a casual and intimate setting.",
+                "faces": [
+                    {
+                        "person_id": 5,
+                        "face_location": {
+                            "top": 205,
+                            "right": 262,
+                            "bottom": 257,
+                            "left": 210
+                        },
+                        "setting_ID": "person_5_setting_0",
+                        "global_setting_ID": "global_setting_3"
+                    },
+                    {
+                        "person_id": 4,
+                        "face_location": {
+                            "top": 211,
+                            "right": 129,
+                            "bottom": 262,
+                            "left": 78
+                        },
+                        "setting_ID": "person_4_setting_0",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:03.733",
+        "end_timecode": "00:04:05.167",
+        "start_seconds": 243.73333333333332,
+        "end_seconds": 245.16666666666666,
+        "start_frame": 7312,
+        "end_frame": 7355,
+        "cut_scene_number": 100,
+        "frame_paths": [
+            "frames/scene_100_frame_7312.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_100_frame_7312.jpg",
+                "caption": "The image depicts an indoor setting, likely a dining room. A woman is sitting at a table, eating with a fork. The background includes a blurred image of what appears to be a kitchen area, suggesting a domestic environment. The room is warmly lit, giving a cozy atmosphere. The table has a decorative item, possibly flowers, adding to the homey feel. Overall, the setting suggests a home during mealtime.",
+                "faces": [
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 187,
+                            "right": 211,
+                            "bottom": 295,
+                            "left": 103
+                        },
+                        "setting_ID": "person_0_setting_2",
+                        "global_setting_ID": "global_setting_3"
+                    }
+                ],
+                "global_setting_ID": "global_setting_3"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:05.167",
+        "end_timecode": "00:04:07.333",
+        "start_seconds": 245.16666666666666,
+        "end_seconds": 247.33333333333334,
+        "start_frame": 7355,
+        "end_frame": 7420,
+        "cut_scene_number": 101,
+        "frame_paths": [
+            "frames/scene_101_frame_7355.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_101_frame_7355.jpg",
+                "caption": "The image depicts a cityscape with numerous high-rise buildings, forming a dense urban environment. The buildings vary in architectural style and height, with some being modern glass towers and others appearing more traditional. In the backdrop, there is a layer of fog or haze, suggesting early morning or late afternoon lighting, as the light appears diffused and soft. The overall atmosphere conveys a bustling city setting, likely in a metropolitan area with a significant skyline.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:07.333",
+        "end_timecode": "00:04:09.067",
+        "start_seconds": 247.33333333333334,
+        "end_seconds": 249.06666666666666,
+        "start_frame": 7420,
+        "end_frame": 7472,
+        "cut_scene_number": 102,
+        "frame_paths": [
+            "frames/scene_102_frame_7420.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_102_frame_7420.jpg",
+                "caption": "The setting is indoors, likely in a game or recreation room. A man is playing pool, closely aligning his cue stick with a white cue ball. The background includes wooden paneling and patterned curtains, suggesting a comfortable and possibly upscale environment. The lighting appears to be natural, likely coming from a window nearby, as indicated by the brightness near the curtains. The setting is calm and focused on the pool game.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:09.067",
+        "end_timecode": "00:04:10.633",
+        "start_seconds": 249.06666666666666,
+        "end_seconds": 250.63333333333333,
+        "start_frame": 7472,
+        "end_frame": 7519,
+        "cut_scene_number": 103,
+        "frame_paths": [
+            "frames/scene_103_frame_7472.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_103_frame_7472.jpg",
+                "caption": "The setting appears to be an indoor room, likely a game or billiards room. There is a pool table in the foreground with several pool balls visible. The person is holding a pool cue, suggesting they might be about to play. The background features large windows allowing natural light to fill the room, with curtains partially covering the windows. The wooden trim and overall setup give the room a cozy and possibly upscale feel.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:10.633",
+        "end_timecode": "00:04:15.867",
+        "start_seconds": 250.63333333333333,
+        "end_seconds": 255.86666666666667,
+        "start_frame": 7519,
+        "end_frame": 7676,
+        "cut_scene_number": 104,
+        "frame_paths": [
+            "frames/scene_104_frame_7519.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_104_frame_7519.jpg",
+                "caption": "The setting appears to be an indoor room with wooden walls, giving it a formal or sophisticated atmosphere. There is a pool table in the foreground, suggesting it might be a recreation room or a lounge area. The lighting is soft and natural, perhaps from a window or overhead lights, creating a warm and relaxed environment. The individuals in the image are dressed in business or formal attire, indicating a professional or semi-formal context.",
+                "faces": [
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 118,
+                            "right": 279,
+                            "bottom": 170,
+                            "left": 227
+                        },
+                        "setting_ID": "person_2_setting_1",
+                        "global_setting_ID": "global_setting_5"
+                    },
+                    {
+                        "person_id": 0,
+                        "face_location": {
+                            "top": 118,
+                            "right": 141,
+                            "bottom": 170,
+                            "left": 89
+                        },
+                        "setting_ID": "person_0_setting_3",
+                        "global_setting_ID": "global_setting_5"
+                    }
+                ],
+                "global_setting_ID": "global_setting_5"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:15.867",
+        "end_timecode": "00:04:20.600",
+        "start_seconds": 255.86666666666667,
+        "end_seconds": 260.6,
+        "start_frame": 7676,
+        "end_frame": 7818,
+        "cut_scene_number": 105,
+        "frame_paths": [
+            "frames/scene_105_frame_7676.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_105_frame_7676.jpg",
+                "caption": "The image shows two people standing indoors, likely in an office or formal setting. The woman is wearing a white blouse, while the man is dressed in a blazer with a watch on his wrist. The background features wood-paneled walls, suggesting a professional or executive environment. The lighting is soft and natural, illuminating the subjects gently. Text is superimposed on the image, hinting at a dialogue or narrative context, but it doesn't provide specific details about actions or events. The overall setting appears to be a formal meeting or conversation space.",
+                "faces": [
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 116,
+                            "right": 335,
+                            "bottom": 206,
+                            "left": 245
+                        },
+                        "setting_ID": "person_2_setting_1",
+                        "global_setting_ID": "global_setting_5"
+                    }
+                ],
+                "global_setting_ID": "global_setting_5"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:20.600",
+        "end_timecode": "00:04:21.867",
+        "start_seconds": 260.6,
+        "end_seconds": 261.8666666666667,
+        "start_frame": 7818,
+        "end_frame": 7856,
+        "cut_scene_number": 106,
+        "frame_paths": [
+            "frames/scene_106_frame_7818.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_106_frame_7818.jpg",
+                "caption": "The setting in the picture appears to be an interior space, possibly a room within a house. The physical environment includes a person holding a pool cue, suggesting a game or recreational area, such as a billiards room. Surroundings include richly patterned curtains with floral designs in the background, indicating a traditional or possibly formal room decor. The background lighting is soft and diffused, possibly from natural light coming through a window, which adds a warm atmosphere to the space. The setting conveys a calm and leisurely environment.",
+                "faces": [
+                    {
+                        "person_id": 1,
+                        "face_location": {
+                            "top": 125,
+                            "right": 296,
+                            "bottom": 254,
+                            "left": 167
+                        },
+                        "setting_ID": "person_1_setting_2",
+                        "global_setting_ID": "global_setting_6"
+                    }
+                ],
+                "global_setting_ID": "global_setting_6"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:21.867",
+        "end_timecode": "00:04:24.000",
+        "start_seconds": 261.8666666666667,
+        "end_seconds": 264.0,
+        "start_frame": 7856,
+        "end_frame": 7920,
+        "cut_scene_number": 107,
+        "frame_paths": [
+            "frames/scene_107_frame_7856.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_107_frame_7856.jpg",
+                "caption": "The setting appears to be indoors, possibly a formal office or conference room, suggested by the wooden walls and decor. In the background, there is a wooden cabinet and some decorative elements that contribute to a professional ambiance. The lighting is soft and natural, suggesting ceiling or nearby window lighting. Two individuals are present: a woman in a white blouse and black skirt, and a man in a dark blazer with beige trousers. They are standing, indicating a formal or serious setting, potentially during a meeting or conversation.",
+                "faces": [
+                    {
+                        "person_id": 2,
+                        "face_location": {
+                            "top": 113,
+                            "right": 312,
+                            "bottom": 188,
+                            "left": 237
+                        },
+                        "setting_ID": "person_2_setting_1",
+                        "global_setting_ID": "global_setting_5"
+                    }
+                ],
+                "global_setting_ID": "global_setting_5"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:24.000",
+        "end_timecode": "00:04:27.233",
+        "start_seconds": 264.0,
+        "end_seconds": 267.23333333333335,
+        "start_frame": 7920,
+        "end_frame": 8017,
+        "cut_scene_number": 108,
+        "frame_paths": [
+            "frames/scene_108_frame_7920.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_108_frame_7920.jpg",
+                "caption": "The setting appears to be an indoor billiard room, featuring a man leaning on a cue stick while standing next to a pool table. The room has wooden paneling, and in the background, there is a large arched window that allows natural light to filter in, creating a softly illuminated environment. The dim lighting hints that it might be a leisurely or private setting, perhaps in a home or a dedicated recreational space. The overall atmosphere suggests a relaxed and informal environment.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    },
+    {
+        "start_timecode": "00:04:27.233",
+        "end_timecode": "00:04:30.000",
+        "start_seconds": 267.23333333333335,
+        "end_seconds": 270.0,
+        "start_frame": 8017,
+        "end_frame": 8100,
+        "cut_scene_number": 109,
+        "frame_paths": [
+            "frames/scene_109_frame_8017.jpg"
+        ],
+        "frames_metadata": [
+            {
+                "frame_path": "frames/scene_109_frame_8017.jpg",
+                "caption": "The setting appears to be an interior space, likely a room with wooden paneling or doors in the background, suggesting a traditional or formal environment. A person stands near what seems to be a window adorned with patterned curtains featuring floral designs, indicating an elegant or classic decor style. The lighting is soft, likely natural light coming through the window, creating a calm and composed atmosphere. The attire of the person suggests a formal or professional setting.",
+                "faces": [],
+                "global_setting_ID": "Unknown"
+            }
+        ]
+    }
+]

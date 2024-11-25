@@ -1,0 +1,144 @@
+2024-11-23 19:17:33,356 - process_9676 - INFO - 
+Generating captions for Scene 1 with 1 frames. 
+
+2024-11-23 19:17:40,325 - process_9676 - INFO - 
+Generated caption for frame frames/scene_1_frame_0.jpg 
+
+2024-11-23 19:17:40,325 - process_9676 - INFO - 
+Completed caption generation for Scene 1. 
+
+2024-11-23 19:17:40,325 - process_9676 - INFO - 
+Generating captions for Scene 2 with 1 frames. 
+
+2024-11-23 19:17:44,921 - process_9676 - INFO - 
+Generated caption for frame frames/scene_2_frame_75.jpg 
+
+2024-11-23 19:17:44,921 - process_9676 - INFO - 
+Completed caption generation for Scene 2. 
+
+2024-11-23 19:17:44,921 - process_9676 - INFO - 
+Generating captions for Scene 3 with 1 frames. 
+
+2024-11-23 19:17:50,184 - process_9676 - INFO - 
+Generated caption for frame frames/scene_3_frame_177.jpg 
+
+2024-11-23 19:17:50,184 - process_9676 - INFO - 
+Completed caption generation for Scene 3. 
+
+2024-11-23 19:17:50,184 - process_9676 - INFO - 
+Generating captions for Scene 4 with 1 frames. 
+
+2024-11-23 19:17:54,836 - process_9676 - INFO - 
+Generated caption for frame frames/scene_4_frame_255.jpg 
+
+2024-11-23 19:17:54,836 - process_9676 - INFO - 
+Completed caption generation for Scene 4. 
+
+2024-11-23 19:17:54,836 - process_9676 - INFO - 
+Generating captions for Scene 49 with 1 frames. 
+
+2024-11-23 19:17:57,631 - process_9676 - INFO - 
+Generated caption for frame frames/scene_49_frame_3291.jpg 
+
+2024-11-23 19:17:57,632 - process_9676 - INFO - 
+Completed caption generation for Scene 49. 
+
+2024-11-23 19:17:57,632 - process_9676 - INFO - 
+Generating captions for Scene 50 with 1 frames. 
+
+2024-11-23 19:18:02,708 - process_9676 - INFO - 
+Generated caption for frame frames/scene_50_frame_3352.jpg 
+
+2024-11-23 19:18:02,708 - process_9676 - INFO - 
+Completed caption generation for Scene 50. 
+
+2024-11-23 19:18:02,709 - process_9676 - INFO - 
+Generating captions for Scene 51 with 1 frames. 
+
+2024-11-23 19:18:07,943 - process_9676 - INFO - 
+Generated caption for frame frames/scene_51_frame_3398.jpg 
+
+2024-11-23 19:18:07,943 - process_9676 - INFO - 
+Completed caption generation for Scene 51. 
+
+2024-11-23 19:18:07,943 - process_9676 - INFO - 
+Generating captions for Scene 52 with 1 frames. 
+
+2024-11-23 19:18:11,424 - process_9676 - INFO - 
+Generated caption for frame frames/scene_52_frame_3491.jpg 
+
+2024-11-23 19:18:11,424 - process_9676 - INFO - 
+Completed caption generation for Scene 52. 
+
+2024-11-23 19:18:11,424 - process_9676 - INFO - 
+Generating captions for Scene 77 with 1 frames. 
+
+2024-11-23 19:18:16,622 - process_9676 - INFO - 
+Generated caption for frame frames/scene_77_frame_5838.jpg 
+
+2024-11-23 19:18:16,622 - process_9676 - INFO - 
+Completed caption generation for Scene 77. 
+
+2024-11-23 19:18:16,623 - process_9676 - INFO - 
+Generating captions for Scene 78 with 1 frames. 
+
+2024-11-23 19:18:20,229 - process_9676 - INFO - 
+Generated caption for frame frames/scene_78_frame_5925.jpg 
+
+2024-11-23 19:18:20,229 - process_9676 - INFO - 
+Completed caption generation for Scene 78. 
+
+2024-11-23 19:18:20,229 - process_9676 - INFO - 
+Generating captions for Scene 79 with 1 frames. 
+
+2024-11-23 19:18:23,097 - process_9676 - INFO - 
+Generated caption for frame frames/scene_79_frame_5962.jpg 
+
+2024-11-23 19:18:23,098 - process_9676 - INFO - 
+Completed caption generation for Scene 79. 
+
+2024-11-23 19:18:23,098 - process_9676 - INFO - 
+Generating captions for Scene 80 with 1 frames. 
+
+2024-11-23 19:18:25,863 - process_9676 - INFO - 
+Generated caption for frame frames/scene_80_frame_5998.jpg 
+
+2024-11-23 19:18:25,864 - process_9676 - INFO - 
+Completed caption generation for Scene 80. 
+
+2024-11-23 19:18:25,864 - process_9676 - INFO - 
+Generating captions for Scene 105 with 1 frames. 
+
+2024-11-23 19:18:29,744 - process_9676 - INFO - 
+Generated caption for frame frames/scene_105_frame_7676.jpg 
+
+2024-11-23 19:18:29,744 - process_9676 - INFO - 
+Completed caption generation for Scene 105. 
+
+2024-11-23 19:18:29,744 - process_9676 - INFO - 
+Generating captions for Scene 106 with 1 frames. 
+
+2024-11-23 19:18:32,824 - process_9676 - INFO - 
+Generated caption for frame frames/scene_106_frame_7818.jpg 
+
+2024-11-23 19:18:32,824 - process_9676 - INFO - 
+Completed caption generation for Scene 106. 
+
+2024-11-23 19:18:32,824 - process_9676 - INFO - 
+Generating captions for Scene 107 with 1 frames. 
+
+2024-11-23 19:18:36,001 - process_9676 - INFO - 
+Generated caption for frame frames/scene_107_frame_7856.jpg 
+
+2024-11-23 19:18:36,001 - process_9676 - INFO - 
+Completed caption generation for Scene 107. 
+
+2024-11-23 19:18:36,002 - process_9676 - INFO - 
+Generating captions for Scene 108 with 1 frames. 
+
+2024-11-23 19:18:38,868 - process_9676 - INFO - 
+Generated caption for frame frames/scene_108_frame_7920.jpg 
+
+2024-11-23 19:18:38,868 - process_9676 - INFO - 
+Completed caption generation for Scene 108. 
+

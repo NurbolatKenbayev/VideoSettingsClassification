@@ -54,7 +54,10 @@ class FrameExtractor:
             # )
 
             # Determine frame indices to extract
-            if self.frames_per_scene >= total_frames:
+            if self.frames_per_scene == 1:
+                # If only one frame needed extract the middle one
+                frame_indices = [(start_frame + end_frame) // 2]
+            elif self.frames_per_scene >= total_frames:
                 # Extract all frames in the scene
                 frame_indices = list(range(start_frame, end_frame + 1))
             else:

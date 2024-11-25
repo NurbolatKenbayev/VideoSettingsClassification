@@ -12,9 +12,10 @@ from agents.utils import encode_image, setup_logger
 def generate_caption_one_image(
     image_path: str, openai_api_key: str, logger: logging.Logger
 ) -> str:
-    # # For debugging and testing just uncomment this part
+    # ### For debugging and testing just uncomment this part
     # logger.info(f"Generated caption for frame {image_path}")
     # return {"frame_path": image_path, "caption": None}
+    # ###
 
     openai.api_key = openai_api_key  # Set API key in the process
 
@@ -34,7 +35,7 @@ def generate_caption_one_image(
                     "content": [
                         {
                             "type": "text",
-                            "text": "Describe what you see in the picture, noting down specific details: physical environment, surroundings, places.",
+                            "text": "Describe what you see in the picture, noting down specific details: physical environment, surroundings, places, background lighting. The goal is to identify setting. Setting can be defined as a location, where some actions are taking place. If in one video actions are taking place in several places, then there would be several settings.",
                         },
                         {
                             "type": "image_url",
