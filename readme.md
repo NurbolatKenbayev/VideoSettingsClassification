@@ -20,6 +20,12 @@ Verify installation in python: `import face_recognition`
 
 `pip install boto3`
 
+`pip install onnxruntime`
+`pip install insightface`
+
+`pip install label-studio`
+
+
 Don't forget to add `.env` file with the `OPENAI_API_KEY` and **put it in the `.gitignore`**.
 
 

@@ -63,9 +63,18 @@ def compare_setting_two_frames(
 
         flag = response.choices[0].message.content
         logger.info(f"Answer for {frame1} and {frame2}: {flag}")
-        ans_list = ["true", "true.", "yes", "yes."]
+        ans_list_pos = ["true", "true.", "yes", "yes."]
+        ans_list_neg = ["false", "false.", "no", "no."]
 
-        return flag.lower() in ans_list
+        if flag.lower() in ans_list_pos:
+            return True
+        elif flag.lower() in ans_list_neg:
+            return False
+        else:
+            logger.error(
+                f"The response '{flag.lower()}' can't be interpreted as True or False."
+            )
+            return False
 
     except openai.RateLimitError as e:
         logger.error(f"Rate limit error: {e}")

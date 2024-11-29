@@ -4,6 +4,24 @@ import multiprocessing
 import os
 from datetime import datetime
 
+import numpy as np
+
+
+def convert_to_serializable(obj):
+    if isinstance(obj, np.integer):
+        return int(obj)
+    elif isinstance(obj, np.floating):
+        return float(obj)
+    elif isinstance(obj, np.ndarray):
+        return obj.tolist()
+    elif isinstance(obj, dict):
+        return {k: convert_to_serializable(v) for k, v in obj.items()}
+    elif isinstance(obj, list):
+        return [convert_to_serializable(i) for i in obj]
+    elif isinstance(obj, tuple):
+        return tuple(convert_to_serializable(i) for i in obj)
+    return obj
+
 
 def encode_image(image_path: str) -> str:
     with open(image_path, "rb") as image_file:
