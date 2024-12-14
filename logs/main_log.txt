@@ -1,0 +1,1011 @@
+2024-12-04 17:17:25,699 - __main__ - INFO - 
+Main pipeline process started. 
+
+2024-12-04 17:17:48,655 - ImageCaptioningAgent - INFO - 
+Starting image captioning for scenes. 
+
+2024-12-04 17:17:52,746 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:53,071 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:53,485 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:53,549 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:53,572 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:53,576 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:54,267 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:54,460 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:54,887 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:55,123 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:55,168 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:55,578 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:55,700 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:55,773 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:55,982 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:56,311 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:56,951 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:57,264 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:58,095 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:58,187 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:59,630 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:17:59,986 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:18:00,246 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:18:00,384 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:18:00,587 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:18:00,873 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:18:02,066 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:18:02,294 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:18:02,764 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:18:22,304 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:18:22,328 - ImageCaptioningAgent - INFO - 
+Image captioning for all scenes completed. 
+
+2024-12-04 17:18:43,096 - CharactersClassificationAgent - INFO - 
+No existing known faces database found. Starting fresh. 
+
+2024-12-04 17:18:43,096 - CharactersClassificationAgent - INFO - 
+Starting character classification using InsightFace. 
+
+2024-12-04 17:18:43,344 - CharactersClassificationAgent - INFO - 
+New person detected with ID 0 
+
+2024-12-04 17:18:43,344 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 0 
+
+2024-12-04 17:18:43,551 - CharactersClassificationAgent - INFO - 
+New person detected with ID 1 
+
+2024-12-04 17:18:43,551 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 1 
+
+2024-12-04 17:18:43,776 - CharactersClassificationAgent - INFO - 
+New person detected with ID 2 
+
+2024-12-04 17:18:43,776 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 2 
+
+2024-12-04 17:18:44,000 - CharactersClassificationAgent - INFO - 
+Match found for person ID 1 with similarity 0.5082934498786926 
+
+2024-12-04 17:18:44,000 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 3 
+
+2024-12-04 17:18:44,115 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 4 
+
+2024-12-04 17:18:44,538 - CharactersClassificationAgent - INFO - 
+New person detected with ID 3 
+
+2024-12-04 17:18:44,538 - CharactersClassificationAgent - INFO - 
+Match found for person ID 1 with similarity 0.2628256380558014 
+
+2024-12-04 17:18:44,538 - CharactersClassificationAgent - INFO - 
+New person detected with ID 4 
+
+2024-12-04 17:18:44,538 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 5 
+
+2024-12-04 17:18:44,843 - CharactersClassificationAgent - INFO - 
+Match found for person ID 1 with similarity 0.32516276836395264 
+
+2024-12-04 17:18:44,843 - CharactersClassificationAgent - INFO - 
+Match found for person ID 3 with similarity 0.46397864818573 
+
+2024-12-04 17:18:44,843 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 6 
+
+2024-12-04 17:18:44,956 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 7 
+
+2024-12-04 17:18:45,182 - CharactersClassificationAgent - INFO - 
+Match found for person ID 0 with similarity 0.730830192565918 
+
+2024-12-04 17:18:45,182 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 8 
+
+2024-12-04 17:18:45,412 - CharactersClassificationAgent - INFO - 
+Match found for person ID 0 with similarity 0.25696587562561035 
+
+2024-12-04 17:18:45,413 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 9 
+
+2024-12-04 17:18:45,515 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 10 
+
+2024-12-04 17:18:45,733 - CharactersClassificationAgent - INFO - 
+Match found for person ID 0 with similarity 0.5300342440605164 
+
+2024-12-04 17:18:45,733 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 11 
+
+2024-12-04 17:18:45,841 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 12 
+
+2024-12-04 17:18:46,065 - CharactersClassificationAgent - INFO - 
+Match found for person ID 0 with similarity 0.6370750069618225 
+
+2024-12-04 17:18:46,065 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 13 
+
+2024-12-04 17:18:46,486 - CharactersClassificationAgent - INFO - 
+Match found for person ID 1 with similarity 0.2289540022611618 
+
+2024-12-04 17:18:46,487 - CharactersClassificationAgent - INFO - 
+New person detected with ID 5 
+
+2024-12-04 17:18:46,487 - CharactersClassificationAgent - INFO - 
+Match found for person ID 3 with similarity 0.29821908473968506 
+
+2024-12-04 17:18:46,487 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 14 
+
+2024-12-04 17:18:46,706 - CharactersClassificationAgent - INFO - 
+Match found for person ID 0 with similarity 0.37309008836746216 
+
+2024-12-04 17:18:46,707 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 15 
+
+2024-12-04 17:18:47,011 - CharactersClassificationAgent - INFO - 
+Match found for person ID 1 with similarity 0.31866008043289185 
+
+2024-12-04 17:18:47,012 - CharactersClassificationAgent - INFO - 
+Match found for person ID 3 with similarity 0.4491104483604431 
+
+2024-12-04 17:18:47,012 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 16 
+
+2024-12-04 17:18:47,247 - CharactersClassificationAgent - INFO - 
+Match found for person ID 0 with similarity 0.6126663684844971 
+
+2024-12-04 17:18:47,247 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 17 
+
+2024-12-04 17:18:47,595 - CharactersClassificationAgent - INFO - 
+Match found for person ID 1 with similarity 0.38753485679626465 
+
+2024-12-04 17:18:47,595 - CharactersClassificationAgent - INFO - 
+Match found for person ID 3 with similarity 0.4588400721549988 
+
+2024-12-04 17:18:47,595 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 18 
+
+2024-12-04 17:18:47,804 - CharactersClassificationAgent - INFO - 
+Match found for person ID 0 with similarity 0.6016478538513184 
+
+2024-12-04 17:18:47,805 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 19 
+
+2024-12-04 17:18:48,234 - CharactersClassificationAgent - INFO - 
+Match found for person ID 1 with similarity 0.16893582046031952 
+
+2024-12-04 17:18:48,235 - CharactersClassificationAgent - INFO - 
+Match found for person ID 5 with similarity 0.19378384947776794 
+
+2024-12-04 17:18:48,235 - CharactersClassificationAgent - INFO - 
+Match found for person ID 3 with similarity 0.3200940489768982 
+
+2024-12-04 17:18:48,235 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 20 
+
+2024-12-04 17:18:48,546 - CharactersClassificationAgent - INFO - 
+New person detected with ID 6 
+
+2024-12-04 17:18:48,547 - CharactersClassificationAgent - INFO - 
+New person detected with ID 7 
+
+2024-12-04 17:18:48,547 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 21 
+
+2024-12-04 17:18:48,762 - CharactersClassificationAgent - INFO - 
+Match found for person ID 0 with similarity 0.3870536684989929 
+
+2024-12-04 17:18:48,762 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 22 
+
+2024-12-04 17:18:49,105 - CharactersClassificationAgent - INFO - 
+Match found for person ID 0 with similarity 0.4989299178123474 
+
+2024-12-04 17:18:49,106 - CharactersClassificationAgent - INFO - 
+Match found for person ID 6 with similarity 0.2641344368457794 
+
+2024-12-04 17:18:49,106 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 23 
+
+2024-12-04 17:18:49,231 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 24 
+
+2024-12-04 17:18:49,653 - CharactersClassificationAgent - INFO - 
+New person detected with ID 8 
+
+2024-12-04 17:18:49,653 - CharactersClassificationAgent - INFO - 
+New person detected with ID 9 
+
+2024-12-04 17:18:49,653 - CharactersClassificationAgent - INFO - 
+New person detected with ID 10 
+
+2024-12-04 17:18:49,654 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 25 
+
+2024-12-04 17:18:49,957 - CharactersClassificationAgent - INFO - 
+Match found for person ID 6 with similarity 0.5126267671585083 
+
+2024-12-04 17:18:49,958 - CharactersClassificationAgent - INFO - 
+Match found for person ID 0 with similarity 0.2692055106163025 
+
+2024-12-04 17:18:49,958 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 26 
+
+2024-12-04 17:18:50,174 - CharactersClassificationAgent - INFO - 
+Match found for person ID 0 with similarity 0.5919926166534424 
+
+2024-12-04 17:18:50,174 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 27 
+
+2024-12-04 17:18:50,397 - CharactersClassificationAgent - INFO - 
+Match found for person ID 6 with similarity 0.5856000781059265 
+
+2024-12-04 17:18:50,397 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 28 
+
+2024-12-04 17:18:50,734 - CharactersClassificationAgent - INFO - 
+Match found for person ID 6 with similarity 0.55585777759552 
+
+2024-12-04 17:18:50,735 - CharactersClassificationAgent - INFO - 
+Match found for person ID 0 with similarity 0.6219980716705322 
+
+2024-12-04 17:18:50,735 - CharactersClassificationAgent - INFO - 
+Completed character classification for Scene 29 
+
+2024-12-04 17:18:50,736 - CharactersClassificationAgent - INFO - 
+Saved known faces database with 11 faces. 
+
+2024-12-04 17:18:50,736 - CharactersClassificationAgent - INFO - 
+Character classification completed. 
+
+2024-12-04 17:19:50,456 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 0. 
+
+2024-12-04 17:19:50,549 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 1. 
+
+2024-12-04 17:19:50,647 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 2. 
+
+2024-12-04 17:19:50,752 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 3. 
+
+2024-12-04 17:19:50,783 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 4. 
+
+2024-12-04 17:19:50,877 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 5. 
+
+2024-12-04 17:19:50,981 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 6. 
+
+2024-12-04 17:19:51,013 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 7. 
+
+2024-12-04 17:19:51,109 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 8. 
+
+2024-12-04 17:19:51,206 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 9. 
+
+2024-12-04 17:19:51,231 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 10. 
+
+2024-12-04 17:19:51,329 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 11. 
+
+2024-12-04 17:19:51,357 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 12. 
+
+2024-12-04 17:19:51,464 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 13. 
+
+2024-12-04 17:19:51,561 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 14. 
+
+2024-12-04 17:19:51,646 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 15. 
+
+2024-12-04 17:19:51,750 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 16. 
+
+2024-12-04 17:19:51,836 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 17. 
+
+2024-12-04 17:19:51,936 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 18. 
+
+2024-12-04 17:19:52,023 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 19. 
+
+2024-12-04 17:19:52,134 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 20. 
+
+2024-12-04 17:19:52,231 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 21. 
+
+2024-12-04 17:19:52,317 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 22. 
+
+2024-12-04 17:19:52,405 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 23. 
+
+2024-12-04 17:19:52,441 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 24. 
+
+2024-12-04 17:19:52,550 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 25. 
+
+2024-12-04 17:19:52,644 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 26. 
+
+2024-12-04 17:19:52,748 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 27. 
+
+2024-12-04 17:19:52,845 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 28. 
+
+2024-12-04 17:19:52,941 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 29. 
+
+2024-12-04 17:21:07,098 - SettingClassificationCharacterAgent - INFO - 
+Starting setting classification per person. 
+
+2024-12-04 17:21:07,098 - SettingClassificationCharacterAgent - INFO - 
+There are 11 different persons. 
+
+2024-12-04 17:21:07,099 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 0 with 13 frames. 
+
+2024-12-04 17:21:11,346 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:21:11,353 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0008.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0000.png: No 
+
+2024-12-04 17:21:18,581 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:21:18,582 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0009.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0008.png: Yes. 
+
+2024-12-04 17:21:23,345 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:21:23,346 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0011.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0009.png: Yes 
+
+2024-12-04 17:21:27,858 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:21:27,860 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0013.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0011.png: No. 
+
+2024-12-04 17:21:32,896 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:21:32,897 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0013.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0009.png: No 
+
+2024-12-04 17:21:36,722 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:21:36,723 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0013.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0008.png: Yes. 
+
+2024-12-04 17:21:42,246 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:21:42,248 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0015.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0013.png: No. 
+
+2024-12-04 17:21:46,580 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:21:46,581 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0015.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0011.png: No. 
+
+2024-12-04 17:21:50,969 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:21:50,970 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0015.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0009.png: No 
+
+2024-12-04 17:21:55,602 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:21:55,603 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0015.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0008.png: No. 
+
+2024-12-04 17:22:01,004 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:22:01,005 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0015.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0000.png: Yes. 
+
+2024-12-04 17:22:10,084 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:22:10,085 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0017.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0015.png: Yes. 
+
+2024-12-04 17:22:14,218 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:22:14,220 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0019.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0017.png: Yes. 
+
+2024-12-04 17:22:18,515 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:22:18,517 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0022.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0019.png: Yes. 
+
+2024-12-04 17:22:24,539 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:22:24,540 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0023.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0022.png: Yes 
+
+2024-12-04 17:22:31,249 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:22:31,251 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0023.png: No. 
+
+2024-12-04 17:22:35,528 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:22:35,529 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0022.png: No. 
+
+2024-12-04 17:22:38,710 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:22:38,711 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0019.png: No. 
+
+2024-12-04 17:22:43,205 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:22:43,207 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0017.png: No. 
+
+2024-12-04 17:22:47,837 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:22:47,838 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0015.png: No. 
+
+2024-12-04 17:22:53,133 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:22:53,134 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0013.png: No. 
+
+2024-12-04 17:22:56,953 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:22:56,954 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0011.png: No. 
+
+2024-12-04 17:23:00,627 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:23:00,628 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0009.png: No. 
+
+2024-12-04 17:23:06,903 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:23:06,904 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0008.png: No. 
+
+2024-12-04 17:23:12,441 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:23:12,442 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0000.png: No 
+
+2024-12-04 17:23:19,968 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:23:19,969 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0027.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png: Yes 
+
+2024-12-04 17:23:27,364 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:23:27,365 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0029.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0027.png: Yes. 
+
+2024-12-04 17:23:27,366 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 1 with 8 frames. 
+
+2024-12-04 17:23:35,624 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:23:35,625 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0003.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0001.png: Yes 
+
+2024-12-04 17:23:41,571 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:23:41,572 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0005.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0003.png: No. 
+
+2024-12-04 17:23:46,280 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:23:46,282 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0005.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0001.png: No 
+
+2024-12-04 17:23:52,078 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:23:52,079 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0006.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0005.png: Yes. 
+
+2024-12-04 17:23:58,441 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:23:58,442 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0014.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0006.png: Yes. 
+
+2024-12-04 17:24:04,838 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:24:04,839 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0016.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0014.png: Yes. 
+
+2024-12-04 17:24:09,938 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:24:09,939 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0018.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0016.png: Yes. 
+
+2024-12-04 17:24:14,704 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:24:14,705 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0020.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0018.png: Yes. 
+
+2024-12-04 17:24:14,706 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 2 with 1 frames. 
+
+2024-12-04 17:24:14,706 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 3 with 6 frames. 
+
+2024-12-04 17:24:20,033 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:24:20,034 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0006.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0005.png: Yes. 
+
+2024-12-04 17:24:25,391 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:24:25,392 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0014.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0006.png: Yes. 
+
+2024-12-04 17:24:30,526 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:24:30,528 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0016.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0014.png: Yes 
+
+2024-12-04 17:24:34,784 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:24:34,785 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0018.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0016.png: Yes. 
+
+2024-12-04 17:24:39,719 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:24:39,720 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0020.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0018.png: Yes. 
+
+2024-12-04 17:24:39,720 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 4 with 1 frames. 
+
+2024-12-04 17:24:39,720 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 5 with 2 frames. 
+
+2024-12-04 17:24:44,477 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:24:44,478 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0020.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0014.png: Yes. 
+
+2024-12-04 17:24:44,478 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 6 with 5 frames. 
+
+2024-12-04 17:24:48,711 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:24:48,713 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0023.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0021.png: Yes. 
+
+2024-12-04 17:24:53,108 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:24:53,110 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0023.png: No 
+
+2024-12-04 17:24:57,873 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:24:57,874 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0021.png: No. 
+
+2024-12-04 17:25:02,374 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:25:02,375 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0028.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0026.png: Yes 
+
+2024-12-04 17:25:08,053 - httpx - INFO - 
+HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK" 
+
+2024-12-04 17:25:08,055 - SettingClassificationCharacterAgent - INFO - 
+Answer for ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0029.png and ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0028.png: Yes. 
+
+2024-12-04 17:25:08,055 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 7 with 1 frames. 
+
+2024-12-04 17:25:08,055 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 8 with 1 frames. 
+
+2024-12-04 17:25:08,055 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 9 with 1 frames. 
+
+2024-12-04 17:25:08,055 - SettingClassificationCharacterAgent - INFO - 
+Processing person ID 10 with 1 frames. 
+
+2024-12-04 17:25:08,055 - SettingClassificationCharacterAgent - INFO - 
+Setting classification per person completed. 
+
+2024-12-04 17:35:14,806 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 0. 
+
+2024-12-04 17:35:14,899 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 1. 
+
+2024-12-04 17:35:14,996 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 2. 
+
+2024-12-04 17:35:15,100 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 3. 
+
+2024-12-04 17:35:15,131 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 4. 
+
+2024-12-04 17:35:15,226 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 5. 
+
+2024-12-04 17:35:15,329 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 6. 
+
+2024-12-04 17:35:15,361 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 7. 
+
+2024-12-04 17:35:15,457 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 8. 
+
+2024-12-04 17:35:15,554 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 9. 
+
+2024-12-04 17:35:15,579 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 10. 
+
+2024-12-04 17:35:15,677 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 11. 
+
+2024-12-04 17:35:15,705 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 12. 
+
+2024-12-04 17:35:15,811 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 13. 
+
+2024-12-04 17:35:15,908 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 14. 
+
+2024-12-04 17:35:15,992 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 15. 
+
+2024-12-04 17:35:16,095 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 16. 
+
+2024-12-04 17:35:16,181 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 17. 
+
+2024-12-04 17:35:16,280 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 18. 
+
+2024-12-04 17:35:16,367 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 19. 
+
+2024-12-04 17:35:16,478 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 20. 
+
+2024-12-04 17:35:16,574 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 21. 
+
+2024-12-04 17:35:16,660 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 22. 
+
+2024-12-04 17:35:16,748 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 23. 
+
+2024-12-04 17:35:16,784 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 24. 
+
+2024-12-04 17:35:16,891 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 25. 
+
+2024-12-04 17:35:16,985 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 26. 
+
+2024-12-04 17:35:17,089 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 27. 
+
+2024-12-04 17:35:17,188 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 28. 
+
+2024-12-04 17:35:17,284 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 29. 
+
+2024-12-04 18:15:56,799 - GlobalSettingAssignmentAgent - INFO - 
+Starting global setting assignment. 
+
+2024-12-04 18:15:56,799 - GlobalSettingAssignmentAgent - INFO - 
+Graph built with 15 nodes and 11 edges. 
+
+2024-12-04 18:15:56,800 - GlobalSettingAssignmentAgent - INFO - 
+Found 7 connected components. 
+
+2024-12-04 18:15:56,800 - GlobalSettingAssignmentAgent - INFO - 
+Global setting assignment completed. 
+
+2024-12-04 18:21:28,681 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 0. 
+
+2024-12-04 18:21:28,775 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 1. 
+
+2024-12-04 18:21:28,874 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 2. 
+
+2024-12-04 18:21:28,980 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 3. 
+
+2024-12-04 18:21:29,012 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 4. 
+
+2024-12-04 18:21:29,107 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 5. 
+
+2024-12-04 18:21:29,212 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 6. 
+
+2024-12-04 18:21:29,243 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 7. 
+
+2024-12-04 18:21:29,340 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 8. 
+
+2024-12-04 18:21:29,438 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 9. 
+
+2024-12-04 18:21:29,464 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 10. 
+
+2024-12-04 18:21:29,563 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 11. 
+
+2024-12-04 18:21:29,592 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 12. 
+
+2024-12-04 18:21:29,699 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 13. 
+
+2024-12-04 18:21:29,797 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 14. 
+
+2024-12-04 18:21:29,882 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 15. 
+
+2024-12-04 18:21:29,987 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 16. 
+
+2024-12-04 18:21:30,075 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 17. 
+
+2024-12-04 18:21:30,176 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 18. 
+
+2024-12-04 18:21:30,263 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 19. 
+
+2024-12-04 18:21:30,376 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 20. 
+
+2024-12-04 18:21:30,473 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 21. 
+
+2024-12-04 18:21:30,560 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 22. 
+
+2024-12-04 18:21:30,650 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 23. 
+
+2024-12-04 18:21:30,687 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 24. 
+
+2024-12-04 18:21:30,794 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 25. 
+
+2024-12-04 18:21:30,889 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 26. 
+
+2024-12-04 18:21:30,993 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 27. 
+
+2024-12-04 18:21:31,091 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 28. 
+
+2024-12-04 18:21:31,188 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 29. 
+
+2024-12-04 18:23:20,669 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 0. 
+
+2024-12-04 18:23:20,763 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 1. 
+
+2024-12-04 18:23:20,861 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 2. 
+
+2024-12-04 18:23:20,967 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 3. 
+
+2024-12-04 18:23:21,060 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 4. 
+
+2024-12-04 18:23:21,154 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 5. 
+
+2024-12-04 18:23:21,258 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 6. 
+
+2024-12-04 18:23:21,353 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 7. 
+
+2024-12-04 18:23:21,449 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 8. 
+
+2024-12-04 18:23:21,547 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 9. 
+
+2024-12-04 18:23:21,619 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 10. 
+
+2024-12-04 18:23:21,718 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 11. 
+
+2024-12-04 18:23:21,799 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 12. 
+
+2024-12-04 18:23:21,907 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 13. 
+
+2024-12-04 18:23:22,004 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 14. 
+
+2024-12-04 18:23:22,088 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 15. 
+
+2024-12-04 18:23:22,192 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 16. 
+
+2024-12-04 18:23:22,278 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 17. 
+
+2024-12-04 18:23:22,378 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 18. 
+
+2024-12-04 18:23:22,464 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 19. 
+
+2024-12-04 18:23:22,575 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 20. 
+
+2024-12-04 18:23:22,672 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 21. 
+
+2024-12-04 18:23:22,757 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 22. 
+
+2024-12-04 18:23:22,845 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 23. 
+
+2024-12-04 18:23:22,958 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 24. 
+
+2024-12-04 18:23:23,065 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 25. 
+
+2024-12-04 18:23:23,158 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 26. 
+
+2024-12-04 18:23:23,261 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 27. 
+
+2024-12-04 18:23:23,358 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 28. 
+
+2024-12-04 18:23:23,453 - __main__ - INFO - 
+Completed 'put_text_frames()' for Scene 29. 
+

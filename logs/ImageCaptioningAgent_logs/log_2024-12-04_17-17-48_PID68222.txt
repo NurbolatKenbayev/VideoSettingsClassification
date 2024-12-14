@@ -1,0 +1,18 @@
+2024-12-04 17:17:48,743 - process_68222 - INFO - 
+Generating captions for Scene 4 with 1 frames. 
+
+2024-12-04 17:17:53,584 - process_68222 - INFO - 
+Generated caption for frame ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0004.png 
+
+2024-12-04 17:17:53,584 - process_68222 - INFO - 
+Completed caption generation for Scene 4. 
+
+2024-12-04 17:17:53,585 - process_68222 - INFO - 
+Generating captions for Scene 21 with 1 frames. 
+
+2024-12-04 17:18:02,766 - process_68222 - INFO - 
+Generated caption for frame ./loaded_data/Annabelle Comes Home (2019) [BluRay] [1080p] [YTS.LT]/3/0021.png 
+
+2024-12-04 17:18:02,766 - process_68222 - INFO - 
+Completed caption generation for Scene 21. 
+

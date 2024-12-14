@@ -70,18 +70,9 @@ def put_text_one_frame(frame, text, font_scale=1.0, thickness=2):
 
 
 def put_text_frames(
-    scenes, visualization_type, text_type, logger, font_scale=1.0, thickness=2
+    scenes, visualization_type, text_type, logger, save_dir, font_scale=1.0, thickness=2
 ):
-    if visualization_type == "faces":
-        os.makedirs(f"./frames_{text_type}", exist_ok=True)
-    elif visualization_type == "text_global_setting_ID":
-        os.makedirs("./frames_global_setting_ID", exist_ok=True)
-    elif visualization_type == "text_global_setting_name":
-        os.makedirs("./frames_global_setting_name", exist_ok=True)
-    else:
-        raise ValueError(
-            f"visualization_type = '{visualization_type}' is not implemented for put_text_frames()."
-        )
+    os.makedirs(save_dir, exist_ok=True)
 
     for scene in scenes:
         scene_number = scene["cut_scene_number"]
@@ -94,6 +85,9 @@ def put_text_frames(
 
         for frame_metadata in frames_metadata:
             frame = cv2.imread(frame_metadata["frame_path"])
+            annotated_frame_path = os.path.join(
+                save_dir, frame_metadata["frame_path"].split("/")[-1]
+            )
 
             if visualization_type == "faces":
                 faces = frame_metadata.get("faces", [])
@@ -106,9 +100,6 @@ def put_text_frames(
                     text_type=text_type,
                     font_scale=font_scale,
                     thickness=thickness,
-                )
-                annotated_frame_path = frame_metadata["frame_path"].replace(
-                    "frames/", f"frames_{text_type}/"
                 )
                 cv2.imwrite(annotated_frame_path, frame)  # Save the annotated frame
 
@@ -125,9 +116,6 @@ def put_text_frames(
                     text=global_setting_ID,
                     font_scale=font_scale,
                     thickness=thickness,
-                )
-                annotated_frame_path = frame_metadata["frame_path"].replace(
-                    "frames/", "frames_global_setting_ID/"
                 )
                 cv2.imwrite(annotated_frame_path, frame)  # Save the annotated frame
 
@@ -150,9 +138,6 @@ def put_text_frames(
                     text=global_setting_ID + ": " + global_setting_name,
                     font_scale=font_scale,
                     thickness=thickness,
-                )
-                annotated_frame_path = frame_metadata["frame_path"].replace(
-                    "frames/", "frames_global_setting_name/"
                 )
                 cv2.imwrite(annotated_frame_path, frame)  # Save the annotated frame
 
